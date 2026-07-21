@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import (
@@ -21,11 +22,23 @@ df = pd.read_csv("Churn.csv")
 #print(df.drop_duplicates)
 #print(df.dropna())
 #print(df.isnull())
+#print(df.value_counts())
 
-x= df["gender"]
-y= df["SeniorCitizen"]
-plt.bar(x.index,y.value_counts, color = "blue")
+sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
 plt.xlabel("gender")
-plt.ylabel("Seniorcitizens")
-plt.title("Churn Data Collections")
+plt.show()
+
+sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
+plt.show()
+
+sns.countplot(x="Contract", data=df, color="green",
+                                            edgecolor="black")
+plt.show()
+
+sns.boxplot(x="Churn", y="MonthlyCharges", data=df)
+plt.title("Monthly Charges by Churn")
+plt.show()
+
+
+sns.pairplot(df[["tenure", "MonthlyCharges", "TotalCharges", "Churn"]])
 plt.show()
