@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.linear_model import LogisticRegression
+from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import (
     accuracy_score,
@@ -30,7 +31,7 @@ df["Churn"] = df["Churn"].map({
     "Yes": 1
 })
 
-print("Churn")
+#print(df["Churn"])
 
 df["Contract"] = df["Contract"].map({
     "Month-to-month": 0,
@@ -46,7 +47,7 @@ df["InternetService"] = df["InternetService"].map({
     "Fiber optic": 1,
     "No": 2
 })
-print(df["InternetService"])
+#print(df["InternetService"])
 
 df["PaymentMethod"] = df["PaymentMethod"].map({
     "Electronic check" : 0,
@@ -54,15 +55,22 @@ df["PaymentMethod"] = df["PaymentMethod"].map({
    "Credit card (automatic)": 2,
     "Mailed check": 3
 })
-print(df["PaymentMethod"])
+#print(df["PaymentMethod"])
 
-df["InternetService"] = df["InternetService"].map({
-    "DSL" : 0,
-    "Fiber optic": 1,
-    "No": 2
+
+df["DeviceProtection"] = df["DeviceProtection"].map({
+    "Yes": 0,
+    "No": 1
 })
-print(df["InternetService"])
+#print(df["DeviceProtection"])
 
+df["TotalCharges"] = pd.to_numeric(
+    df["TotalCharges"], errors= "coerce"
+)
+
+scalar = StandardScaler()
+df["TotalCharges"] = scalar.fit_transform(df[["TotalCharges"]])
+print(df["TotalCharges"])
 
 
 
@@ -73,9 +81,15 @@ print(df["InternetService"])
 #sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
 #plt.show()
 
-sns.countplot(x="PaymentMethod", data=df, color="green",
-                                            edgecolor="black")
-plt.show()
+
+#sns.countplot(x="InternetService", data=df, color="Orange",
+#                                            edgecolor="black")
+#plt.show()
+
+#sns.countplot(x="DeviceProtection", data=df, color="SkyBlue",
+#                                            edgecolor="black")
+#plt.show()
+
 
 #sns.boxplot(x="Churn", y="MonthlyCharges", data=df)
 #plt.title("Monthly Charges by Churn")
