@@ -17,7 +17,7 @@ from sklearn.metrics import (
 df = pd.read_csv("Churn.csv")
 
 df = df.drop("customerID", axis=1)
-print(df)
+#print(df)
 
 #print(df.head(5))
 #print(df.shape)
@@ -67,6 +67,12 @@ df["DeviceProtection"] = df["DeviceProtection"].map({
 })
 #print(df["DeviceProtection"])
 
+df["OnlineSecurity"] = df["OnlineSecurity"].map({
+    "Yes": 0,
+    "No": 1
+})
+#print(df["OnlineSecurity"])
+
 df["TotalCharges"] = pd.to_numeric(
     df["TotalCharges"], errors= "coerce"
 )
@@ -75,10 +81,26 @@ df["TotalCharges"] = pd.to_numeric(
 df["TotalCharges"] = df["TotalCharges"].fillna(df["TotalCharges"].median())
 #print(df["TotalCharges"])
 
-scalar = StandardScaler()
-df["TotalCharges"] = scalar.fit_transform(df[["TotalCharges"]])
-#print(df["TotalCharges"])
 
+x = df[["tenure",
+        "Contract",
+        "MonthlyCharges",
+        "TotalCharges",
+        "InternetService",
+        "OnlineSecurity",
+        "PaymentMethod"]]
+
+y = df["Churn"]
+
+x_train , x_test , y_train, y_test = train_test_split(
+    x,y, test_size=0.2 , random_state=42
+)
+
+model = LogisticRegression()
+model.fit(x_train, y_train)
+y_pred = model.predict(x_test)
+
+print("Accuracy Score: ", accuracy_score(y_test, y_pred))
 
 #sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
 #plt.xlabel("gender")
