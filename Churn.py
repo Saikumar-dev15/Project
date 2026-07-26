@@ -16,6 +16,9 @@ from sklearn.metrics import (
 
 df = pd.read_csv("Churn.csv")
 
+df = df.drop("customerID", axis=1)
+print(df)
+
 #print(df.head(5))
 #print(df.shape)
 #print(df.columns)
@@ -68,10 +71,13 @@ df["TotalCharges"] = pd.to_numeric(
     df["TotalCharges"], errors= "coerce"
 )
 
+
+df["TotalCharges"] = df["TotalCharges"].fillna(df["TotalCharges"].median())
+#print(df["TotalCharges"])
+
 scalar = StandardScaler()
 df["TotalCharges"] = scalar.fit_transform(df[["TotalCharges"]])
-print(df["TotalCharges"])
-
+#print(df["TotalCharges"])
 
 
 #sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
