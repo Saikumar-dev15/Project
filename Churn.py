@@ -69,17 +69,21 @@ df["DeviceProtection"] = df["DeviceProtection"].map({
 
 df["OnlineSecurity"] = df["OnlineSecurity"].map({
     "Yes": 0,
-    "No": 1
+    "No": 1,
+    "No internet service" : 2
 })
 #print(df["OnlineSecurity"])
 
-df["TotalCharges"] = pd.to_numeric(
-    df["TotalCharges"], errors= "coerce"
+df["TotalCharges"] = pd.to_numeric(                         #to convert into int numerical because median works only in numerical values are present
+    df["TotalCharges"],
+    errors="coerce"
+)
+
+df["TotalCharges"] = df["TotalCharges"].fillna(
+    df["TotalCharges"].median()                             
 )
 
 
-df["TotalCharges"] = df["TotalCharges"].fillna(df["TotalCharges"].median())
-#print(df["TotalCharges"])
 
 
 x = df[["tenure",
@@ -87,7 +91,6 @@ x = df[["tenure",
         "MonthlyCharges",
         "TotalCharges",
         "InternetService",
-        "OnlineSecurity",
         "PaymentMethod"]]
 
 y = df["Churn"]
@@ -96,7 +99,23 @@ x_train , x_test , y_train, y_test = train_test_split(
     x,y, test_size=0.2 , random_state=42
 )
 
-model = LogisticRegression()
+
+print("NaN in x_train:", np.isnan(x_train).sum())
+print("NaN in x_test:", np.isnan(x_test).sum())
+
+print("Infinity in x_train:", np.isinf(x_train).sum())
+print("Infinity in x_test:", np.isinf(x_test).sum())
+
+x_train = np.nan_to_num(x_train,
+                        nan=0.0,
+                        posinf=0.0,
+                        neginf=0.0)
+
+x_test = np.nan_to_num(x_test , nan=0.0,
+                       posinf=0.0,
+                       neginf=0.0)
+
+model = LogisticRegression(max_iter=1000)
 model.fit(x_train, y_train)
 y_pred = model.predict(x_test)
 
