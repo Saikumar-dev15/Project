@@ -100,11 +100,11 @@ x_train , x_test , y_train, y_test = train_test_split(
 )
 
 
-print("NaN in x_train:", np.isnan(x_train).sum())
-print("NaN in x_test:", np.isnan(x_test).sum())
+#print("NaN in x_train:", np.isnan(x_train).sum())
+#print("NaN in x_test:", np.isnan(x_test).sum())
 
-print("Infinity in x_train:", np.isinf(x_train).sum())
-print("Infinity in x_test:", np.isinf(x_test).sum())
+#print("Infinity in x_train:", np.isinf(x_train).sum())
+#print("Infinity in x_test:", np.isinf(x_test).sum())
 
 x_train = np.nan_to_num(x_train,
                         nan=0.0,
@@ -120,6 +120,13 @@ model.fit(x_train, y_train)
 y_pred = model.predict(x_test)
 
 print("Accuracy Score: ", accuracy_score(y_test, y_pred))
+print(f"Precision Score: {precision_score(y_test, y_pred)}")
+print("Recall Score: ", recall_score(y_test, y_pred))
+print("f1 Score: ", f1_score(y_test, y_pred))
+print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
+print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
+
+
 
 #sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
 #plt.xlabel("gender")
