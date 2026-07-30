@@ -3,7 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import (
     accuracy_score,
@@ -13,6 +14,8 @@ from sklearn.metrics import (
     confusion_matrix,
     roc_auc_score
 )
+
+
 
 df = pd.read_csv("Churn.csv")
 
@@ -36,43 +39,7 @@ df["Churn"] = df["Churn"].map({
 
 #print(df["Churn"])
 
-df["Contract"] = df["Contract"].map({
-    "Month-to-month": 0,
-    "One year": 1,
-    "Two year": 2
-})
 
-#print(df["Contract"])
-
-
-df["InternetService"] = df["InternetService"].map({
-    "DSL" : 0,
-    "Fiber optic": 1,
-    "No": 2
-})
-#print(df["InternetService"])
-
-df["PaymentMethod"] = df["PaymentMethod"].map({
-    "Electronic check" : 0,
-   "Bank transfer (automatic)": 1,
-   "Credit card (automatic)": 2,
-    "Mailed check": 3
-})
-#print(df["PaymentMethod"])
-
-
-df["DeviceProtection"] = df["DeviceProtection"].map({
-    "Yes": 0,
-    "No": 1
-})
-#print(df["DeviceProtection"])
-
-df["OnlineSecurity"] = df["OnlineSecurity"].map({
-    "Yes": 0,
-    "No": 1,
-    "No internet service" : 2
-})
-#print(df["OnlineSecurity"])
 
 df["TotalCharges"] = pd.to_numeric(                         #to convert into int numerical because median works only in numerical values are present
     df["TotalCharges"],
@@ -83,21 +50,46 @@ df["TotalCharges"] = df["TotalCharges"].fillna(
     df["TotalCharges"].median()                             
 )
 
+#Preprocessing
+cat_columns =[ "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents",
+    "PhoneService",
+    "MultipleLines",
+    "InternetService",
+    "OnlineSecurity",
+    "OnlineBackup",
+    "DeviceProtection",
+    "TechSupport",
+    "StreamingTV",
+    "StreamingMovies",
+    "Contract",
+    "PaperlessBilling",
+    "PaymentMethod"
+]
 
+num_columns = ["tenure", "MonthlyCharges", "TotalCharges"]
 
-
-x = df[["tenure",
-        "Contract",
-        "MonthlyCharges",
-        "TotalCharges",
-        "InternetService",
-        "PaymentMethod"]]
-
+x = df.drop("Churn", axis=1)
 y = df["Churn"]
+
+preprocessor = ColumnTransformer(
+    transformers=[
+        ("num", StandardScaler(), num_columns),
+        ("cat", OneHotEncoder(drop="first", handle_unknown="ignore"), cat_columns)
+    ]
+)
 
 x_train , x_test , y_train, y_test = train_test_split(
     x,y, test_size=0.2 , random_state=42
 )
+
+X_train = preprocessor.fit_transform(x_train)
+X_test = preprocessor.transform(x_test)
+
+#print(f"X_Trained from Preprocessor: {X_train}")
+#print(f"X_Tested from Preprocessor: {X_test}")
 
 
 #print("NaN in x_train:", np.isnan(x_train).sum())
@@ -106,24 +98,24 @@ x_train , x_test , y_train, y_test = train_test_split(
 #print("Infinity in x_train:", np.isinf(x_train).sum())
 #print("Infinity in x_test:", np.isinf(x_test).sum())
 
-x_train = np.nan_to_num(x_train,
+X_train = np.nan_to_num(X_train,
                         nan=0.0,
                         posinf=0.0,
                         neginf=0.0)
 
-x_test = np.nan_to_num(x_test , nan=0.0,
+X_test = np.nan_to_num(X_test , nan=0.0,
                        posinf=0.0,
                        neginf=0.0)
 
-model = LogisticRegression(max_iter=1000)
-model.fit(x_train, y_train)
-y_pred = model.predict(x_test)
+model = LogisticRegression( class_weight="balanced",max_iter=1000)
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
 
+print("Recall Score: ", recall_score(y_test, y_pred))
+print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
 print("Accuracy Score: ", accuracy_score(y_test, y_pred))
 print(f"Precision Score: {precision_score(y_test, y_pred)}")
-print("Recall Score: ", recall_score(y_test, y_pred))
 print("f1 Score: ", f1_score(y_test, y_pred))
-print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
 print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 
