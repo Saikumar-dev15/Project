@@ -127,10 +127,65 @@ print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 #Numpy Logistic Regression
 
+class LogisticRegressionNumpy:
+    
+    def __init__(self, lr=0.01, epochs=1000):
+        self.lr = lr
+        self.epochs = epochs
+        
+    
+    def sigmoid(self, z):
+        return 1/(1+np.exp(-z))
+    
+    def fit(self, x,y):
+        
+        x = np.array(x)
+        y = np.array(y)
+        
+        samples, features = x.shape
 
+        self.weights = np.zeros(features)
+        self.bias = 0
+        
+        for i in range(self.epochs):
+            linear = np.dot(x,self.weights)+ self.bias
+            
+            predicition = self.sigmoid(linear)
+            
+            dw = (1/samples)*np.dot(x.T,(predicition - y))
+            db = (1/samples)*np.sum(predicition-y)
+            
+            self.weights -= self.lr*dw
+            self.bias  -= self.lr*db
+            
+    def predict_probability(self, x):
+        linear = np.dot(x,self.weights)+ self.bias
+        return self.sigmoid(linear)
+    
+    def predict(self,x):
+        prob = self.predict_probability(x)
+        return np.where(prob>=0.5,1,0)  
+    
 
+start_num = time.time()
 
+scratch = LogisticRegressionNumpy(lr= 0.01, epochs=1000)
 
+scratch.fit(X_train, y_train)
+np_pred = scratch.predict(X_test) 
+
+end_num = time.time()
+
+np_time = end_num - start_num
+        
+
+print("Accuracy of Numpy Logistic:",accuracy_score(y_test,np_pred))
+print("Precision Score of Numpy Logistic:",precision_score(y_test,np_pred))
+print("Recall Score of Numpy Logistic  :",recall_score(y_test,np_pred))
+print("F1 Score Score of Numpy Logistic:",f1_score(y_test,np_pred))
+print("ROC AUC  Score of Numpy Logistic:",roc_auc_score(y_test,np_pred))
+print("Confusion matrix :", confusion_matrix(y_test, np_pred))
+print("Training Time:",np_time)
 
 #sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
 #plt.xlabel("gender")
