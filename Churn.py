@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import time 
 from sklearn.linear_model import LogisticRegression
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
@@ -107,9 +108,14 @@ X_test = np.nan_to_num(X_test , nan=0.0,
                        posinf=0.0,
                        neginf=0.0)
 
+start = time.time()
 model = LogisticRegression( class_weight="balanced",max_iter=1000)
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
+end = time.time()
+
+sk_time = end - start
+print(f"Time to Predict Sk Logestic Model: {sk_time}")
 
 print("Recall Score: ", recall_score(y_test, y_pred))
 print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
@@ -117,6 +123,12 @@ print("Accuracy Score: ", accuracy_score(y_test, y_pred))
 print(f"Precision Score: {precision_score(y_test, y_pred)}")
 print("f1 Score: ", f1_score(y_test, y_pred))
 print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
+
+
+#Numpy Logistic Regression
+
+
+
 
 
 
