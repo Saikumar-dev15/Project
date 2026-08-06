@@ -152,11 +152,20 @@ class LogisticRegressionNumpy:
             
             predicition = self.sigmoid(linear)
             
+            prediction = np.clip(predicition, 1e-15, 1-1e-15)
+            
+            loss = -(1/samples) * np.sum(
+                y*np.log(prediction) + (1-y)* np.log(1- prediction)
+            )
+            
             dw = (1/samples)*np.dot(x.T,(predicition - y))
             db = (1/samples)*np.sum(predicition-y)
             
             self.weights -= self.lr*dw
             self.bias  -= self.lr*db
+            
+            if i %100 ==0:
+                print(f"Epoch {i}: Loss = {loss:.4f}")
             
     def predict_probability(self, x):
         linear = np.dot(x,self.weights)+ self.bias
@@ -187,27 +196,22 @@ print("ROC AUC  Score of Numpy Logistic:",roc_auc_score(y_test,np_pred))
 print("Confusion matrix :", confusion_matrix(y_test, np_pred))
 print("Training Time:",np_time)
 
-#sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
-#plt.xlabel("gender")
+sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
+plt.xlabel("gender")
 #plt.show()
 
-#sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
-#plt.show()
-
-
-#sns.countplot(x="InternetService", data=df, color="Orange",
-#                                            edgecolor="black")
-#plt.show()
-
-#sns.countplot(x="DeviceProtection", data=df, color="SkyBlue",
-#                                            edgecolor="black")
+sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
 #plt.show()
 
 
-#sns.boxplot(x="Churn", y="MonthlyCharges", data=df)
-#plt.title("Monthly Charges by Churn")
+sns.countplot(x="InternetService", data=df, color="Orange",
+                                            edgecolor="black")
+#plt.show()
+
+sns.countplot(x="DeviceProtection", data=df, color="SkyBlue",
+                                            edgecolor="black")
 #plt.show()
 
 
-#sns.pairplot(df[["tenure", "MonthlyCharges", "TotalCharges", "Churn"]])
+sns.pairplot(df[["tenure", "MonthlyCharges", "TotalCharges", "Churn"]])
 #plt.show()
