@@ -13,7 +13,9 @@ from sklearn.metrics import (
     recall_score,
     f1_score,
     confusion_matrix,
-    roc_auc_score
+    roc_auc_score,
+    precision_recall_curve,
+    roc_curve
 )
 
 
@@ -122,6 +124,8 @@ print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
 print("Accuracy Score: ", accuracy_score(y_test, y_pred))
 print(f"Precision Score: {precision_score(y_test, y_pred)}")
 print("f1 Score: ", f1_score(y_test, y_pred))
+print(f"Precision Recall Curve: {precision_recall_curve(y_test, y_pred)}")
+print(f"Roc Curve: {roc_curve(y_test, y_pred)}")
 print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 
@@ -129,7 +133,7 @@ print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 class LogisticRegressionNumpy:
     
-    def __init__(self, lr=0.01, epochs=1000):
+    def __init__(self, lr=0.01, epochs=2000):
         self.lr = lr
         self.epochs = epochs
         
@@ -178,7 +182,7 @@ class LogisticRegressionNumpy:
 
 start_num = time.time()
 
-scratch = LogisticRegressionNumpy(lr= 0.01, epochs=1000)
+scratch = LogisticRegressionNumpy(lr= 0.01, epochs=2000)
 
 scratch.fit(X_train, y_train)
 np_pred = scratch.predict(X_test) 
@@ -188,13 +192,15 @@ end_num = time.time()
 np_time = end_num - start_num
         
 
+print("Training Time Taken by Numpy Logistic:",np_time)
 print("Accuracy of Numpy Logistic:",accuracy_score(y_test,np_pred))
 print("Precision Score of Numpy Logistic:",precision_score(y_test,np_pred))
 print("Recall Score of Numpy Logistic  :",recall_score(y_test,np_pred))
 print("F1 Score Score of Numpy Logistic:",f1_score(y_test,np_pred))
 print("ROC AUC  Score of Numpy Logistic:",roc_auc_score(y_test,np_pred))
+print(f"Precision Recall Curve: {precision_recall_curve(y_test, np_pred)}")
+print(f"Roc Curve: {roc_curve(y_test, np_pred)}")
 print("Confusion matrix :", confusion_matrix(y_test, np_pred))
-print("Training Time:",np_time)
 
 sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
 plt.xlabel("gender")
