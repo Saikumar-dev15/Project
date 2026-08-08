@@ -203,24 +203,28 @@ print(f"Precision Recall Curve: {precision_recall_curve(y_test, np_pred)}")
 print(f"Roc Curve: {roc_curve(y_test, np_pred)}")
 print("Confusion matrix :", confusion_matrix(y_test, np_pred))
 
-sns.histplot(data= df, x="gender" ,color = "blue", multiple="stack")
-plt.xlabel("gender")
+sns.histplot(data= df, x="gender" ,color = "#87cbf5", multiple="stack")
+plt.title("Category Based Members")
+plt.xlabel("Gender")
+plt.ylabel("Total")
 #plt.show()
 
 sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
+plt.title("CHURN")
 #plt.show()
 
 
-sns.countplot(x="InternetService", data=df, color="Orange",
+sns.countplot(x="InternetService", data=df, color="#edb940",
                                             edgecolor="black")
+plt.title("INTERNET SERVICE")
+plt.xlabel("Services")
+plt.ylabel("Total")
 #plt.show()
 
-sns.countplot(x="DeviceProtection", data=df, color="SkyBlue",
+sns.countplot(x="DeviceProtection", data=df, color="#f4ec57e8",
                                             edgecolor="black")
-#plt.show()
-
-
-sns.pairplot(df[["tenure", "MonthlyCharges", "TotalCharges", "Churn"]])
+plt.title("DEVICE PROTECTION")
+plt.xlabel("Devices")
 #plt.show()
 
 
@@ -262,3 +266,9 @@ print(f"Test Recall score of Tuned Model: {recall_score(y_test, y_pred_Grid)}")
 print(f"Test F1 score of Tuned Model: {f1_score(y_test, y_pred_Grid)}")
 print(f"Test Roc Curve of Tuned Model: {roc_curve(y_test, y_pred_Grid)}")
 print(f"Test Roc AUC Score of Tuned Model: {roc_auc_score(y_test, y_pred_Grid)}")
+
+corr = df.corr(numeric_only=True)
+print(corr)
+
+sns.heatmap(corr, annot=True)
+plt.show()
