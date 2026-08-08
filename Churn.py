@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import time 
 from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import GridSearchCV
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.model_selection import train_test_split
@@ -221,3 +222,43 @@ sns.countplot(x="DeviceProtection", data=df, color="SkyBlue",
 
 sns.pairplot(df[["tenure", "MonthlyCharges", "TotalCharges", "Churn"]])
 #plt.show()
+
+
+#Hyperparameter
+start_grid = time.time()
+model_1 = LogisticRegression(random_state=42)
+
+param_grid = {
+    'C' : [0.01, 0.1, 1, 10, 100],
+    'solver': ['lbfgs', 'liblinear']
+}
+
+grid = GridSearchCV(
+    estimator = model_1,
+    param_grid =param_grid,
+    cv= 5,
+    scoring = 'accuracy'
+)
+
+
+grid.fit(X_train, y_train)
+
+grid_model = grid.predict(X_test)
+
+print("Best Parameters: ", grid.best_params_)
+print("Best Accuracy: ", grid.best_score_)
+
+best_model = grid.best_estimator_
+
+y_pred_Grid = best_model.predict(X_test)
+end_grid = time.time()
+
+time_grid = end_grid - start_grid
+
+print(f"Time take by the Grid model: {time_grid}")
+print(f"Test Accuracy score of Tuned Model: {accuracy_score(y_test, y_pred_Grid)}")
+print(f"Test Precision score of Tuned Model: {precision_score(y_test, y_pred_Grid)}")
+print(f"Test Recall score of Tuned Model: {recall_score(y_test, y_pred_Grid)}")
+print(f"Test F1 score of Tuned Model: {f1_score(y_test, y_pred_Grid)}")
+print(f"Test Roc Curve of Tuned Model: {roc_curve(y_test, y_pred_Grid)}")
+print(f"Test Roc AUC Score of Tuned Model: {roc_auc_score(y_test, y_pred_Grid)}")
