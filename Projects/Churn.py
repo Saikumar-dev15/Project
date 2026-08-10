@@ -21,7 +21,7 @@ from sklearn.metrics import (
 
 
 
-df = pd.read_csv("Churn.csv")
+df = pd.read_csv("Projects/Churn.csv")
 
 df = df.drop("customerID", axis=1)
 #print(df)
