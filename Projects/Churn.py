@@ -16,7 +16,8 @@ from sklearn.metrics import (
     confusion_matrix,
     roc_auc_score,
     precision_recall_curve,
-    roc_curve
+    roc_curve,
+    average_precision_score
 )
 
 
@@ -115,18 +116,19 @@ start = time.time()
 model = LogisticRegression( class_weight="balanced",max_iter=1000)
 model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
+y_prob_sk = model.predict_proba(X_test)[:,1]
 end = time.time()
 
 sk_time = end - start
 print(f"Time to Predict Sk Logestic Model: {sk_time}")
 
 print("Recall Score: ", recall_score(y_test, y_pred))
-print("Roc Aug Score: ", roc_auc_score(y_test, y_pred))
+print("Roc Aug Score: ", roc_auc_score(y_test, y_prob_sk))
 print("Accuracy Score: ", accuracy_score(y_test, y_pred))
 print(f"Precision Score: {precision_score(y_test, y_pred)}")
 print("f1 Score: ", f1_score(y_test, y_pred))
 print(f"Precision Recall Curve: {precision_recall_curve(y_test, y_pred)}")
-print(f"Roc Curve: {roc_curve(y_test, y_pred)}")
+print(f"PR- AUC Score: {average_precision_score(y_test, y_prob_sk)}")
 print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 
@@ -134,42 +136,57 @@ print("Confusion Matrix: ", confusion_matrix(y_test, y_pred))
 
 class LogisticRegressionNumpy:
     
-    def __init__(self, lr=0.01, epochs=2000):
+    def __init__(self, lr=0.01, epochs=2000, class_weight=None):
         self.lr = lr
         self.epochs = epochs
-        
+        self.class_weight = class_weight        
     
     def sigmoid(self, z):
-        return 1/(1+np.exp(-z))
+        return np.where(z>=0 , 1/(1+np.exp(-np.abs(z))), np.exp(-np.abs(z))/(1+np.exp(-np.abs(z))))
+    
     
     def fit(self, x,y):
         
-        x = np.array(x)
-        y = np.array(y)
+        x = np.array(x , dtype=float)
+        y = np.array(y , dtype=float)
         
         samples, features = x.shape
 
         self.weights = np.zeros(features)
         self.bias = 0
+        self.loss_history = []
+        
+        if self.class_weight == "balanced":
+            n_pos = y.sum()
+            n_neg = samples - n_pos
+            sw = np.where(y ==1, samples/(2* n_pos), samples/(2*n_neg))
+            
+        else:
+            sw = np.ones(samples)
+        sw_sum = sw.sum()
+        
         
         for i in range(self.epochs):
             linear = np.dot(x,self.weights)+ self.bias
             
             predicition = self.sigmoid(linear)
             
-            prediction = np.clip(predicition, 1e-15, 1-1e-15)
+            p_safe = np.clip(predicition, 1e-15, 1-1e-15)
             
-            loss = -(1/samples) * np.sum(
-                y*np.log(prediction) + (1-y)* np.log(1- prediction)
-            )
+            loss = -np.sum(
+                sw*(y*np.log(p_safe) + (1-y)* np.log(1-p_safe))
+            )/ sw_sum 
             
-            dw = (1/samples)*np.dot(x.T,(predicition - y))
-            db = (1/samples)*np.sum(predicition-y)
+            self.loss_history.append(loss)
+            
+            error = sw * (predicition - y)                         # Weighted residual
+            dw = np.dot(x.T , error)/ sw_sum
+            db = np.sum(error)/ sw_sum
             
             self.weights -= self.lr*dw
             self.bias  -= self.lr*db
             
-            if i %100 ==0:
+            if i %500 ==0:
                 print(f"Epoch {i}: Loss = {loss:.4f}")
             
     def predict_probability(self, x):
@@ -189,7 +206,7 @@ scratch.fit(X_train, y_train)
 np_pred = scratch.predict(X_test) 
 
 end_num = time.time()
-
+np_pred_prob = scratch.predict_probability(X_test)
 np_time = end_num - start_num
         
 
@@ -198,20 +215,20 @@ print("Accuracy of Numpy Logistic:",accuracy_score(y_test,np_pred))
 print("Precision Score of Numpy Logistic:",precision_score(y_test,np_pred))
 print("Recall Score of Numpy Logistic  :",recall_score(y_test,np_pred))
 print("F1 Score Score of Numpy Logistic:",f1_score(y_test,np_pred))
-print("ROC AUC  Score of Numpy Logistic:",roc_auc_score(y_test,np_pred))
+print("ROC AUC  Score of Numpy Logistic:",roc_auc_score(y_test,np_pred_prob))
 print(f"Precision Recall Curve: {precision_recall_curve(y_test, np_pred)}")
-print(f"Roc Curve: {roc_curve(y_test, np_pred)}")
+print(f"PR- AUC of Numpy Logistic: {average_precision_score(y_test, np_pred_prob)}")
 print("Confusion matrix :", confusion_matrix(y_test, np_pred))
 
 sns.histplot(data= df, x="gender" ,color = "#87cbf5", multiple="stack")
 plt.title("Category Based Members")
 plt.xlabel("Gender")
 plt.ylabel("Total")
-#plt.show()
+plt.show()
 
 sns.countplot( x="Churn",data=df,  hue="Churn", palette="Set2")
 plt.title("CHURN")
-#plt.show()
+plt.show()
 
 
 sns.countplot(x="InternetService", data=df, color="#edb940",
@@ -219,13 +236,13 @@ sns.countplot(x="InternetService", data=df, color="#edb940",
 plt.title("INTERNET SERVICE")
 plt.xlabel("Services")
 plt.ylabel("Total")
-#plt.show()
+plt.show()
 
-sns.countplot(x="DeviceProtection", data=df, color="#f4ec57e8",
+sns.countplot(x="DeviceProtection", data=df, color="#92f467e8",
                                             edgecolor="black")
 plt.title("DEVICE PROTECTION")
 plt.xlabel("Devices")
-#plt.show()
+plt.show()
 
 
 #Hyperparameter
