@@ -251,14 +251,15 @@ model_1 = LogisticRegression(random_state=42)
 
 param_grid = {
     'C' : [0.01, 0.1, 1, 10, 100],
-    'solver': ['lbfgs', 'liblinear']
+    'solver': ['lbfgs', 'liblinear'],
+    'class_weight' : [None, 'balanced']
 }
 
 grid = GridSearchCV(
     estimator = model_1,
     param_grid =param_grid,
     cv= 5,
-    scoring = 'accuracy'
+    scoring = 'f1'
 )
 
 
@@ -272,6 +273,7 @@ print("Best Accuracy: ", grid.best_score_)
 best_model = grid.best_estimator_
 
 y_pred_Grid = best_model.predict(X_test)
+y_pred_prob_grid = best_model.predict_proba(X_test)[:,1]
 end_grid = time.time()
 
 time_grid = end_grid - start_grid
@@ -281,8 +283,8 @@ print(f"Test Accuracy score of Tuned Model: {accuracy_score(y_test, y_pred_Grid)
 print(f"Test Precision score of Tuned Model: {precision_score(y_test, y_pred_Grid)}")
 print(f"Test Recall score of Tuned Model: {recall_score(y_test, y_pred_Grid)}")
 print(f"Test F1 score of Tuned Model: {f1_score(y_test, y_pred_Grid)}")
-print(f"Test Roc Curve of Tuned Model: {roc_curve(y_test, y_pred_Grid)}")
-print(f"Test Roc AUC Score of Tuned Model: {roc_auc_score(y_test, y_pred_Grid)}")
+print(f"Test Average precision score of Tuned Model: {average_precision_score(y_test, y_pred_prob_grid)}")
+print(f"Test Roc AUC Score of Tuned Model: {roc_auc_score(y_test, y_pred_prob_grid)}")
 
 corr = df.corr(numeric_only=True)
 print(corr)
