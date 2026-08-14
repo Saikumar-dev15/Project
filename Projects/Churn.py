@@ -217,6 +217,12 @@ print("------------------------ Confusion Matrix -------------------------------
 print(confusion_matrix(y_test, np_pred))
 print("--------------------------------------------------------------------------------------")
 
+corr = df.corr(numeric_only=True)
+print(corr)
+
+sns.heatmap(corr, annot=True)
+plt.title("HeatMap of Numerical Columns")
+plt.show(block=True)
 
 sns.histplot(data= df, x="gender" ,color = "#87cbf5", multiple="stack")
 plt.title("Category Based Members")
@@ -234,6 +240,12 @@ sns.boxplot(x="Churn", y="tenure",data=df,  hue="Churn", legend=False)
 plt.title("Churn VS Tenure")
 plt.xlabel("Churn(0=No , 1=Yes)")
 plt.ylabel("Tenure")
+plt.show()
+
+sns.boxplot(x="Churn", y="TotalCharges" , data=df, hue="Churn", legend=False)
+plt.title("Churn vs TotalCharges")
+plt.xlabel("Churn(0=No, 1=Yes)")
+plt.ylabel("TotalCharges")
 plt.show()
 
 sns.countplot(x="InternetService", data=df, color="#edb940",
@@ -294,14 +306,6 @@ precision_recall_grid = precision_recall_curve(y_test, y_pred_prob_grid)
 print(f"Precision Recall Curve of Tuned Model: {precision_recall_grid}")
 roc_auc_grid = roc_auc_score(y_test, y_pred_prob_grid)
 print(f"Test Roc AUC Score of Tuned Model: {roc_auc_grid}")
-
-corr = df.corr(numeric_only=True)
-print(corr)
-
-sns.heatmap(corr, annot=True)
-plt.title("HeatMap of Numerical Columns")
-plt.show(block=True)
-
 
 cm = confusion_matrix(y_test, y_pred)
 
@@ -392,7 +396,7 @@ customer_risk_report = customer_risk_report[
      "Recommended Action"
     ]
 ]
-##
+
 #Sort the highest Risk LEvel
 customer_risk_report = customer_risk_report.sort_values(
     by="Churn Probability",
@@ -401,3 +405,10 @@ customer_risk_report = customer_risk_report.sort_values(
 
 print("******************************** Customer Risk Report************************************************")
 print(customer_risk_report.head(25))
+
+customer_risk_report.to_csv(
+    "customer_risk_report.csv",
+    index = False
+)
+
+print(" Customers Report Saved in as Customer Risk Report......")

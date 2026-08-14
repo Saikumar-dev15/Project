@@ -1,0 +1,1410 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,Churn Probability,Risk Level,Recommended Action
+7024-OHCCK,2,93.85,170.85,Month-to-month,Fiber optic,0.9300868767831353,High Risk,Immediate retention offer
+7216-EWTRS,1,100.8,100.8,Month-to-month,Fiber optic,0.9296280138850829,High Risk,Immediate retention offer
+9300-AGZNL,1,94.0,94.0,Month-to-month,Fiber optic,0.9294047395732485,High Risk,Immediate retention offer
+4910-GMJOT,1,94.6,94.6,Month-to-month,Fiber optic,0.9213462203880173,High Risk,Immediate retention offer
+2545-EBUPK,2,84.05,186.05,Month-to-month,Fiber optic,0.9183329630245805,High Risk,Immediate retention offer
+3988-RQIXO,1,91.3,91.3,Month-to-month,Fiber optic,0.9178254933523614,High Risk,Immediate retention offer
+4695-WJZUE,2,88.55,179.25,Month-to-month,Fiber optic,0.913159758404963,High Risk,Immediate retention offer
+5192-EBGOV,1,85.7,85.7,Month-to-month,Fiber optic,0.911449238544026,High Risk,Immediate retention offer
+5277-ZLOOR,2,85.55,187.45,Month-to-month,Fiber optic,0.9095068054515354,High Risk,Immediate retention offer
+9061-TIHDA,13,95.25,1233.65,Month-to-month,Fiber optic,0.9085282040592901,High Risk,Immediate retention offer
+9282-IZGQK,1,85.0,85.0,Month-to-month,Fiber optic,0.9077031039860094,High Risk,Immediate retention offer
+1724-BQUHA,5,89.5,477.7,Month-to-month,Fiber optic,0.9068633653407909,High Risk,Immediate retention offer
+8161-QYMTT,7,94.1,701.3,Month-to-month,Fiber optic,0.9068003585757151,High Risk,Immediate retention offer
+8414-MYSHR,5,91.4,449.75,Month-to-month,Fiber optic,0.9057843408190501,High Risk,Immediate retention offer
+2725-KXXWT,1,90.75,90.75,Month-to-month,Fiber optic,0.9048505427784559,High Risk,Immediate retention offer
+3068-OMWZA,1,88.8,88.8,Month-to-month,Fiber optic,0.9029686215713674,High Risk,Immediate retention offer
+2034-GDRCN,2,90.4,168.2,Month-to-month,Fiber optic,0.9029002105210544,High Risk,Immediate retention offer
+0970-ETWGE,1,89.55,89.55,Month-to-month,Fiber optic,0.9022099339874361,High Risk,Immediate retention offer
+9611-CTWIH,3,89.45,240.45,Month-to-month,Fiber optic,0.900353448695774,High Risk,Immediate retention offer
+0723-DRCLG,1,74.45,74.45,Month-to-month,Fiber optic,0.8997855084263099,High Risk,Immediate retention offer
+8775-LHDJH,1,90.6,90.6,Month-to-month,Fiber optic,0.8989744141954124,High Risk,Immediate retention offer
+7225-CBZPL,17,94.8,1563.9,Month-to-month,Fiber optic,0.8985282397064347,High Risk,Immediate retention offer
+1455-UGQVH,10,98.5,1037.75,Month-to-month,Fiber optic,0.8983131559701811,High Risk,Immediate retention offer
+2642-DTVCO,9,85.05,746.5,Month-to-month,Fiber optic,0.8974084665390005,High Risk,Immediate retention offer
+4102-OQUPX,1,74.4,74.4,Month-to-month,Fiber optic,0.8960916043800937,High Risk,Immediate retention offer
+7228-OMTPN,4,88.45,370.65,Month-to-month,Fiber optic,0.8953427357266593,High Risk,Immediate retention offer
+6567-HOOPW,1,79.2,79.2,Month-to-month,Fiber optic,0.8944670000404428,High Risk,Immediate retention offer
+8337-UPOAQ,10,89.8,914.3,Month-to-month,Fiber optic,0.8936285144210682,High Risk,Immediate retention offer
+8473-VUVJN,1,73.65,73.65,Month-to-month,Fiber optic,0.8931166730094474,High Risk,Immediate retention offer
+0259-GBZSH,2,85.65,181.5,Month-to-month,Fiber optic,0.8918541972780424,High Risk,Immediate retention offer
+4273-MBHYA,1,89.35,89.35,Month-to-month,Fiber optic,0.8917877600764869,High Risk,Immediate retention offer
+9546-CQJSU,2,91.4,193.6,Month-to-month,Fiber optic,0.889347105044104,High Risk,Immediate retention offer
+4927-WWOOZ,2,91.45,171.45,Month-to-month,Fiber optic,0.8881162707094097,High Risk,Immediate retention offer
+1197-BVMVG,4,74.45,294.45,Month-to-month,Fiber optic,0.8876730274956189,High Risk,Immediate retention offer
+1304-NECVQ,2,78.55,149.55,Month-to-month,Fiber optic,0.8875675438541067,High Risk,Immediate retention offer
+2868-MZAGQ,1,79.25,79.25,Month-to-month,Fiber optic,0.8858572593326364,High Risk,Immediate retention offer
+9402-ORRAH,15,91.5,1400.3,Month-to-month,Fiber optic,0.8853273121321179,High Risk,Immediate retention offer
+6161-UUUTA,3,79.9,260.9,Month-to-month,Fiber optic,0.8849986798391928,High Risk,Immediate retention offer
+0680-DFNNY,15,101.1,1504.05,Month-to-month,Fiber optic,0.8848054644240945,High Risk,Immediate retention offer
+3096-GKWEB,18,94.75,1691.9,Month-to-month,Fiber optic,0.8816110414870065,High Risk,Immediate retention offer
+5955-ERIHD,18,94.7,1687.95,Month-to-month,Fiber optic,0.8815246459499284,High Risk,Immediate retention offer
+4415-IJZTP,1,74.5,74.5,Month-to-month,Fiber optic,0.8813712433942984,High Risk,Immediate retention offer
+6683-VLCTZ,20,98.55,1842.8,Month-to-month,Fiber optic,0.8813030768148753,High Risk,Immediate retention offer
+6328-ZPBGN,11,95.15,997.65,Month-to-month,Fiber optic,0.8809167843572416,High Risk,Immediate retention offer
+4210-QFJMF,4,79.15,317.25,Month-to-month,Fiber optic,0.8808305136358122,High Risk,Immediate retention offer
+0702-PGIBZ,4,101.7,364.55,Month-to-month,Fiber optic,0.8805531171008636,High Risk,Immediate retention offer
+7858-GTZSP,12,86.55,1066.9,Month-to-month,Fiber optic,0.8786770067107524,High Risk,Immediate retention offer
+6941-PMGEP,5,80.0,412.5,Month-to-month,Fiber optic,0.8778078982026117,High Risk,Immediate retention offer
+1618-CFHME,2,75.9,143.35,Month-to-month,Fiber optic,0.8774795174786996,High Risk,Immediate retention offer
+7969-AULMZ,21,97.35,2119.5,Month-to-month,Fiber optic,0.876981055595573,High Risk,Immediate retention offer
+5834-ASPWA,1,75.45,75.45,Month-to-month,Fiber optic,0.8767898846407919,High Risk,Immediate retention offer
+4871-JTKJF,1,69.65,69.65,Month-to-month,Fiber optic,0.8767699047901173,High Risk,Immediate retention offer
+4806-KEXQR,4,79.9,324.3,Month-to-month,Fiber optic,0.876461037929598,High Risk,Immediate retention offer
+2495-INZWQ,4,44.55,174.3,Month-to-month,DSL,0.8761743440763803,High Risk,Immediate retention offer
+2462-XIIJB,5,92.5,452.7,Month-to-month,Fiber optic,0.876097714533436,High Risk,Immediate retention offer
+0220-EBGCE,2,85.85,167.3,Month-to-month,Fiber optic,0.8754086364680227,High Risk,Immediate retention offer
+7294-TMAOP,1,90.55,90.55,Month-to-month,Fiber optic,0.8752243823642891,High Risk,Immediate retention offer
+6892-EZDTG,4,91.65,365.4,Month-to-month,Fiber optic,0.8750859279809553,High Risk,Immediate retention offer
+7130-VTEWQ,8,75.75,606.25,Month-to-month,Fiber optic,0.874623741408079,High Risk,Immediate retention offer
+4060-LDNLU,7,96.2,639.7,Month-to-month,Fiber optic,0.874549525665538,High Risk,Immediate retention offer
+9300-RENDD,1,79.95,79.95,Month-to-month,Fiber optic,0.8742514330176396,High Risk,Immediate retention offer
+7594-RQHXR,1,79.6,79.6,Month-to-month,Fiber optic,0.8737664422645977,High Risk,Immediate retention offer
+2985-FMWYF,23,93.5,2341.55,Month-to-month,Fiber optic,0.8734572390095032,High Risk,Immediate retention offer
+0637-KVDLV,2,76.5,162.45,Month-to-month,Fiber optic,0.8733862715400392,High Risk,Immediate retention offer
+9957-YODKZ,6,80.8,457.1,Month-to-month,Fiber optic,0.8733237932580522,High Risk,Immediate retention offer
+4342-HENTK,2,70.65,142.35,Month-to-month,Fiber optic,0.8729899554274184,High Risk,Immediate retention offer
+6615-NGGZJ,14,100.55,1415.55,Month-to-month,Fiber optic,0.8721941894980106,High Risk,Immediate retention offer
+8644-XLFBW,1,71.65,71.65,Month-to-month,Fiber optic,0.8717090240580938,High Risk,Immediate retention offer
+7074-IEVOJ,3,79.4,205.05,Month-to-month,Fiber optic,0.8714617675883856,High Risk,Immediate retention offer
+9094-AZPHK,15,100.15,1415.0,Month-to-month,Fiber optic,0.8713008075274965,High Risk,Immediate retention offer
+9897-KXHCM,3,80.3,250.05,Month-to-month,Fiber optic,0.8709546899372291,High Risk,Immediate retention offer
+9124-LHCJQ,1,85.45,85.45,Month-to-month,Fiber optic,0.8705354020306024,High Risk,Immediate retention offer
+0404-SWRVG,3,74.4,229.55,Month-to-month,Fiber optic,0.8704273135583213,High Risk,Immediate retention offer
+4929-XIHVW,2,95.5,181.65,Month-to-month,Fiber optic,0.8703049461835409,High Risk,Immediate retention offer
+2929-ERCFZ,8,94.2,777.3,Month-to-month,Fiber optic,0.8699244734778458,High Risk,Immediate retention offer
+1579-KLYDT,7,90.45,593.45,Month-to-month,Fiber optic,0.8696741653128927,High Risk,Immediate retention offer
+0841-NULXI,1,35.55,35.55,Month-to-month,DSL,0.869498051669142,High Risk,Immediate retention offer
+9185-TQCVP,14,85.15,1139.2,Month-to-month,Fiber optic,0.8694726520479559,High Risk,Immediate retention offer
+0334-GDDSO,3,81.35,233.7,Month-to-month,Fiber optic,0.8669977097112361,High Risk,Immediate retention offer
+9317-WZPGV,2,79.75,159.4,Month-to-month,Fiber optic,0.8666535838935939,High Risk,Immediate retention offer
+1628-BIZYP,1,85.0,85.0,Month-to-month,Fiber optic,0.8661692446198082,High Risk,Immediate retention offer
+6100-QQHEB,17,92.55,1515.1,Month-to-month,Fiber optic,0.8660229892351701,High Risk,Immediate retention offer
+8083-YTZES,4,74.35,265.35,Month-to-month,Fiber optic,0.8657916961024225,High Risk,Immediate retention offer
+2880-FPNAE,2,74.2,140.1,Month-to-month,Fiber optic,0.8650408379824863,High Risk,Immediate retention offer
+7180-PISOG,1,74.5,74.5,Month-to-month,Fiber optic,0.8635128824964826,High Risk,Immediate retention offer
+8242-SOQUO,5,84.7,392.5,Month-to-month,Fiber optic,0.86230256178522,High Risk,Immediate retention offer
+4597-NUCQV,24,101.25,2440.15,Month-to-month,Fiber optic,0.8620979031631347,High Risk,Immediate retention offer
+0375-HVGXO,1,34.7,34.7,Month-to-month,DSL,0.8619147508932153,High Risk,Immediate retention offer
+5919-TMRGD,1,79.35,79.35,Month-to-month,Fiber optic,0.8614409943088033,High Risk,Immediate retention offer
+6356-ELRKD,1,95.6,95.6,Month-to-month,Fiber optic,0.8612566311756248,High Risk,Immediate retention offer
+0122-OAHPZ,7,73.85,511.25,Month-to-month,Fiber optic,0.8604027647762322,High Risk,Immediate retention offer
+2430-USGXP,24,101.05,2391.8,Month-to-month,Fiber optic,0.8597674023783748,High Risk,Immediate retention offer
+6087-MVHJH,16,88.45,1422.1,Month-to-month,Fiber optic,0.8596621209772467,High Risk,Immediate retention offer
+0328-GRPMV,1,70.1,70.1,Month-to-month,Fiber optic,0.8588000112433563,High Risk,Immediate retention offer
+8835-VSDSE,2,70.7,141.45,Month-to-month,Fiber optic,0.8587996031358169,High Risk,Immediate retention offer
+7145-FEJWU,12,105.3,1275.65,Month-to-month,Fiber optic,0.858787620626109,High Risk,Immediate retention offer
+1640-PLFMP,1,70.25,70.25,Month-to-month,Fiber optic,0.8587491985894758,High Risk,Immediate retention offer
+7638-QVMVY,7,79.0,522.95,Month-to-month,Fiber optic,0.8575581807996279,High Risk,Immediate retention offer
+1977-STDKI,1,73.0,73.0,Month-to-month,Fiber optic,0.856595075744673,High Risk,Immediate retention offer
+7240-ETPTR,9,48.75,442.2,Month-to-month,DSL,0.8563316017611832,High Risk,Immediate retention offer
+8648-PFRMP,14,46.35,672.7,Month-to-month,DSL,0.8551563327663554,High Risk,Immediate retention offer
+3721-CNEYS,2,70.95,137.95,Month-to-month,Fiber optic,0.8544674757153419,High Risk,Immediate retention offer
+3198-VELRD,3,84.75,264.85,Month-to-month,Fiber optic,0.8544199798079354,High Risk,Immediate retention offer
+6857-VWJDT,1,95.65,95.65,Month-to-month,Fiber optic,0.8541066554075956,High Risk,Immediate retention offer
+6502-MJQAE,1,69.6,69.6,Month-to-month,Fiber optic,0.8539975688513,High Risk,Immediate retention offer
+4603-JANFB,1,69.85,69.85,Month-to-month,Fiber optic,0.8539104819755771,High Risk,Immediate retention offer
+0306-JAELE,5,96.1,453.4,Month-to-month,Fiber optic,0.853350676198038,High Risk,Immediate retention offer
+9279-CJEOJ,21,95.4,2025.1,Month-to-month,Fiber optic,0.853205288378519,High Risk,Immediate retention offer
+5348-CAGXB,12,89.55,1021.75,Month-to-month,Fiber optic,0.8531377439981408,High Risk,Immediate retention offer
+5357-TZHPP,9,84.4,732.5,Month-to-month,Fiber optic,0.8527260172647242,High Risk,Immediate retention offer
+9274-CNFMO,4,74.95,308.7,Month-to-month,Fiber optic,0.8520388746027311,High Risk,Immediate retention offer
+1219-NNDDO,9,76.85,663.55,Month-to-month,Fiber optic,0.8517309810451197,High Risk,Immediate retention offer
+1226-IENZN,16,78.75,1218.25,Month-to-month,Fiber optic,0.8514279492244744,High Risk,Immediate retention offer
+9633-XQABV,3,70.25,229.7,Month-to-month,Fiber optic,0.8513766614024731,High Risk,Immediate retention offer
+3629-ZNKXA,17,101.8,1752.45,Month-to-month,Fiber optic,0.851086707518853,High Risk,Immediate retention offer
+9330-IJWIO,13,100.35,1358.85,Month-to-month,Fiber optic,0.8510360800762398,High Risk,Immediate retention offer
+3317-VLGQT,14,78.1,1122.4,Month-to-month,Fiber optic,0.8508923551084185,High Risk,Immediate retention offer
+2840-XANRC,24,93.15,2231.05,Month-to-month,Fiber optic,0.8507740283587585,High Risk,Immediate retention offer
+7245-NIIWQ,3,69.85,199.85,Month-to-month,Fiber optic,0.8505922179935552,High Risk,Immediate retention offer
+5393-RXQSZ,1,79.6,79.6,Month-to-month,Fiber optic,0.8502305260705458,High Risk,Immediate retention offer
+4853-OITSN,5,89.15,413.25,Month-to-month,Fiber optic,0.8494114694475315,High Risk,Immediate retention offer
+7354-OIJLX,9,75.85,724.65,Month-to-month,Fiber optic,0.8488981673227309,High Risk,Immediate retention offer
+2761-OCIAX,2,74.7,165.4,Month-to-month,Fiber optic,0.847492201196185,High Risk,Immediate retention offer
+5928-QLDHB,9,76.25,684.85,Month-to-month,Fiber optic,0.8474706134761517,High Risk,Immediate retention offer
+0018-NYROU,5,68.95,351.5,Month-to-month,Fiber optic,0.8473807873788957,High Risk,Immediate retention offer
+7235-NXZCP,2,74.85,156.4,Month-to-month,Fiber optic,0.8470153271198817,High Risk,Immediate retention offer
+9102-IAYHT,17,85.45,1451.6,Month-to-month,Fiber optic,0.8469466169188573,High Risk,Immediate retention offer
+3677-IYRBF,2,30.4,78.65,Month-to-month,DSL,0.846567683977563,High Risk,Immediate retention offer
+8800-JOOCF,12,84.05,966.55,Month-to-month,Fiber optic,0.845627631150853,High Risk,Immediate retention offer
+3001-UNBTL,29,103.95,2964.8,Month-to-month,Fiber optic,0.8456271996423252,High Risk,Immediate retention offer
+8063-GBATB,27,85.25,2287.25,Month-to-month,Fiber optic,0.8454441367652157,High Risk,Immediate retention offer
+8413-VONUO,2,95.65,167.3,Month-to-month,Fiber optic,0.845008186557225,High Risk,Immediate retention offer
+0329-GTIAJ,3,97.9,315.3,Month-to-month,Fiber optic,0.8449272739280446,High Risk,Immediate retention offer
+8017-LXHFA,23,94.75,2293.6,Month-to-month,Fiber optic,0.8447245400815679,High Risk,Immediate retention offer
+6899-PPEEA,37,96.55,3580.3,Month-to-month,Fiber optic,0.8444974463422269,High Risk,Immediate retention offer
+9314-IJWSQ,14,84.8,1203.9,Month-to-month,Fiber optic,0.8444734510673282,High Risk,Immediate retention offer
+1024-GUALD,1,24.8,24.8,Month-to-month,DSL,0.8443422310389209,High Risk,Immediate retention offer
+5134-IKDAY,1,69.8,69.8,Month-to-month,Fiber optic,0.8436902311828628,High Risk,Immediate retention offer
+9208-OLGAQ,18,84.95,1443.65,Month-to-month,Fiber optic,0.8419217800526626,High Risk,Immediate retention offer
+9507-EXLTT,1,79.35,79.35,Month-to-month,Fiber optic,0.8419195755439118,High Risk,Immediate retention offer
+3990-QYKBE,37,92.5,3473.4,Month-to-month,Fiber optic,0.8417203219372436,High Risk,Immediate retention offer
+3841-CONLJ,1,35.0,35.0,Month-to-month,DSL,0.8402976820118042,High Risk,Immediate retention offer
+4132-KALRO,4,100.85,399.25,Month-to-month,Fiber optic,0.8397926160230962,High Risk,Immediate retention offer
+3746-EUBYR,1,74.6,74.6,Month-to-month,Fiber optic,0.8397166276330577,High Risk,Immediate retention offer
+4550-EVXNY,1,69.65,69.65,Month-to-month,Fiber optic,0.8392578202936621,High Risk,Immediate retention offer
+5442-UTCVD,3,91.85,257.05,Month-to-month,Fiber optic,0.8390172330645779,High Risk,Immediate retention offer
+1853-UDXBW,1,70.0,70.0,Month-to-month,Fiber optic,0.8382055598580208,High Risk,Immediate retention offer
+2058-DCJBE,5,69.75,324.6,Month-to-month,Fiber optic,0.8363068146759888,High Risk,Immediate retention offer
+8945-GRKHX,1,78.65,78.65,Month-to-month,Fiber optic,0.8355679872350521,High Risk,Immediate retention offer
+3276-HDUEG,1,75.05,75.05,Month-to-month,Fiber optic,0.8354828240857303,High Risk,Immediate retention offer
+2379-ENZGV,6,84.85,523.5,Month-to-month,Fiber optic,0.8349372315812793,High Risk,Immediate retention offer
+0455-XFASS,3,69.55,200.2,Month-to-month,Fiber optic,0.8347953365604938,High Risk,Immediate retention offer
+5117-IFGPS,29,84.3,2357.75,Month-to-month,Fiber optic,0.833943104966516,High Risk,Immediate retention offer
+4873-ILOLJ,24,90.35,2238.5,Month-to-month,Fiber optic,0.8338996621386594,High Risk,Immediate retention offer
+5119-NZPTV,2,70.1,141.65,Month-to-month,Fiber optic,0.8334997719769137,High Risk,Immediate retention offer
+8380-PEFPE,1,71.65,71.65,Month-to-month,Fiber optic,0.83294989548458,High Risk,Immediate retention offer
+2845-AFFTX,41,99.8,4259.3,Month-to-month,Fiber optic,0.8311775721734294,High Risk,Immediate retention offer
+3049-NDXFL,1,85.8,85.8,Month-to-month,Fiber optic,0.8310384868961461,High Risk,Immediate retention offer
+8699-ASUFO,7,74.4,527.9,Month-to-month,Fiber optic,0.8307455391991809,High Risk,Immediate retention offer
+1112-CUNAO,15,89.85,1424.95,Month-to-month,Fiber optic,0.8304007820005747,High Risk,Immediate retention offer
+3346-BRMIS,18,48.35,810.7,Month-to-month,DSL,0.8302832639170743,High Risk,Immediate retention offer
+6407-UTSLV,2,83.8,163.7,Month-to-month,Fiber optic,0.8301696765487064,High Risk,Immediate retention offer
+5940-NFXKV,19,83.65,1465.75,Month-to-month,Fiber optic,0.8292528853847511,High Risk,Immediate retention offer
+5186-SAMNZ,1,69.5,69.5,Month-to-month,Fiber optic,0.8291878532514997,High Risk,Immediate retention offer
+6060-DRTNL,5,84.85,415.55,Month-to-month,Fiber optic,0.828452898433744,High Risk,Immediate retention offer
+6198-ZFIOJ,5,75.6,402.5,Month-to-month,Fiber optic,0.8283065159921743,High Risk,Immediate retention offer
+9912-GVSEQ,26,93.85,2381.55,Month-to-month,Fiber optic,0.8267073197690128,High Risk,Immediate retention offer
+7861-UVUFT,15,84.3,1308.4,Month-to-month,Fiber optic,0.8262962547290312,High Risk,Immediate retention offer
+0742-NXBGR,1,82.3,82.3,Month-to-month,Fiber optic,0.82549703721536,High Risk,Immediate retention offer
+4039-HEUNW,36,96.5,3436.1,Month-to-month,Fiber optic,0.8225396636229784,High Risk,Immediate retention offer
+1342-JPNKI,10,86.05,834.1,Month-to-month,Fiber optic,0.8222982943723258,High Risk,Immediate retention offer
+1666-JXLKU,37,100.05,3810.55,Month-to-month,Fiber optic,0.8221908438242695,High Risk,Immediate retention offer
+8714-CTZJW,4,82.85,319.6,Month-to-month,Fiber optic,0.8215427087113703,High Risk,Immediate retention offer
+0689-NKYLF,13,83.2,1060.6,Month-to-month,Fiber optic,0.8214847486511708,High Risk,Immediate retention offer
+8008-HAWED,14,50.75,712.75,Month-to-month,DSL,0.8211938441589881,High Risk,Immediate retention offer
+3143-JQEGI,13,88.35,1222.8,Month-to-month,Fiber optic,0.8206760292569583,High Risk,Immediate retention offer
+0524-IAVZO,30,85.0,2624.25,Month-to-month,Fiber optic,0.8195273292947846,High Risk,Immediate retention offer
+1891-UAWWU,20,90.8,1951.0,Month-to-month,Fiber optic,0.8187430949882818,High Risk,Immediate retention offer
+8270-RKSAP,9,70.5,597.9,Month-to-month,Fiber optic,0.8173374865143024,High Risk,Immediate retention offer
+3177-LASXD,1,71.35,71.35,Month-to-month,Fiber optic,0.8161006693971394,High Risk,Immediate retention offer
+1465-VINDH,10,102.1,1068.85,Month-to-month,Fiber optic,0.8153684337524569,High Risk,Immediate retention offer
+5219-YIPTK,33,104.4,3409.6,Month-to-month,Fiber optic,0.8152955084316236,High Risk,Immediate retention offer
+5569-KGJHX,9,85.35,754.65,Month-to-month,Fiber optic,0.8151975814563116,High Risk,Immediate retention offer
+7912-SYRQT,7,75.1,552.95,Month-to-month,Fiber optic,0.8150104092425368,High Risk,Immediate retention offer
+6595-YGXIT,25,88.95,2291.2,Month-to-month,Fiber optic,0.8136671971248464,High Risk,Immediate retention offer
+7892-POOKP,28,104.8,3046.05,Month-to-month,Fiber optic,0.8135800795683253,High Risk,Immediate retention offer
+5989-PGKJB,16,86.25,1340.1,Month-to-month,Fiber optic,0.8134503292820392,High Risk,Immediate retention offer
+7802-EFKNY,5,24.95,100.4,Month-to-month,DSL,0.8131569851281979,High Risk,Immediate retention offer
+4124-MMETB,22,94.65,2104.55,Month-to-month,Fiber optic,0.8126865793012601,High Risk,Immediate retention offer
+3001-CBHLQ,32,104.9,3351.55,Month-to-month,Fiber optic,0.8124394840430441,High Risk,Immediate retention offer
+6339-YPSAH,9,73.8,704.3,Month-to-month,Fiber optic,0.8120009341689122,High Risk,Immediate retention offer
+5442-BHQNG,2,70.35,139.25,Month-to-month,Fiber optic,0.8116103095749159,High Risk,Immediate retention offer
+5138-WVKYJ,10,98.55,1008.55,Month-to-month,Fiber optic,0.8111881216508794,High Risk,Immediate retention offer
+9874-QLCLH,17,104.2,1743.5,Month-to-month,Fiber optic,0.8109811180083191,High Risk,Immediate retention offer
+0148-DCDOS,25,94.7,2362.1,Month-to-month,Fiber optic,0.8102377520635756,High Risk,Immediate retention offer
+8485-GJCDN,5,69.05,318.5,Month-to-month,Fiber optic,0.8097974561585198,High Risk,Immediate retention offer
+0923-PNFUB,3,83.75,247.25,Month-to-month,Fiber optic,0.807393903909089,High Risk,Immediate retention offer
+1496-GGSUK,1,25.7,25.7,Month-to-month,DSL,0.8071135164514273,High Risk,Immediate retention offer
+3877-JRJIP,1,59.85,59.85,Month-to-month,DSL,0.8064860383011734,High Risk,Immediate retention offer
+6910-HADCM,1,76.35,76.35,Month-to-month,Fiber optic,0.806040728271711,High Risk,Immediate retention offer
+6877-LGWXO,18,78.55,1422.65,Month-to-month,Fiber optic,0.8053431018991499,High Risk,Immediate retention offer
+6400-BWQKW,6,79.05,434.5,Month-to-month,Fiber optic,0.8043179980309803,High Risk,Immediate retention offer
+8374-XGEJJ,43,101.0,4388.4,Month-to-month,Fiber optic,0.8036833039517866,High Risk,Immediate retention offer
+2905-KFQUV,2,70.4,154.8,Month-to-month,Fiber optic,0.8019396292388214,High Risk,Immediate retention offer
+2369-UAPKZ,5,104.1,541.9,Month-to-month,Fiber optic,0.8016078893374461,High Risk,Immediate retention offer
+0330-IVZHA,5,69.95,330.15,Month-to-month,Fiber optic,0.80125398823366,High Risk,Immediate retention offer
+3496-LFSZU,4,70.5,294.2,Month-to-month,Fiber optic,0.8010122915744885,High Risk,Immediate retention offer
+7598-UAASY,2,76.4,151.8,Month-to-month,Fiber optic,0.8000683731150459,High Risk,Immediate retention offer
+7534-BFESC,24,76.1,1712.7,Month-to-month,Fiber optic,0.7994738997378595,High Risk,Immediate retention offer
+8042-JVNFH,1,71.35,71.35,Month-to-month,Fiber optic,0.7993871031669466,High Risk,Immediate retention offer
+6140-QNRQQ,1,71.55,71.55,Month-to-month,Fiber optic,0.7992975033253805,High Risk,Immediate retention offer
+0529-ONKER,15,75.65,1146.65,Month-to-month,Fiber optic,0.7986656578575104,High Risk,Immediate retention offer
+3063-QFSZL,1,55.4,55.4,Month-to-month,DSL,0.7983273680623627,High Risk,Immediate retention offer
+0147-ESWWR,39,101.25,3949.15,Month-to-month,Fiber optic,0.7974993797298079,High Risk,Immediate retention offer
+5405-ZMYXQ,8,74.6,548.9,Month-to-month,Fiber optic,0.7965803842584684,High Risk,Immediate retention offer
+6692-UDPJC,14,91.65,1301.0,Month-to-month,Fiber optic,0.7960878088690506,High Risk,Immediate retention offer
+9779-DPNEJ,22,80.15,1790.65,Month-to-month,Fiber optic,0.7942984593494014,High Risk,Immediate retention offer
+0135-NMXAP,12,89.75,1052.4,Month-to-month,Fiber optic,0.7942518061252369,High Risk,Immediate retention offer
+4686-UXDML,21,99.85,1992.55,Month-to-month,Fiber optic,0.7938685698803543,High Risk,Immediate retention offer
+3992-YWPKO,6,109.9,669.45,Month-to-month,Fiber optic,0.7937568233376102,High Risk,Immediate retention offer
+5655-JSMZM,49,96.2,4718.25,Month-to-month,Fiber optic,0.7925950008163102,High Risk,Immediate retention offer
+7176-WIONM,12,49.85,617.15,Month-to-month,DSL,0.7915591675479396,High Risk,Immediate retention offer
+3003-CMDUU,25,95.15,2395.7,Month-to-month,Fiber optic,0.7907347884459592,High Risk,Immediate retention offer
+8708-XPXHZ,42,94.2,4186.3,Month-to-month,Fiber optic,0.7901906394092152,High Risk,Immediate retention offer
+8818-DOPVL,46,104.45,4863.85,Month-to-month,Fiber optic,0.7897520286045117,High Risk,Immediate retention offer
+8844-TONUD,13,96.65,1162.85,Month-to-month,Fiber optic,0.7894224661735277,High Risk,Immediate retention offer
+3365-SAIGS,17,83.55,1329.15,Month-to-month,Fiber optic,0.7892639755406062,High Risk,Immediate retention offer
+9133-AYJZG,23,98.7,2249.1,Month-to-month,Fiber optic,0.7885955419328513,High Risk,Immediate retention offer
+5144-TVGLP,38,94.75,3653.0,Month-to-month,Fiber optic,0.7881638153934754,High Risk,Immediate retention offer
+4484-CGXFK,3,55.3,196.15,Month-to-month,DSL,0.7878542110806568,High Risk,Immediate retention offer
+7137-RYLPP,37,85.7,3171.15,Month-to-month,Fiber optic,0.7870199193547397,High Risk,Immediate retention offer
+6900-PXRMS,26,105.75,2710.25,Month-to-month,Fiber optic,0.7864087285124459,High Risk,Immediate retention offer
+8949-JTMAY,29,98.6,2933.2,Month-to-month,Fiber optic,0.7863647288553595,High Risk,Immediate retention offer
+6956-SMUCM,3,99.0,287.4,Month-to-month,Fiber optic,0.7860258125241627,High Risk,Immediate retention offer
+0601-WZHJF,14,46.35,667.7,Month-to-month,DSL,0.7858844012391742,High Risk,Immediate retention offer
+9050-QLROH,18,90.7,1597.25,Month-to-month,Fiber optic,0.7855773252229594,High Risk,Immediate retention offer
+9947-OTFQU,15,74.4,1074.3,Month-to-month,Fiber optic,0.7854309578257905,High Risk,Immediate retention offer
+9600-UDOPK,30,94.05,2866.45,Month-to-month,Fiber optic,0.7851287953828946,High Risk,Immediate retention offer
+4183-MYFRB,21,90.05,1862.9,Month-to-month,Fiber optic,0.7843800723032587,High Risk,Immediate retention offer
+9796-BPKIW,8,69.95,562.7,Month-to-month,Fiber optic,0.7833565174373003,High Risk,Immediate retention offer
+8393-DLHGA,25,95.9,2448.75,Month-to-month,Fiber optic,0.7824192205314651,High Risk,Immediate retention offer
+4367-NHWMM,1,24.9,24.9,Month-to-month,DSL,0.7821127884493796,High Risk,Immediate retention offer
+5605-IYGFG,7,69.85,515.45,Month-to-month,Fiber optic,0.7819653961376161,High Risk,Immediate retention offer
+2424-WVHPL,1,74.7,74.7,Month-to-month,Fiber optic,0.7795064735160757,High Risk,Immediate retention offer
+0654-HMSHN,21,104.4,2157.95,Month-to-month,Fiber optic,0.7794705844798547,High Risk,Immediate retention offer
+9129-UXERG,18,103.6,1806.35,Month-to-month,Fiber optic,0.7793423883278175,High Risk,Immediate retention offer
+1335-NTIUC,9,24.95,190.25,Month-to-month,DSL,0.7792334115337688,High Risk,Immediate retention offer
+3269-ATYWD,39,95.65,3759.05,Month-to-month,Fiber optic,0.7785737920336502,High Risk,Immediate retention offer
+4290-BSXUX,3,79.65,251.75,Month-to-month,Fiber optic,0.7777371116782658,High Risk,Immediate retention offer
+7571-YXDAD,2,74.9,147.15,Month-to-month,Fiber optic,0.777286642653773,High Risk,Immediate retention offer
+6175-IRFIT,5,78.75,426.35,Month-to-month,Fiber optic,0.776945116949746,High Risk,Immediate retention offer
+0637-YLETY,16,95.6,1555.65,Month-to-month,Fiber optic,0.776815322895235,High Risk,Immediate retention offer
+3627-FCRDW,9,71.0,672.55,Month-to-month,Fiber optic,0.7762830643862908,High Risk,Immediate retention offer
+7924-GJZFI,25,69.3,1813.1,Month-to-month,Fiber optic,0.7756951874397346,High Risk,Immediate retention offer
+2603-HVKCG,31,101.4,3143.65,Month-to-month,Fiber optic,0.7756504906142683,High Risk,Immediate retention offer
+8637-XJIVR,12,78.95,927.35,Month-to-month,Fiber optic,0.7753729264605619,High Risk,Immediate retention offer
+7240-FQLHE,18,99.75,1836.25,Month-to-month,Fiber optic,0.77508884146078,High Risk,Immediate retention offer
+6994-KERXL,4,55.9,238.5,Month-to-month,DSL,0.7739490490741854,High Risk,Immediate retention offer
+9167-APMXZ,22,84.15,1821.95,Month-to-month,Fiber optic,0.77363434344772,High Risk,Immediate retention offer
+4881-JVQOD,10,34.55,362.6,Month-to-month,DSL,0.7734737861307648,High Risk,Immediate retention offer
+0311-UNPFF,26,88.8,2274.35,Month-to-month,Fiber optic,0.7731625764539958,High Risk,Immediate retention offer
+1918-ZBFQJ,13,79.25,1111.65,Month-to-month,Fiber optic,0.7728252135067409,High Risk,Immediate retention offer
+6518-LGAOV,38,105.0,4026.4,Month-to-month,Fiber optic,0.7721935559144718,High Risk,Immediate retention offer
+6652-YFFJO,11,64.9,716.1,Month-to-month,DSL,0.7715889442395547,High Risk,Immediate retention offer
+2868-SNELZ,2,80.6,155.8,Month-to-month,Fiber optic,0.7712185982050294,High Risk,Immediate retention offer
+0876-WDUUZ,5,85.4,425.9,Month-to-month,Fiber optic,0.7710928944228109,High Risk,Immediate retention offer
+1092-GANHU,17,76.65,1313.55,Month-to-month,Fiber optic,0.7701778480827018,High Risk,Immediate retention offer
+4257-GAESD,6,45.0,298.7,Month-to-month,DSL,0.769367774974828,High Risk,Immediate retention offer
+7422-WNBTY,33,93.35,3092.0,Month-to-month,Fiber optic,0.7680795982606553,High Risk,Immediate retention offer
+5960-MVTUK,3,29.75,96.85,Month-to-month,DSL,0.76628406737001,High Risk,Immediate retention offer
+2018-PZKMU,9,103.1,970.45,Month-to-month,Fiber optic,0.7660804119385756,High Risk,Immediate retention offer
+9625-QSTYE,13,81.15,952.3,Month-to-month,Fiber optic,0.7647748399568776,High Risk,Immediate retention offer
+8938-UMKPI,47,106.4,5127.95,Month-to-month,Fiber optic,0.7645696792906497,High Risk,Immediate retention offer
+8120-JDCAM,4,69.55,284.9,Month-to-month,Fiber optic,0.7635218167151591,High Risk,Immediate retention offer
+1212-GLHMD,3,86.05,244.85,Month-to-month,Fiber optic,0.7634508349888822,High Risk,Immediate retention offer
+9638-JIQYA,2,24.9,49.7,Month-to-month,DSL,0.7617017722325848,High Risk,Immediate retention offer
+9540-JYROE,8,70.1,551.35,Month-to-month,Fiber optic,0.7610885051337188,High Risk,Immediate retention offer
+0212-ISBBF,22,50.35,1098.85,Month-to-month,DSL,0.7598504585795027,High Risk,Immediate retention offer
+9658-WYUFB,17,94.4,1617.5,Month-to-month,Fiber optic,0.7598043290804943,High Risk,Immediate retention offer
+4729-XKASR,1,24.75,24.75,Month-to-month,DSL,0.7597521798597975,High Risk,Immediate retention offer
+3315-TOTBP,15,76.0,1130.85,Month-to-month,Fiber optic,0.7595449951065056,High Risk,Immediate retention offer
+5364-EVNIB,13,79.8,973.45,Month-to-month,Fiber optic,0.7591341538363442,High Risk,Immediate retention offer
+4128-ETESU,47,99.7,4747.2,Month-to-month,Fiber optic,0.7589441064804353,High Risk,Immediate retention offer
+5914-DVBWJ,18,85.45,1505.85,Month-to-month,Fiber optic,0.7580813433651779,High Risk,Immediate retention offer
+0946-CLJTI,58,98.7,5812.6,Month-to-month,Fiber optic,0.757805046562365,High Risk,Immediate retention offer
+2696-NARTR,11,73.85,926.25,Month-to-month,Fiber optic,0.7572173937209816,High Risk,Immediate retention offer
+3966-HRMZA,3,75.05,202.9,Month-to-month,Fiber optic,0.7572032231176864,High Risk,Immediate retention offer
+4587-NUKOX,3,79.1,246.5,Month-to-month,Fiber optic,0.7571910987999338,High Risk,Immediate retention offer
+8356-WUAOJ,1,45.0,45.0,Month-to-month,DSL,0.7556201909800043,High Risk,Immediate retention offer
+2501-XWWTZ,11,70.2,760.05,Month-to-month,Fiber optic,0.7556127785650613,High Risk,Immediate retention offer
+1522-VVDMG,7,89.75,608.8,Month-to-month,Fiber optic,0.754801310384015,High Risk,Immediate retention offer
+9824-BEMCV,17,69.0,1149.65,Month-to-month,Fiber optic,0.7546153990761306,High Risk,Immediate retention offer
+9907-SWKKF,1,25.05,25.05,Month-to-month,DSL,0.7542593908163698,High Risk,Immediate retention offer
+7410-YTJIK,7,75.45,480.75,Month-to-month,Fiber optic,0.7531609876713102,High Risk,Immediate retention offer
+2933-FILNV,2,24.4,36.55,Month-to-month,DSL,0.7526244802972768,High Risk,Immediate retention offer
+0511-JTEOY,1,71.1,71.1,Month-to-month,Fiber optic,0.752482886155383,High Risk,Immediate retention offer
+0963-ZBDRN,32,96.2,3183.4,Month-to-month,Fiber optic,0.7504026875431888,High Risk,Immediate retention offer
+8445-DNBAE,1,50.05,50.05,Month-to-month,DSL,0.7500956876249631,High Risk,Immediate retention offer
+0772-GYEQQ,3,88.35,262.05,Month-to-month,Fiber optic,0.749487990803395,High Risk,Immediate retention offer
+8800-ZKRFW,30,107.5,3242.5,Month-to-month,Fiber optic,0.7494095988394394,High Risk,Immediate retention offer
+6128-CZOMY,1,45.65,45.65,Month-to-month,DSL,0.7490122735852627,High Risk,Immediate retention offer
+4137-BTIKL,2,90.75,174.75,Month-to-month,Fiber optic,0.7484248815735224,High Risk,Immediate retention offer
+5922-ABDVO,19,89.65,1761.05,Month-to-month,Fiber optic,0.7478749772197064,High Risk,Immediate retention offer
+3866-MDTUB,2,70.75,146.9,Month-to-month,DSL,0.7472954397724288,High Risk,Immediate retention offer
+2823-LKABH,18,95.05,1679.4,Month-to-month,Fiber optic,0.7468302925958086,High Risk,Immediate retention offer
+0221-WMXNQ,4,75.35,273.4,Month-to-month,Fiber optic,0.7455168784336019,High Risk,Immediate retention offer
+8981-FJGLA,11,78.0,851.8,Month-to-month,Fiber optic,0.744100328165942,High Risk,Immediate retention offer
+8849-AYPTR,33,91.25,2964.05,Month-to-month,Fiber optic,0.7440169360044564,High Risk,Immediate retention offer
+0581-MDMPW,24,88.95,2072.75,Month-to-month,Fiber optic,0.7421104533001303,High Risk,Immediate retention offer
+6778-YSNIH,2,59.0,114.15,Month-to-month,DSL,0.7419952240271748,High Risk,Immediate retention offer
+8705-WZCYL,1,44.8,44.8,Month-to-month,DSL,0.7417865875150973,High Risk,Immediate retention offer
+7734-DBOAI,1,40.1,40.1,Month-to-month,DSL,0.7409876316866782,High Risk,Immediate retention offer
+6017-PPLPX,20,70.45,1470.95,Month-to-month,Fiber optic,0.7407916473180364,High Risk,Immediate retention offer
+8486-AYEQH,31,76.05,2227.8,Month-to-month,Fiber optic,0.7406073414958139,High Risk,Immediate retention offer
+7562-GSUHK,16,93.2,1573.7,Month-to-month,Fiber optic,0.7401151275088576,High Risk,Immediate retention offer
+2468-SJFLM,1,74.3,74.3,Month-to-month,Fiber optic,0.7390628876721737,High Risk,Immediate retention offer
+6651-AZVTJ,49,99.8,4872.45,Month-to-month,Fiber optic,0.7389284259032637,High Risk,Immediate retention offer
+4741-WWJQZ,2,80.15,194.55,Month-to-month,Fiber optic,0.7382418843062967,High Risk,Immediate retention offer
+6704-UTUKK,29,45.9,1332.4,Month-to-month,DSL,0.7379619462533686,High Risk,Immediate retention offer
+3167-SNQPL,38,101.15,3741.85,Month-to-month,Fiber optic,0.7370459498593235,High Risk,Immediate retention offer
+5759-RCVCB,3,35.2,108.95,Month-to-month,DSL,0.736198026870171,High Risk,Immediate retention offer
+8128-YVJRG,7,79.65,604.7,Month-to-month,Fiber optic,0.7360263537165708,High Risk,Immediate retention offer
+8519-QJGJD,14,75.35,1025.95,Month-to-month,Fiber optic,0.7348251259707145,High Risk,Immediate retention offer
+6284-AHOOQ,22,90.5,1910.6,Month-to-month,Fiber optic,0.733728219641115,High Risk,Immediate retention offer
+8012-SOUDQ,43,90.25,3838.75,Month-to-month,Fiber optic,0.7316301325457648,High Risk,Immediate retention offer
+4879-GZLFH,42,92.15,3875.4,Month-to-month,Fiber optic,0.7293054092349617,High Risk,Immediate retention offer
+9465-RWMXL,32,78.9,2447.95,Month-to-month,Fiber optic,0.7285017690122554,High Risk,Immediate retention offer
+2495-KZNFB,33,90.65,2989.6,Month-to-month,Fiber optic,0.7280095786465305,High Risk,Immediate retention offer
+1902-XBTFB,22,89.4,2001.5,Month-to-month,Fiber optic,0.7262712924028814,High Risk,Immediate retention offer
+7825-ECJRF,19,106.6,1934.45,Month-to-month,Fiber optic,0.7255430076169674,High Risk,Immediate retention offer
+7296-PIXQY,14,70.2,1046.5,Month-to-month,Fiber optic,0.7254078883150271,High Risk,Immediate retention offer
+9895-VFOXH,1,24.4,24.4,Month-to-month,DSL,0.7246607719951591,High Risk,Immediate retention offer
+6339-DKLMK,13,31.65,389.95,Month-to-month,DSL,0.7245565253833354,High Risk,Immediate retention offer
+5122-CYFXA,3,75.3,244.1,Month-to-month,DSL,0.72434733075128,High Risk,Immediate retention offer
+8260-NGFNY,1,25.2,25.2,Month-to-month,DSL,0.724214705758616,High Risk,Immediate retention offer
+4503-BDXBD,11,74.95,815.5,Month-to-month,Fiber optic,0.7236299629593518,High Risk,Immediate retention offer
+4062-HBMOS,52,103.05,5364.8,Month-to-month,Fiber optic,0.7228747381415943,High Risk,Immediate retention offer
+1100-DDVRV,17,49.8,836.35,Month-to-month,DSL,0.7211734670399493,High Risk,Immediate retention offer
+3088-LHEFH,11,79.0,929.3,Month-to-month,Fiber optic,0.7204062160427338,High Risk,Immediate retention offer
+8020-BWHYL,15,75.3,1147.45,Month-to-month,Fiber optic,0.7195716051856806,High Risk,Immediate retention offer
+3932-CMDTD,4,105.65,443.9,One year,Fiber optic,0.7183795426243789,High Risk,Immediate retention offer
+9508-ILZDG,34,96.35,3190.25,Month-to-month,Fiber optic,0.7183117152229826,High Risk,Immediate retention offer
+6158-HDPXZ,1,25.35,25.35,Month-to-month,DSL,0.7159776411997618,High Risk,Immediate retention offer
+3806-DXQOM,4,33.65,137.85,Month-to-month,DSL,0.7159493673502928,High Risk,Immediate retention offer
+5600-KTXFM,2,69.95,143.9,Month-to-month,Fiber optic,0.7156991442770013,High Risk,Immediate retention offer
+1035-IPQPU,63,103.5,6479.4,Month-to-month,Fiber optic,0.7147869256894328,High Risk,Immediate retention offer
+3671-SHRSP,4,80.6,319.15,Month-to-month,Fiber optic,0.7142370289345752,High Risk,Immediate retention offer
+1260-TTRXI,4,54.3,195.3,Month-to-month,DSL,0.7136504691655476,High Risk,Immediate retention offer
+1624-WOIWJ,10,84.7,832.05,Month-to-month,Fiber optic,0.7124171064866482,High Risk,Immediate retention offer
+2672-TGEFF,37,88.8,3340.55,Month-to-month,Fiber optic,0.7119903892206563,High Risk,Immediate retention offer
+4361-JEIVL,1,44.4,44.4,Month-to-month,DSL,0.7114615273279745,High Risk,Immediate retention offer
+5868-CZJDR,1,31.35,31.35,Month-to-month,DSL,0.7109730739940963,High Risk,Immediate retention offer
+6078-VESFR,13,70.45,849.1,Month-to-month,Fiber optic,0.7105388312773434,High Risk,Immediate retention offer
+1173-NOEYG,27,90.15,2423.4,Month-to-month,Fiber optic,0.7090032564829678,High Risk,Immediate retention offer
+9168-INPSZ,44,104.15,4495.65,Month-to-month,Fiber optic,0.7081515124832886,High Risk,Immediate retention offer
+3055-MJDSB,9,24.6,190.1,Month-to-month,DSL,0.7075020479693155,High Risk,Immediate retention offer
+4625-EWPTF,8,30.45,226.45,Month-to-month,DSL,0.7074780926210897,High Risk,Immediate retention offer
+9800-ONTFE,22,75.8,1615.1,Month-to-month,Fiber optic,0.7070514198767766,High Risk,Immediate retention offer
+9420-LOJKX,15,99.1,1426.4,Month-to-month,Fiber optic,0.7058249241923854,High Risk,Immediate retention offer
+6542-LWGXJ,3,25.0,78.25,Month-to-month,DSL,0.705449613621633,High Risk,Immediate retention offer
+3714-NTNFO,49,84.5,3906.7,Month-to-month,Fiber optic,0.7022746186814997,High Risk,Immediate retention offer
+8785-CJSHH,60,99.8,5985.75,Month-to-month,Fiber optic,0.7010422740261462,High Risk,Immediate retention offer
+9281-OFDMF,39,90.7,3413.25,Month-to-month,Fiber optic,0.7005680943607077,High Risk,Immediate retention offer
+3005-NFMTA,55,98.8,5617.75,Month-to-month,Fiber optic,0.6982253262886541,Medium Risk,Monitor and Contact for further deals
+8364-TRMMK,3,50.65,151.3,Month-to-month,DSL,0.6982051690010167,Medium Risk,Monitor and Contact for further deals
+8064-RAVOH,1,49.85,49.85,Month-to-month,DSL,0.6975319909249854,Medium Risk,Monitor and Contact for further deals
+0096-BXERS,6,50.35,314.55,Month-to-month,DSL,0.696878634393337,Medium Risk,Monitor and Contact for further deals
+6583-QGCSI,50,88.05,4367.35,Month-to-month,Fiber optic,0.6958656244146689,Medium Risk,Monitor and Contact for further deals
+1304-BCCFO,9,70.05,564.4,Month-to-month,DSL,0.695427418011937,Medium Risk,Monitor and Contact for further deals
+7404-JLKQG,3,57.55,161.45,Month-to-month,DSL,0.6953196810387906,Medium Risk,Monitor and Contact for further deals
+5129-JLPIS,25,105.5,2686.05,Month-to-month,Fiber optic,0.6951445517483328,Medium Risk,Monitor and Contact for further deals
+5016-IBERQ,23,84.25,1968.1,Month-to-month,Fiber optic,0.6942782159068516,Medium Risk,Monitor and Contact for further deals
+7126-RBHSD,17,78.9,1348.95,Month-to-month,Fiber optic,0.6937970309010741,Medium Risk,Monitor and Contact for further deals
+2277-DJJDL,60,99.0,6017.9,Month-to-month,Fiber optic,0.6921549700451842,Medium Risk,Monitor and Contact for further deals
+9522-BNTHX,34,56.25,1765.95,Month-to-month,DSL,0.6918911840281173,Medium Risk,Monitor and Contact for further deals
+1346-UFHAX,13,80.0,1029.35,Month-to-month,Fiber optic,0.6900527899608719,Medium Risk,Monitor and Contact for further deals
+9793-WECQC,23,95.3,2192.9,Month-to-month,Fiber optic,0.6857818015290063,Medium Risk,Monitor and Contact for further deals
+2921-XWDJH,38,83.45,3147.15,Month-to-month,Fiber optic,0.684541415158576,Medium Risk,Monitor and Contact for further deals
+5916-QEWPT,2,69.0,147.8,Month-to-month,DSL,0.6832417582788929,Medium Risk,Monitor and Contact for further deals
+0804-XBFBV,11,25.2,321.05,Month-to-month,DSL,0.6832334925592085,Medium Risk,Monitor and Contact for further deals
+4446-BZKHU,61,105.55,6281.45,Month-to-month,Fiber optic,0.6827504452204777,Medium Risk,Monitor and Contact for further deals
+7181-OQCUT,21,103.85,2215.0,Month-to-month,Fiber optic,0.6825332039647037,Medium Risk,Monitor and Contact for further deals
+4607-CHPCA,25,90.4,2178.6,One year,Fiber optic,0.6819439291912492,Medium Risk,Monitor and Contact for further deals
+0410-IPFTY,31,83.85,2674.15,Month-to-month,Fiber optic,0.6811951001385314,Medium Risk,Monitor and Contact for further deals
+7077-XJMET,12,74.15,741.4,Month-to-month,DSL,0.6801157022369156,Medium Risk,Monitor and Contact for further deals
+1343-EHPYB,63,103.4,6603.0,Month-to-month,Fiber optic,0.6799794731322317,Medium Risk,Monitor and Contact for further deals
+3969-GYXEL,11,76.4,838.7,Month-to-month,Fiber optic,0.6791928988077457,Medium Risk,Monitor and Contact for further deals
+1855-AGAWH,31,93.8,2939.8,One year,Fiber optic,0.6783553745004327,Medium Risk,Monitor and Contact for further deals
+5498-TXHLF,34,87.45,2874.15,Month-to-month,Fiber optic,0.6779142903170342,Medium Risk,Monitor and Contact for further deals
+1866-OBPNR,1,74.6,74.6,Month-to-month,Fiber optic,0.6778070097115997,Medium Risk,Monitor and Contact for further deals
+4468-KAZHE,20,60.0,1259.35,Month-to-month,DSL,0.6777022001364741,Medium Risk,Monitor and Contact for further deals
+4537-DKTAL,2,45.55,84.4,Month-to-month,DSL,0.6774386687580941,Medium Risk,Monitor and Contact for further deals
+4465-VDKIQ,18,77.8,1358.6,Month-to-month,Fiber optic,0.6749501001422409,Medium Risk,Monitor and Contact for further deals
+9576-SYUHJ,37,91.15,3369.25,Month-to-month,Fiber optic,0.6749311456474821,Medium Risk,Monitor and Contact for further deals
+7065-YUNRY,1,45.3,45.3,Month-to-month,DSL,0.6715888391733111,Medium Risk,Monitor and Contact for further deals
+2275-RBYQS,1,45.4,45.4,Month-to-month,DSL,0.671527232065426,Medium Risk,Monitor and Contact for further deals
+9286-DOJGF,38,74.95,2869.85,Month-to-month,Fiber optic,0.6708412846533278,Medium Risk,Monitor and Contact for further deals
+3323-CPBWR,23,96.9,2085.45,Month-to-month,Fiber optic,0.6708175906172825,Medium Risk,Monitor and Contact for further deals
+9469-WEJBT,37,90.35,3419.3,Month-to-month,Fiber optic,0.670337147128632,Medium Risk,Monitor and Contact for further deals
+4116-TZAQJ,9,74.25,639.65,Month-to-month,Fiber optic,0.6697124612516183,Medium Risk,Monitor and Contact for further deals
+9889-TMAHG,8,100.3,832.35,Month-to-month,Fiber optic,0.6696707579649122,Medium Risk,Monitor and Contact for further deals
+3415-TAILE,2,65.7,134.35,Month-to-month,DSL,0.6693786710401504,Medium Risk,Monitor and Contact for further deals
+4811-JBUVU,30,89.9,2723.15,Month-to-month,Fiber optic,0.6691697569320593,Medium Risk,Monitor and Contact for further deals
+7159-FVYPK,3,69.15,235.0,Month-to-month,DSL,0.669102898495028,Medium Risk,Monitor and Contact for further deals
+2178-PMGCJ,22,69.7,1490.4,Month-to-month,Fiber optic,0.668066151251853,Medium Risk,Monitor and Contact for further deals
+8158-WPEZG,11,35.65,425.1,Month-to-month,DSL,0.6657881696707935,Medium Risk,Monitor and Contact for further deals
+4550-VBOFE,70,102.95,7101.5,Month-to-month,Fiber optic,0.6654319879432115,Medium Risk,Monitor and Contact for further deals
+8180-AKMJV,1,44.55,44.55,Month-to-month,DSL,0.6649220813620913,Medium Risk,Monitor and Contact for further deals
+7682-AZNDK,34,89.85,3091.75,Month-to-month,Fiber optic,0.6646715170801675,Medium Risk,Monitor and Contact for further deals
+7000-WCEVQ,20,61.6,1174.35,Month-to-month,DSL,0.6643281301698805,Medium Risk,Monitor and Contact for further deals
+2070-FNEXE,7,76.45,503.6,Month-to-month,Fiber optic,0.6633356023997458,Medium Risk,Monitor and Contact for further deals
+7758-XKCBS,15,29.7,438.25,Month-to-month,DSL,0.663294267393042,Medium Risk,Monitor and Contact for further deals
+8710-YGLWG,1,44.9,44.9,Month-to-month,DSL,0.6628558301089564,Medium Risk,Monitor and Contact for further deals
+5696-QURRL,1,45.05,45.05,Month-to-month,DSL,0.6627621938073036,Medium Risk,Monitor and Contact for further deals
+3566-HJGPK,1,45.55,45.55,Month-to-month,DSL,0.6624499805956741,Medium Risk,Monitor and Contact for further deals
+5349-AZPEW,5,25.05,125.5,Month-to-month,DSL,0.6620536461448906,Medium Risk,Monitor and Contact for further deals
+3130-ICDUP,2,80.55,188.1,Month-to-month,Fiber optic,0.6613211722180798,Medium Risk,Monitor and Contact for further deals
+5392-AKEMH,12,45.05,523.1,Month-to-month,DSL,0.6612448277193799,Medium Risk,Monitor and Contact for further deals
+5886-VLQVU,35,89.85,3161.2,Month-to-month,Fiber optic,0.661077168662839,Medium Risk,Monitor and Contact for further deals
+9332-GYWLO,6,54.85,355.1,Month-to-month,DSL,0.6602090235200117,Medium Risk,Monitor and Contact for further deals
+0310-MVLET,61,99.15,6010.05,Month-to-month,Fiber optic,0.6585520518652882,Medium Risk,Monitor and Contact for further deals
+3500-RMZLT,15,96.3,1426.75,Month-to-month,Fiber optic,0.6571387158200096,Medium Risk,Monitor and Contact for further deals
+2277-VWCNI,4,48.75,179.85,Month-to-month,DSL,0.6560994910922421,Medium Risk,Monitor and Contact for further deals
+1355-KUSBG,7,48.8,349.8,Month-to-month,DSL,0.6553212523837829,Medium Risk,Monitor and Contact for further deals
+0829-XXPLX,20,89.4,1871.15,Month-to-month,Fiber optic,0.6548228171558695,Medium Risk,Monitor and Contact for further deals
+4671-LXRDQ,2,45.0,96.45,Month-to-month,DSL,0.6545286202489267,Medium Risk,Monitor and Contact for further deals
+2014-MKGMH,46,101.1,4674.4,One year,Fiber optic,0.6526211652497941,Medium Risk,Monitor and Contact for further deals
+9714-EDSUC,4,94.9,360.55,Month-to-month,Fiber optic,0.6514193278079723,Medium Risk,Monitor and Contact for further deals
+1095-JUDTC,47,95.05,4504.55,Month-to-month,Fiber optic,0.650721674038555,Medium Risk,Monitor and Contact for further deals
+6710-HSJRD,61,114.1,7132.15,Month-to-month,Fiber optic,0.6498266908656429,Medium Risk,Monitor and Contact for further deals
+5047-LHVLY,1,50.15,50.15,Month-to-month,DSL,0.6482513175942585,Medium Risk,Monitor and Contact for further deals
+8229-TNIQA,4,45.3,196.95,Month-to-month,DSL,0.6466678453287881,Medium Risk,Monitor and Contact for further deals
+7841-TZDMQ,2,46.0,84.5,Month-to-month,DSL,0.6458468471074602,Medium Risk,Monitor and Contact for further deals
+7377-DMMRI,2,47.8,92.45,Month-to-month,DSL,0.6430525322561463,Medium Risk,Monitor and Contact for further deals
+9732-EQMWY,49,99.4,5025.0,Month-to-month,Fiber optic,0.6420178158839158,Medium Risk,Monitor and Contact for further deals
+8450-UYIBU,35,39.85,1434.6,Month-to-month,DSL,0.6417447234188444,Medium Risk,Monitor and Contact for further deals
+1816-FLZDK,1,29.15,29.15,Month-to-month,DSL,0.6412646396399266,Medium Risk,Monitor and Contact for further deals
+0118-JPNOY,26,85.8,2193.65,Month-to-month,Fiber optic,0.6393487072736059,Medium Risk,Monitor and Contact for further deals
+5673-TIYIB,2,40.4,77.15,Month-to-month,DSL,0.6390719875912165,Medium Risk,Monitor and Contact for further deals
+4193-ORFCL,1,45.1,45.1,Month-to-month,DSL,0.6364053157954171,Medium Risk,Monitor and Contact for further deals
+1728-CXQBE,64,94.25,6081.4,Month-to-month,Fiber optic,0.6356470656801511,Medium Risk,Monitor and Contact for further deals
+5302-BDJNT,35,95.5,3418.2,Month-to-month,Fiber optic,0.6345519152539233,Medium Risk,Monitor and Contact for further deals
+5502-RLUYV,69,103.95,7446.9,Month-to-month,Fiber optic,0.6342994568295366,Medium Risk,Monitor and Contact for further deals
+5649-VUKMC,12,95.5,1115.15,One year,Fiber optic,0.6331135808848442,Medium Risk,Monitor and Contact for further deals
+6133-OZILE,18,35.2,607.3,Month-to-month,DSL,0.6326019025370235,Medium Risk,Monitor and Contact for further deals
+6227-HWPWX,15,69.0,994.8,Month-to-month,Fiber optic,0.6310743805570045,Medium Risk,Monitor and Contact for further deals
+8623-ULFNQ,26,66.05,1652.4,Month-to-month,DSL,0.6309647177081728,Medium Risk,Monitor and Contact for further deals
+9667-TKTVZ,2,54.35,117.05,Month-to-month,DSL,0.6307454350868026,Medium Risk,Monitor and Contact for further deals
+5046-NUHWD,29,45.0,1228.65,Month-to-month,DSL,0.6307049349457534,Medium Risk,Monitor and Contact for further deals
+5813-UECBU,33,83.85,2716.3,Month-to-month,Fiber optic,0.630479939253163,Medium Risk,Monitor and Contact for further deals
+8124-NZVGJ,6,49.25,255.6,One year,DSL,0.6285194611275209,Medium Risk,Monitor and Contact for further deals
+3162-KKZXO,55,100.15,5409.75,One year,Fiber optic,0.6284829313386346,Medium Risk,Monitor and Contact for further deals
+8887-IPQNC,7,44.25,313.45,Month-to-month,DSL,0.6275202544669718,Medium Risk,Monitor and Contact for further deals
+9530-EHPOH,11,53.75,608.0,Month-to-month,DSL,0.6275005199826762,Medium Risk,Monitor and Contact for further deals
+4640-UHDOS,13,55.95,734.35,Month-to-month,DSL,0.6262939020551047,Medium Risk,Monitor and Contact for further deals
+6789-HJBWG,12,49.4,611.65,Month-to-month,DSL,0.6252835743170294,Medium Risk,Monitor and Contact for further deals
+7576-JMYWV,46,110.2,4972.1,Month-to-month,Fiber optic,0.6251115586729897,Medium Risk,Monitor and Contact for further deals
+6745-JEFZB,35,91.5,3236.35,Month-to-month,Fiber optic,0.6235890145587742,Medium Risk,Monitor and Contact for further deals
+7929-DMBCV,20,81.0,1683.7,Month-to-month,Fiber optic,0.6227745006186187,Medium Risk,Monitor and Contact for further deals
+3208-YPIOE,39,75.25,3017.65,Month-to-month,Fiber optic,0.622247069168792,Medium Risk,Monitor and Contact for further deals
+2452-KDRRH,67,101.4,6841.05,Month-to-month,Fiber optic,0.6217683017932285,Medium Risk,Monitor and Contact for further deals
+6022-KOUQO,2,29.05,44.75,Month-to-month,DSL,0.6206668344803604,Medium Risk,Monitor and Contact for further deals
+0106-GHRQR,16,71.4,1212.1,Month-to-month,DSL,0.6186191893394685,Medium Risk,Monitor and Contact for further deals
+3658-KIBGF,1,54.9,54.9,Month-to-month,DSL,0.6182587565384818,Medium Risk,Monitor and Contact for further deals
+8535-SFUTN,61,106.45,6300.15,Month-to-month,Fiber optic,0.6178480738076483,Medium Risk,Monitor and Contact for further deals
+6410-LEFEN,9,45.15,416.45,Month-to-month,DSL,0.6174973884381217,Medium Risk,Monitor and Contact for further deals
+2207-QPJED,37,90.0,3371.75,Month-to-month,Fiber optic,0.6166192877543842,Medium Risk,Monitor and Contact for further deals
+2792-LSHWX,1,83.4,83.4,Month-to-month,Fiber optic,0.6155696812638187,Medium Risk,Monitor and Contact for further deals
+2826-DXLQO,7,29.8,220.45,Month-to-month,DSL,0.6150061805303345,Medium Risk,Monitor and Contact for further deals
+4226-KKDON,8,66.65,520.95,Month-to-month,DSL,0.6137920819214746,Medium Risk,Monitor and Contact for further deals
+4067-HLYQI,33,70.4,2406.1,Month-to-month,Fiber optic,0.61225371104691,Medium Risk,Monitor and Contact for further deals
+9174-FKWZE,1,19.45,19.45,Month-to-month,No,0.6121158356763388,Medium Risk,Monitor and Contact for further deals
+3349-ANQNH,59,99.5,5890.0,One year,Fiber optic,0.6103307636361667,Medium Risk,Monitor and Contact for further deals
+3192-LNKRK,34,84.05,2909.95,Month-to-month,Fiber optic,0.6090519621192827,Medium Risk,Monitor and Contact for further deals
+3466-RITXD,26,92.4,2349.8,Month-to-month,Fiber optic,0.60874362227655,Medium Risk,Monitor and Contact for further deals
+8016-NCFVO,55,116.5,6382.55,Month-to-month,Fiber optic,0.6045191357979333,Medium Risk,Monitor and Contact for further deals
+1174-FGIFN,28,90.45,2509.25,One year,Fiber optic,0.6020587887990846,Medium Risk,Monitor and Contact for further deals
+6923-EFPNL,4,51.75,201.1,Month-to-month,DSL,0.602025672133336,Medium Risk,Monitor and Contact for further deals
+4657-FWVFY,40,96.35,3915.4,Month-to-month,Fiber optic,0.601876093907777,Medium Risk,Monitor and Contact for further deals
+9626-VFRGG,41,88.5,3645.05,Month-to-month,Fiber optic,0.600484692523739,Medium Risk,Monitor and Contact for further deals
+9281-PKKZE,46,43.95,2007.85,Month-to-month,DSL,0.600471235837187,Medium Risk,Monitor and Contact for further deals
+7252-NTGSS,1,45.15,45.15,Month-to-month,DSL,0.5996676949299532,Medium Risk,Monitor and Contact for further deals
+6582-OIVSP,1,45.3,45.3,Month-to-month,DSL,0.5995671108355611,Medium Risk,Monitor and Contact for further deals
+4143-HHPMK,52,85.35,4338.6,Month-to-month,Fiber optic,0.59765611744417,Medium Risk,Monitor and Contact for further deals
+3207-OYBWH,57,95.25,5427.05,Month-to-month,Fiber optic,0.5976248069182146,Medium Risk,Monitor and Contact for further deals
+9079-YEXQJ,54,111.1,6014.85,Month-to-month,Fiber optic,0.5967773081130594,Medium Risk,Monitor and Contact for further deals
+0257-ZESQC,27,75.2,1929.35,Month-to-month,Fiber optic,0.5964055906179877,Medium Risk,Monitor and Contact for further deals
+2869-ADAWR,45,89.3,4016.85,Month-to-month,Fiber optic,0.5948929301845739,Medium Risk,Monitor and Contact for further deals
+9780-FKVVF,6,59.15,336.7,Month-to-month,DSL,0.5948580097404172,Medium Risk,Monitor and Contact for further deals
+5707-ORNDZ,9,54.55,494.05,Month-to-month,DSL,0.5932273533651381,Medium Risk,Monitor and Contact for further deals
+2189-UXTKY,22,79.2,1742.75,Month-to-month,DSL,0.5931028538197702,Medium Risk,Monitor and Contact for further deals
+3808-HFKDE,20,44.35,927.15,Month-to-month,DSL,0.5926681868522328,Medium Risk,Monitor and Contact for further deals
+7909-FIOIY,19,24.85,434.8,Month-to-month,DSL,0.5910225666726354,Medium Risk,Monitor and Contact for further deals
+0356-ERHVT,11,45.9,521.9,Month-to-month,DSL,0.5905901321792394,Medium Risk,Monitor and Contact for further deals
+6439-GTPCA,45,87.25,3941.7,Month-to-month,Fiber optic,0.589518831948943,Medium Risk,Monitor and Contact for further deals
+7593-XFKDI,1,46.3,46.3,Month-to-month,DSL,0.589141688291823,Medium Risk,Monitor and Contact for further deals
+0080-OROZO,35,99.25,3532.0,One year,Fiber optic,0.5871270396556496,Medium Risk,Monitor and Contact for further deals
+7075-BNDVQ,4,35.0,135.75,Month-to-month,DSL,0.5849208266530737,Medium Risk,Monitor and Contact for further deals
+6641-XRPSU,34,70.0,2416.1,Month-to-month,Fiber optic,0.5847081825854086,Medium Risk,Monitor and Contact for further deals
+4183-WCSEP,31,78.45,2435.15,Month-to-month,Fiber optic,0.5846087159352708,Medium Risk,Monitor and Contact for further deals
+2139-FQHLM,19,89.95,1682.4,Month-to-month,Fiber optic,0.5839943458883733,Medium Risk,Monitor and Contact for further deals
+1205-WNWPJ,7,59.5,415.95,Month-to-month,DSL,0.5831089691590549,Medium Risk,Monitor and Contact for further deals
+2669-OIDSD,48,100.05,4834.0,Month-to-month,Fiber optic,0.5786732090132043,Medium Risk,Monitor and Contact for further deals
+0929-PECLO,63,89.6,5538.8,Month-to-month,Fiber optic,0.5782735531475012,Medium Risk,Monitor and Contact for further deals
+2100-BDNSN,5,67.95,350.3,Month-to-month,DSL,0.5773558867726923,Medium Risk,Monitor and Contact for further deals
+0856-NAOES,6,60.9,414.1,Month-to-month,DSL,0.5767907148383999,Medium Risk,Monitor and Contact for further deals
+5949-HGVJL,26,73.05,1959.5,Month-to-month,DSL,0.5727389631643988,Medium Risk,Monitor and Contact for further deals
+3194-ORPIK,50,84.4,4116.15,Month-to-month,Fiber optic,0.572064955732032,Medium Risk,Monitor and Contact for further deals
+4983-CLMLV,52,102.7,5138.1,Month-to-month,Fiber optic,0.5708123666135181,Medium Risk,Monitor and Contact for further deals
+3466-WAESX,16,69.1,1083.7,Month-to-month,DSL,0.569328127978503,Medium Risk,Monitor and Contact for further deals
+8399-YNDCH,21,60.05,1236.15,Month-to-month,DSL,0.5688610446105824,Medium Risk,Monitor and Contact for further deals
+9795-VOWON,7,24.35,150.85,One year,DSL,0.5683594766641251,Medium Risk,Monitor and Contact for further deals
+3898-GUYTS,45,97.05,4385.05,Month-to-month,Fiber optic,0.56604397509626,Medium Risk,Monitor and Contact for further deals
+8840-DQLGN,35,100.5,3653.35,Month-to-month,Fiber optic,0.5647260524410864,Medium Risk,Monitor and Contact for further deals
+5035-PGZXH,56,106.8,5914.4,One year,Fiber optic,0.5646362464257734,Medium Risk,Monitor and Contact for further deals
+0107-WESLM,1,19.85,19.85,Month-to-month,No,0.5644080741702076,Medium Risk,Monitor and Contact for further deals
+7554-AKDQF,6,45.65,323.45,Month-to-month,DSL,0.5640507568005093,Medium Risk,Monitor and Contact for further deals
+3018-TFTSU,12,81.7,858.6,Month-to-month,Fiber optic,0.5633909859546969,Medium Risk,Monitor and Contact for further deals
+1564-HJUVY,4,63.75,226.2,Month-to-month,DSL,0.5633604589253787,Medium Risk,Monitor and Contact for further deals
+4026-SKKHW,3,50.25,152.3,Month-to-month,DSL,0.5632208034168723,Medium Risk,Monitor and Contact for further deals
+1794-HBQTJ,1,48.6,48.6,Month-to-month,DSL,0.5632063025828756,Medium Risk,Monitor and Contact for further deals
+0322-YINQP,1,48.55,48.55,Month-to-month,DSL,0.5612021506999431,Medium Risk,Monitor and Contact for further deals
+6507-DTJZV,13,66.4,831.75,Month-to-month,DSL,0.556062309635445,Medium Risk,Monitor and Contact for further deals
+4720-VSTSI,44,84.8,3862.55,Month-to-month,Fiber optic,0.5559215783754391,Medium Risk,Monitor and Contact for further deals
+8404-FYDIB,26,86.65,2208.75,Month-to-month,Fiber optic,0.5554842025349035,Medium Risk,Monitor and Contact for further deals
+7055-HNEOJ,3,55.8,154.55,Month-to-month,DSL,0.5547482653100912,Medium Risk,Monitor and Contact for further deals
+4280-DLSHD,8,54.75,445.85,Month-to-month,DSL,0.5536143500975278,Medium Risk,Monitor and Contact for further deals
+2181-UAESM,2,53.45,119.5,Month-to-month,DSL,0.5534815859648915,Medium Risk,Monitor and Contact for further deals
+2858-EIMXH,53,95.85,5016.25,One year,Fiber optic,0.553415063356507,Medium Risk,Monitor and Contact for further deals
+7251-LJBQN,40,103.75,4188.4,One year,Fiber optic,0.5524215888211682,Medium Risk,Monitor and Contact for further deals
+8757-TFHHJ,1,49.8,49.8,Month-to-month,DSL,0.5524025965665034,Medium Risk,Monitor and Contact for further deals
+6599-GZWCM,13,74.65,966.25,One year,Fiber optic,0.5520583617113194,Medium Risk,Monitor and Contact for further deals
+5527-ACHSO,11,70.5,829.3,Month-to-month,DSL,0.5509611859313662,Medium Risk,Monitor and Contact for further deals
+3873-NFTGI,14,55.5,767.55,Month-to-month,DSL,0.5483355321095092,Medium Risk,Monitor and Contact for further deals
+6905-NIQIN,1,50.65,50.65,Month-to-month,DSL,0.5455550523705955,Medium Risk,Monitor and Contact for further deals
+3062-ICYZQ,51,93.8,4539.35,Month-to-month,Fiber optic,0.5454035898711123,Medium Risk,Monitor and Contact for further deals
+1803-BGNBD,12,54.3,654.5,Month-to-month,DSL,0.5435483097383045,Medium Risk,Monitor and Contact for further deals
+7750-EYXWZ,12,60.65,743.3,One year,DSL,0.5411594752685037,Medium Risk,Monitor and Contact for further deals
+9688-YGXVR,44,88.15,3973.2,Month-to-month,Fiber optic,0.5404899450905428,Medium Risk,Monitor and Contact for further deals
+5060-TQUQN,30,83.55,2570.2,Month-to-month,Fiber optic,0.5396928314673807,Medium Risk,Monitor and Contact for further deals
+1208-NBVFH,20,49.6,939.8,Month-to-month,DSL,0.5373748635982227,Medium Risk,Monitor and Contact for further deals
+6538-POCHL,33,79.0,2576.8,Month-to-month,Fiber optic,0.5365459465719941,Medium Risk,Monitor and Contact for further deals
+6576-FBXOJ,17,54.6,934.8,One year,DSL,0.535448903323722,Medium Risk,Monitor and Contact for further deals
+7133-VBDCG,25,79.85,2015.35,Month-to-month,Fiber optic,0.5354337785848676,Medium Risk,Monitor and Contact for further deals
+2817-NTQDO,13,45.55,597.0,Month-to-month,DSL,0.5346888339776348,Medium Risk,Monitor and Contact for further deals
+8201-AAXCB,25,60.35,1404.65,Month-to-month,DSL,0.5346534691842426,Medium Risk,Monitor and Contact for further deals
+8388-FYNPZ,4,56.75,245.15,Month-to-month,DSL,0.5341541852690772,Medium Risk,Monitor and Contact for further deals
+2806-MLNTI,52,105.1,5376.4,One year,Fiber optic,0.5340304143953979,Medium Risk,Monitor and Contact for further deals
+8033-VCZGH,50,103.95,5231.3,One year,Fiber optic,0.5337790745198358,Medium Risk,Monitor and Contact for further deals
+6818-WOBHJ,68,89.6,6127.6,Month-to-month,Fiber optic,0.5334262854126218,Medium Risk,Monitor and Contact for further deals
+4001-TSBTV,58,91.55,5511.65,Month-to-month,Fiber optic,0.5327191065265316,Medium Risk,Monitor and Contact for further deals
+7551-DACSP,6,55.3,324.25,Month-to-month,DSL,0.5321056893589221,Medium Risk,Monitor and Contact for further deals
+8980-WQFWL,35,62.1,2096.1,Month-to-month,DSL,0.5314967111460774,Medium Risk,Monitor and Contact for further deals
+2479-BRAMR,41,83.75,3273.55,Month-to-month,Fiber optic,0.5311652555623242,Medium Risk,Monitor and Contact for further deals
+5071-FBJFS,4,50.3,217.1,Month-to-month,DSL,0.5303092112192606,Medium Risk,Monitor and Contact for further deals
+1353-LJWEM,11,60.9,688.5,Month-to-month,DSL,0.5300560064172474,Medium Risk,Monitor and Contact for further deals
+2692-PFYTJ,1,25.75,25.75,Month-to-month,No,0.529093226878635,Medium Risk,Monitor and Contact for further deals
+3815-SLMEF,3,34.25,139.35,Month-to-month,DSL,0.5285375813840478,Medium Risk,Monitor and Contact for further deals
+0799-DDIHE,15,46.3,639.45,Month-to-month,DSL,0.5283112208855386,Medium Risk,Monitor and Contact for further deals
+4130-MZLCC,5,50.55,244.75,Month-to-month,DSL,0.5275229205872922,Medium Risk,Monitor and Contact for further deals
+2937-FTHUR,18,64.8,1166.7,Month-to-month,DSL,0.526974173084647,Medium Risk,Monitor and Contact for further deals
+0668-OGMHD,21,28.5,629.35,Month-to-month,DSL,0.5268787541878757,Medium Risk,Monitor and Contact for further deals
+8705-DWKTI,52,83.8,4331.4,Month-to-month,Fiber optic,0.5253191543301237,Medium Risk,Monitor and Contact for further deals
+4628-WQCQQ,35,85.15,3030.6,One year,Fiber optic,0.5248944839735531,Medium Risk,Monitor and Contact for further deals
+7346-MEDWM,59,83.25,4949.1,Month-to-month,Fiber optic,0.5245435372954307,Medium Risk,Monitor and Contact for further deals
+0643-OKLRP,47,80.35,3825.85,Month-to-month,Fiber optic,0.5244074231657455,Medium Risk,Monitor and Contact for further deals
+2810-FTLEM,16,50.15,762.25,Month-to-month,DSL,0.523669652585611,Medium Risk,Monitor and Contact for further deals
+7993-NQLJE,15,75.1,1151.55,Month-to-month,Fiber optic,0.5234495537212538,Medium Risk,Monitor and Contact for further deals
+7966-YOTQW,10,54.5,568.2,Month-to-month,DSL,0.522826195309174,Medium Risk,Monitor and Contact for further deals
+9948-YPTDG,38,79.45,3013.05,Month-to-month,Fiber optic,0.5205657139931266,Medium Risk,Monitor and Contact for further deals
+9912-OMZDS,59,106.15,6256.2,One year,Fiber optic,0.5194712876836294,Medium Risk,Monitor and Contact for further deals
+2195-VVRJF,18,59.1,1011.05,Month-to-month,DSL,0.5193902797931702,Medium Risk,Monitor and Contact for further deals
+1360-JYXKQ,54,99.1,5437.1,One year,Fiber optic,0.5183226275216923,Medium Risk,Monitor and Contact for further deals
+2623-DRYAM,70,101.75,7069.3,One year,Fiber optic,0.5169069986209186,Medium Risk,Monitor and Contact for further deals
+1074-AMIOH,53,108.25,5935.1,Month-to-month,Fiber optic,0.51680487119606,Medium Risk,Monitor and Contact for further deals
+7742-MYPGI,6,48.8,297.35,Month-to-month,DSL,0.5165590217910859,Medium Risk,Monitor and Contact for further deals
+7629-WIXZF,7,59.1,369.25,One year,DSL,0.5148689752672756,Medium Risk,Monitor and Contact for further deals
+3604-WLABM,10,54.25,583.0,Month-to-month,DSL,0.5145519401086455,Medium Risk,Monitor and Contact for further deals
+4291-HYEBC,28,39.1,1096.6,One year,DSL,0.5139970172303293,Medium Risk,Monitor and Contact for further deals
+1784-EZDKJ,51,106.8,5498.8,One year,Fiber optic,0.5138618722217179,Medium Risk,Monitor and Contact for further deals
+0512-FLFDW,60,100.5,6029.0,One year,Fiber optic,0.5132824604535333,Medium Risk,Monitor and Contact for further deals
+2320-SLKMB,26,44.45,1183.8,Month-to-month,DSL,0.5131550010222854,Medium Risk,Monitor and Contact for further deals
+0419-YAAPX,49,85.3,4297.95,Month-to-month,Fiber optic,0.5121993070391502,Medium Risk,Monitor and Contact for further deals
+5553-AOINX,66,104.9,6891.45,One year,Fiber optic,0.5120448017228457,Medium Risk,Monitor and Contact for further deals
+1935-IMVBB,56,89.7,4952.95,Month-to-month,Fiber optic,0.5117369684664892,Medium Risk,Monitor and Contact for further deals
+3629-WEAAM,8,64.1,504.05,Month-to-month,DSL,0.5096333861516947,Medium Risk,Monitor and Contact for further deals
+8755-IWJHN,69,95.35,6382.0,Month-to-month,Fiber optic,0.5094582899600972,Medium Risk,Monitor and Contact for further deals
+2293-IJWPS,57,100.75,5985.0,One year,Fiber optic,0.5086136735055281,Medium Risk,Monitor and Contact for further deals
+7343-EOBEU,3,23.6,89.05,Month-to-month,No,0.5082233931738388,Medium Risk,Monitor and Contact for further deals
+8049-WJCLQ,10,60.2,563.5,Month-to-month,DSL,0.5076133187887844,Medium Risk,Monitor and Contact for further deals
+1215-FIGMP,60,89.9,5450.7,Month-to-month,Fiber optic,0.505888799667898,Medium Risk,Monitor and Contact for further deals
+5136-GFPMB,54,89.4,4869.5,Month-to-month,Fiber optic,0.5048563264774412,Medium Risk,Monitor and Contact for further deals
+2207-OBZNX,7,51.0,354.05,Month-to-month,DSL,0.5043063400172709,Medium Risk,Monitor and Contact for further deals
+7356-IWLFW,46,80.0,3769.7,Month-to-month,Fiber optic,0.5020379471079074,Medium Risk,Monitor and Contact for further deals
+4250-FDVOU,6,56.25,389.1,Month-to-month,DSL,0.5004031879090125,Medium Risk,Monitor and Contact for further deals
+1899-VXWXM,48,106.1,5082.8,One year,Fiber optic,0.5001257208185238,Medium Risk,Monitor and Contact for further deals
+9103-TCIHJ,15,55.7,899.8,Month-to-month,DSL,0.49874123379762414,Medium Risk,Monitor and Contact for further deals
+3780-DDGSE,35,76.05,2747.2,Month-to-month,DSL,0.49869701830464325,Medium Risk,Monitor and Contact for further deals
+4797-AXPXK,1,60.0,60.0,Month-to-month,DSL,0.4952238485638969,Medium Risk,Monitor and Contact for further deals
+6968-GMKPR,55,81.55,4509.5,Month-to-month,Fiber optic,0.49502036848605824,Medium Risk,Monitor and Contact for further deals
+7905-NJMXS,7,64.2,475.0,Month-to-month,DSL,0.4943194301163922,Medium Risk,Monitor and Contact for further deals
+6366-XIVKZ,13,63.15,816.8,Month-to-month,DSL,0.49404097063922586,Medium Risk,Monitor and Contact for further deals
+7821-DPRQE,68,107.7,7320.9,Month-to-month,Fiber optic,0.4924478325119504,Medium Risk,Monitor and Contact for further deals
+8450-JOVAH,2,56.7,113.55,Month-to-month,DSL,0.4920749409846311,Medium Risk,Monitor and Contact for further deals
+4851-BQDNX,40,85.05,3355.65,One year,Fiber optic,0.49165481220657764,Medium Risk,Monitor and Contact for further deals
+6572-ADKRS,46,74.8,3548.3,Month-to-month,Fiber optic,0.49059010910374407,Medium Risk,Monitor and Contact for further deals
+9835-ZIITK,66,110.85,7491.75,One year,Fiber optic,0.48982271950468165,Medium Risk,Monitor and Contact for further deals
+6633-SYEUS,23,83.2,2032.3,Month-to-month,Fiber optic,0.48957646496725327,Medium Risk,Monitor and Contact for further deals
+6284-KMNUF,56,98.0,5270.6,One year,Fiber optic,0.48954769755350364,Medium Risk,Monitor and Contact for further deals
+3577-AMVUX,1,55.05,55.05,Month-to-month,DSL,0.4877914506942291,Medium Risk,Monitor and Contact for further deals
+4232-JGKIY,1,19.2,19.2,Month-to-month,No,0.48729498002098337,Medium Risk,Monitor and Contact for further deals
+2832-SCUCO,2,19.9,57.4,Month-to-month,No,0.48686368280969367,Medium Risk,Monitor and Contact for further deals
+1685-VAYJF,11,45.2,492.0,Month-to-month,DSL,0.48673147369646597,Medium Risk,Monitor and Contact for further deals
+2731-GJRDG,32,109.55,3608.0,One year,Fiber optic,0.48463275269228795,Medium Risk,Monitor and Contact for further deals
+7673-LPRNY,23,78.55,1843.05,One year,DSL,0.4839786107086793,Medium Risk,Monitor and Contact for further deals
+9500-LTVBP,35,80.05,2835.9,Month-to-month,Fiber optic,0.4834361489412461,Medium Risk,Monitor and Contact for further deals
+6067-NGCEU,65,111.05,7107.0,Month-to-month,Fiber optic,0.48306449624851494,Medium Risk,Monitor and Contact for further deals
+8695-WDYEA,1,51.25,51.25,Month-to-month,DSL,0.4817038551973584,Medium Risk,Monitor and Contact for further deals
+6773-LQTVT,29,35.65,1025.15,Month-to-month,DSL,0.48122791231189566,Medium Risk,Monitor and Contact for further deals
+4800-VHZKI,1,19.9,19.9,Month-to-month,No,0.4801188264515971,Medium Risk,Monitor and Contact for further deals
+4897-QSUYC,1,20.15,20.15,Month-to-month,No,0.4799445352677041,Medium Risk,Monitor and Contact for further deals
+4634-JLRJT,1,20.35,20.35,Month-to-month,No,0.4798051058332999,Medium Risk,Monitor and Contact for further deals
+7402-PWYJJ,53,91.15,4862.5,One year,Fiber optic,0.4778577557831639,Medium Risk,Monitor and Contact for further deals
+2995-UPRYS,40,99.2,4062.2,One year,Fiber optic,0.475119199029462,Medium Risk,Monitor and Contact for further deals
+3744-ZBHON,3,20.2,65.95,Month-to-month,No,0.47480375661105384,Medium Risk,Monitor and Contact for further deals
+0887-WBJVH,53,93.45,4872.2,One year,Fiber optic,0.4740384664139676,Medium Risk,Monitor and Contact for further deals
+0853-NWIFK,45,100.3,4483.95,One year,Fiber optic,0.47233859421455926,Medium Risk,Monitor and Contact for further deals
+1958-RNRKS,30,49.9,1441.95,Month-to-month,DSL,0.47115034731709804,Medium Risk,Monitor and Contact for further deals
+0701-TJSEF,9,68.25,576.95,Month-to-month,DSL,0.47068482054257665,Medium Risk,Monitor and Contact for further deals
+5906-BFOZT,1,19.5,19.5,Month-to-month,No,0.47031004036172386,Medium Risk,Monitor and Contact for further deals
+1000-AJSLD,1,20.1,20.1,Month-to-month,No,0.4698925714276566,Medium Risk,Monitor and Contact for further deals
+1360-RCYRT,23,30.35,678.75,Month-to-month,DSL,0.4692829473139748,Medium Risk,Monitor and Contact for further deals
+3594-IVHJZ,2,20.45,42.45,Month-to-month,No,0.46874875448482667,Medium Risk,Monitor and Contact for further deals
+5445-GLVOT,22,49.8,1049.05,Month-to-month,DSL,0.4674985380685507,Medium Risk,Monitor and Contact for further deals
+0516-WJVXC,5,54.2,308.25,Month-to-month,DSL,0.4674796383737872,Medium Risk,Monitor and Contact for further deals
+3679-XASPY,1,19.45,19.45,Month-to-month,No,0.4672145877608193,Medium Risk,Monitor and Contact for further deals
+8930-XOTDP,18,55.95,1082.8,Month-to-month,DSL,0.46708269696269794,Medium Risk,Monitor and Contact for further deals
+3807-XHCJH,1,20.0,20.0,Month-to-month,No,0.4668322051957341,Medium Risk,Monitor and Contact for further deals
+5066-GFJMM,3,19.9,45.75,Month-to-month,No,0.46541785186660684,Medium Risk,Monitor and Contact for further deals
+1324-NLTJE,15,55.0,757.1,Month-to-month,DSL,0.46507694810875494,Medium Risk,Monitor and Contact for further deals
+2091-MJTFX,30,51.2,1561.5,Month-to-month,DSL,0.4643526767570858,Medium Risk,Monitor and Contact for further deals
+7722-CVFXN,54,105.2,5637.85,One year,Fiber optic,0.4633652475092865,Medium Risk,Monitor and Contact for further deals
+7610-TVOPG,15,26.35,378.6,Month-to-month,No,0.4619205623143352,Medium Risk,Monitor and Contact for further deals
+5325-UWTWJ,31,90.55,2929.75,Month-to-month,Fiber optic,0.46075881901142257,Medium Risk,Monitor and Contact for further deals
+6647-ZEDXT,30,110.45,3327.05,One year,Fiber optic,0.4598007772693293,Medium Risk,Monitor and Contact for further deals
+0953-LGOVU,12,35.5,432.25,Month-to-month,DSL,0.4578469235374072,Medium Risk,Monitor and Contact for further deals
+1470-PSXNM,49,93.65,4520.15,One year,Fiber optic,0.4577074723590802,Medium Risk,Monitor and Contact for further deals
+4003-FUSHP,19,61.55,1093.2,Month-to-month,DSL,0.4576998682203697,Medium Risk,Monitor and Contact for further deals
+2233-FAGXV,5,24.3,132.25,Month-to-month,No,0.45735129277284103,Medium Risk,Monitor and Contact for further deals
+9103-CXVOK,1,19.75,19.75,Month-to-month,No,0.456952254523024,Medium Risk,Monitor and Contact for further deals
+3920-HIHMQ,26,49.5,1265.65,Month-to-month,DSL,0.4565411933154782,Medium Risk,Monitor and Contact for further deals
+4098-NAUKP,68,84.65,5683.6,Month-to-month,Fiber optic,0.45644256326574667,Medium Risk,Monitor and Contact for further deals
+8259-NFJTV,7,34.65,246.6,Month-to-month,DSL,0.45544836679443956,Medium Risk,Monitor and Contact for further deals
+0369-ZGOVK,28,70.4,1992.2,One year,Fiber optic,0.4540016213329344,Medium Risk,Monitor and Contact for further deals
+5287-QWLKY,71,105.1,7548.1,Month-to-month,Fiber optic,0.4524341721817772,Medium Risk,Monitor and Contact for further deals
+3307-TLCUD,17,34.4,592.75,Month-to-month,DSL,0.4520446383931358,Medium Risk,Monitor and Contact for further deals
+7636-XUHWW,2,19.9,33.7,Month-to-month,No,0.4505908362869178,Medium Risk,Monitor and Contact for further deals
+4869-EPIUS,56,80.9,4557.5,One year,Fiber optic,0.4498216723954077,Medium Risk,Monitor and Contact for further deals
+1356-MKYSK,6,78.65,483.3,Month-to-month,DSL,0.4495338878860945,Medium Risk,Monitor and Contact for further deals
+9705-IOVQQ,61,99.0,5969.3,One year,Fiber optic,0.4463531322760835,Medium Risk,Monitor and Contact for further deals
+4194-WHFCB,59,96.65,5580.8,Month-to-month,Fiber optic,0.44520956897401676,Medium Risk,Monitor and Contact for further deals
+8082-GHXOP,13,44.0,659.35,Month-to-month,DSL,0.4430704345801958,Medium Risk,Monitor and Contact for further deals
+6476-YHMGA,15,76.5,1155.6,Month-to-month,DSL,0.4423387047364873,Medium Risk,Monitor and Contact for further deals
+1410-RSCMR,7,71.35,515.75,Month-to-month,DSL,0.44224689910672044,Medium Risk,Monitor and Contact for further deals
+7853-GVUDZ,1,20.15,20.15,Month-to-month,No,0.44209003428288307,Medium Risk,Monitor and Contact for further deals
+7530-HDYDS,38,84.25,3264.5,Month-to-month,Fiber optic,0.44046887487706954,Medium Risk,Monitor and Contact for further deals
+9099-FTUHS,23,54.4,1249.25,Month-to-month,DSL,0.43945856582073967,Medium Risk,Monitor and Contact for further deals
+3472-OAOOR,19,34.95,610.2,Month-to-month,DSL,0.43909761238525,Medium Risk,Monitor and Contact for further deals
+0187-WZNAB,27,74.4,1972.35,Month-to-month,Fiber optic,0.43677579627900587,Medium Risk,Monitor and Contact for further deals
+7130-CTCUS,16,54.55,825.1,Month-to-month,DSL,0.43484984339591487,Medium Risk,Monitor and Contact for further deals
+8713-IGZSO,2,24.85,62.0,Month-to-month,No,0.4320582368331175,Medium Risk,Monitor and Contact for further deals
+5868-YTYKS,1,20.25,20.25,Month-to-month,No,0.43170601081462934,Medium Risk,Monitor and Contact for further deals
+9277-JOOMO,3,24.6,86.35,Month-to-month,No,0.4315008294694868,Medium Risk,Monitor and Contact for further deals
+5542-DHSXL,4,54.7,235.05,Month-to-month,DSL,0.43091116563787274,Medium Risk,Monitor and Contact for further deals
+7797-EJMDP,8,66.05,574.5,Month-to-month,DSL,0.4301199425082275,Medium Risk,Monitor and Contact for further deals
+3541-ZNUHK,55,85.1,4600.95,Month-to-month,Fiber optic,0.4294761089305571,Medium Risk,Monitor and Contact for further deals
+5334-JLAXU,60,94.1,5475.9,Month-to-month,Fiber optic,0.42813849533990445,Medium Risk,Monitor and Contact for further deals
+3694-GLTJM,5,19.65,92.05,Month-to-month,No,0.4277184014324831,Medium Risk,Monitor and Contact for further deals
+0303-WMMRN,5,19.25,86.05,Month-to-month,No,0.42562595139479464,Medium Risk,Monitor and Contact for further deals
+1698-XFZCI,61,107.75,6521.9,One year,Fiber optic,0.4255326000164899,Medium Risk,Monitor and Contact for further deals
+8970-ANWXO,23,73.75,1756.6,One year,DSL,0.42274489854866887,Medium Risk,Monitor and Contact for further deals
+6890-PFRQX,18,69.5,1199.4,Month-to-month,DSL,0.41983589764526336,Medium Risk,Monitor and Contact for further deals
+3723-BFBGR,24,54.8,1291.3,Month-to-month,DSL,0.41936206832700984,Medium Risk,Monitor and Contact for further deals
+3445-HXXGF,58,45.3,2651.2,Month-to-month,DSL,0.4169791433811985,Medium Risk,Monitor and Contact for further deals
+2379-GYFLQ,46,94.9,4422.95,One year,Fiber optic,0.4158619663870111,Medium Risk,Monitor and Contact for further deals
+6439-LAJXL,9,68.95,593.85,Month-to-month,DSL,0.4157445923968928,Medium Risk,Monitor and Contact for further deals
+7776-QWNFX,30,50.4,1527.5,Month-to-month,DSL,0.4136811735249627,Medium Risk,Monitor and Contact for further deals
+7241-AJHFS,32,87.65,2766.4,Month-to-month,Fiber optic,0.41350738345492605,Medium Risk,Monitor and Contact for further deals
+5469-CTCWN,61,106.0,6547.7,One year,Fiber optic,0.4117016449589759,Medium Risk,Monitor and Contact for further deals
+3407-QGWLG,3,20.05,75.45,Month-to-month,No,0.411046971653058,Medium Risk,Monitor and Contact for further deals
+1814-DKOLC,5,25.45,134.75,Month-to-month,No,0.4096639439652983,Medium Risk,Monitor and Contact for further deals
+8952-WCVCD,41,104.45,4162.05,One year,Fiber optic,0.40964110274298543,Medium Risk,Monitor and Contact for further deals
+8963-JLGJT,3,55.9,157.55,Month-to-month,DSL,0.4095958376427782,Medium Risk,Monitor and Contact for further deals
+8189-HBVRW,53,90.8,4921.2,Month-to-month,Fiber optic,0.4095011842465964,Medium Risk,Monitor and Contact for further deals
+9481-IEBZY,72,112.9,8061.5,Month-to-month,Fiber optic,0.4090997690141895,Medium Risk,Monitor and Contact for further deals
+6402-SSEJG,25,61.05,1540.2,One year,DSL,0.4087725851583653,Medium Risk,Monitor and Contact for further deals
+4939-KYYPY,27,59.45,1611.65,Month-to-month,DSL,0.4079627339188274,Medium Risk,Monitor and Contact for further deals
+8495-PRWFH,42,55.65,2421.75,Month-to-month,DSL,0.4076696684903691,Medium Risk,Monitor and Contact for further deals
+5315-CKEQK,28,51.0,1381.8,One year,DSL,0.4043493889451562,Medium Risk,Monitor and Contact for further deals
+1905-OEILC,1,19.5,19.5,Month-to-month,No,0.403676951346958,Medium Risk,Monitor and Contact for further deals
+8329-IBCTI,1,19.65,19.65,Month-to-month,No,0.4035761008814754,Medium Risk,Monitor and Contact for further deals
+6654-QGBZZ,1,19.9,19.9,Month-to-month,No,0.4034080348830498,Medium Risk,Monitor and Contact for further deals
+8563-IIOXK,7,49.75,331.3,One year,DSL,0.403250532233417,Medium Risk,Monitor and Contact for further deals
+9426-SXNHE,2,18.75,53.15,Month-to-month,No,0.4031416925607901,Medium Risk,Monitor and Contact for further deals
+2592-YKDIF,1,20.35,20.35,Month-to-month,No,0.40310557323855245,Medium Risk,Monitor and Contact for further deals
+1963-VAUKV,1,20.4,20.4,Month-to-month,No,0.40307197093236385,Medium Risk,Monitor and Contact for further deals
+6475-VHUIZ,23,54.25,1221.55,Month-to-month,DSL,0.4028634610599991,Medium Risk,Monitor and Contact for further deals
+6994-ORCWG,14,54.25,773.2,One year,DSL,0.4026936553360938,Medium Risk,Monitor and Contact for further deals
+1194-SPVSP,1,19.65,19.65,Month-to-month,No,0.40266683184213276,Medium Risk,Monitor and Contact for further deals
+6128-DAFVY,56,44.85,2564.95,Month-to-month,DSL,0.4020021699177108,Medium Risk,Monitor and Contact for further deals
+1614-JBEBI,8,20.7,137.6,Month-to-month,No,0.4014424509304554,Medium Risk,Monitor and Contact for further deals
+0786-IVLAW,66,108.1,7238.6,One year,Fiber optic,0.39910424758518154,Low Risk,Normal Customer
+3339-EAQNV,72,97.25,7133.1,One year,Fiber optic,0.3985004508297104,Low Risk,Normal Customer
+8292-TYSPY,19,55.0,1046.5,Month-to-month,DSL,0.3977970456472972,Low Risk,Normal Customer
+2542-HYGIQ,1,19.95,19.95,Month-to-month,No,0.3956574093769686,Low Risk,Normal Customer
+9975-SKRNR,1,18.9,18.9,Month-to-month,No,0.394378985191456,Low Risk,Normal Customer
+2308-STERM,2,19.4,61.05,Month-to-month,No,0.39434588896034484,Low Risk,Normal Customer
+5766-ZJYBB,1,19.4,19.4,Month-to-month,No,0.3940454749223839,Low Risk,Normal Customer
+8393-JMVMB,1,19.45,19.45,Month-to-month,No,0.3940121293185326,Low Risk,Normal Customer
+1029-QFBEN,1,19.55,19.55,Month-to-month,No,0.393945441072519,Low Risk,Normal Customer
+3785-NRHYR,1,19.65,19.65,Month-to-month,No,0.3938787567772995,Low Risk,Normal Customer
+4892-VLANZ,1,19.8,19.8,Month-to-month,No,0.3937787377471306,Low Risk,Normal Customer
+6286-SUUWT,1,19.95,19.95,Month-to-month,No,0.3936787276189015,Low Risk,Normal Customer
+7698-YFGEZ,1,20.0,20.0,Month-to-month,No,0.39364539288901224,Low Risk,Normal Customer
+4877-EVATK,1,20.0,20.0,Month-to-month,No,0.39364539288901224,Low Risk,Normal Customer
+8749-CLJXC,1,20.05,20.05,Month-to-month,No,0.3936120591493515,Low Risk,Normal Customer
+6380-ARCEH,1,20.2,20.2,Month-to-month,No,0.3935120638745494,Low Risk,Normal Customer
+4701-MLJPN,31,55.25,1715.65,Month-to-month,DSL,0.3935039466419167,Low Risk,Normal Customer
+0396-HUJBP,2,19.3,44.4,Month-to-month,No,0.3934327344782038,Low Risk,Normal Customer
+2668-TZSPS,1,20.45,20.45,Month-to-month,No,0.3933454249139957,Low Risk,Normal Customer
+5049-GLYVG,1,20.6,20.6,Month-to-month,No,0.39324545344848494,Low Risk,Normal Customer
+2111-DWYHN,1,21.1,21.1,Month-to-month,No,0.39291227985646826,Low Risk,Normal Customer
+9818-XQCUV,2,20.35,45.3,Month-to-month,No,0.3927241960233027,Low Risk,Normal Customer
+0883-EIBTI,2,19.5,31.55,Month-to-month,No,0.39252748296017714,Low Risk,Normal Customer
+2342-CKIAO,2,20.3,41.2,Month-to-month,No,0.3925179925916785,Low Risk,Normal Customer
+2839-RFSQE,2,20.65,38.7,Month-to-month,No,0.3921164350431059,Low Risk,Normal Customer
+3794-NFNCH,30,50.0,1474.9,Month-to-month,DSL,0.391979499916892,Low Risk,Normal Customer
+9402-CXWPL,70,98.9,6838.6,One year,Fiber optic,0.39171710349805394,Low Risk,Normal Customer
+3523-QRQLL,22,69.5,1498.2,One year,DSL,0.3913700998296403,Low Risk,Normal Customer
+7808-DVWEP,3,20.0,49.65,Month-to-month,No,0.38855651005511666,Low Risk,Normal Customer
+2957-JIRMN,62,84.45,4959.15,One year,Fiber optic,0.3882424221909482,Low Risk,Normal Customer
+7502-BNYGS,46,69.1,3168.0,Month-to-month,DSL,0.3861150585925902,Low Risk,Normal Customer
+2700-LUEVA,1,20.75,20.75,Month-to-month,No,0.38549772513807695,Low Risk,Normal Customer
+4789-KWMXN,47,110.85,5275.8,One year,Fiber optic,0.3845441639450846,Low Risk,Normal Customer
+5562-YJQGT,2,20.35,35.1,Month-to-month,No,0.3844806372381996,Low Risk,Normal Customer
+3847-BAERP,10,20.9,247.0,Month-to-month,No,0.38414797362071335,Low Risk,Normal Customer
+8150-QUDFX,2,19.85,51.6,Month-to-month,No,0.38384897335189844,Low Risk,Normal Customer
+2186-QZEYA,29,58.55,1718.95,Month-to-month,DSL,0.3829249256430188,Low Risk,Normal Customer
+0188-GWFLE,2,20.05,33.7,Month-to-month,No,0.3826559675981176,Low Risk,Normal Customer
+4195-SMMNX,2,20.35,33.2,Month-to-month,No,0.3824111861176676,Low Risk,Normal Customer
+7544-ZVIKX,58,105.05,6004.85,One year,Fiber optic,0.38181480457650263,Low Risk,Normal Customer
+0409-WTMPL,58,110.65,6526.65,One year,Fiber optic,0.3784345026149672,Low Risk,Normal Customer
+0639-TSIQW,67,102.95,6886.25,Month-to-month,Fiber optic,0.37597334198535975,Low Risk,Normal Customer
+0523-VNGTF,52,50.5,2566.3,Month-to-month,DSL,0.37535323601334164,Low Risk,Normal Customer
+9962-BFPDU,1,20.05,20.05,Month-to-month,No,0.3747353564264451,Low Risk,Normal Customer
+0222-CNVPT,52,48.8,2555.05,Month-to-month,DSL,0.37327383347619125,Low Risk,Normal Customer
+3675-YDUPJ,10,19.85,193.05,Month-to-month,No,0.3722409663989864,Low Risk,Normal Customer
+0330-BGYZE,60,102.5,6157.6,One year,Fiber optic,0.3715682981577868,Low Risk,Normal Customer
+2946-KIQSP,35,33.45,1175.85,Month-to-month,DSL,0.37026138971089206,Low Risk,Normal Customer
+5140-FOMCQ,59,109.15,6557.75,One year,Fiber optic,0.3697137029257781,Low Risk,Normal Customer
+0479-HMSWA,26,105.45,2715.3,Two year,Fiber optic,0.3676507978097063,Low Risk,Normal Customer
+3221-CJMSG,24,51.1,1269.6,Month-to-month,DSL,0.36740311382741964,Low Risk,Normal Customer
+5832-EXGTT,29,60.2,1834.15,Month-to-month,DSL,0.3673354791852498,Low Risk,Normal Customer
+2858-MOFSQ,17,55.85,937.5,One year,DSL,0.3665620550934624,Low Risk,Normal Customer
+0870-VEMYL,5,53.85,259.8,Month-to-month,DSL,0.36532331693046605,Low Risk,Normal Customer
+1518-OMDIK,33,44.55,1462.6,Month-to-month,DSL,0.3648189714454993,Low Risk,Normal Customer
+5150-LJNSR,31,98.05,3082.1,One year,Fiber optic,0.3643667901094747,Low Risk,Normal Customer
+3948-XHGNA,24,49.55,1210.4,Month-to-month,DSL,0.36096313885543996,Low Risk,Normal Customer
+8250-ZNGGW,5,59.9,287.85,Month-to-month,DSL,0.36037398561133804,Low Risk,Normal Customer
+4291-HPAXL,1,19.85,19.85,Month-to-month,No,0.3576691730688189,Low Risk,Normal Customer
+6769-DCQLI,52,105.0,5426.85,One year,Fiber optic,0.35764225618814144,Low Risk,Normal Customer
+3645-DEYGF,1,20.75,20.75,Month-to-month,No,0.3570918540975228,Low Risk,Normal Customer
+3316-UWXUY,50,93.5,4747.5,Month-to-month,Fiber optic,0.35601927074011486,Low Risk,Normal Customer
+1409-PHXTF,54,110.45,6077.75,Two year,Fiber optic,0.35544901101409554,Low Risk,Normal Customer
+2560-PPCHE,65,105.05,6744.25,One year,Fiber optic,0.3547373570934582,Low Risk,Normal Customer
+6617-WLBQC,23,81.85,1810.85,One year,Fiber optic,0.35327834887719833,Low Risk,Normal Customer
+6563-VNPMN,45,85.7,3778.1,Month-to-month,Fiber optic,0.3528244966951977,Low Risk,Normal Customer
+2439-QKJUL,5,20.25,109.8,Month-to-month,No,0.3523810109436566,Low Risk,Normal Customer
+2748-MYRVK,63,99.9,6137.0,One year,Fiber optic,0.35142988832381056,Low Risk,Normal Customer
+3786-WOVKF,72,106.85,7677.4,One year,Fiber optic,0.35058881534149394,Low Risk,Normal Customer
+2722-VOJQL,64,105.65,6903.1,One year,Fiber optic,0.34967222987934166,Low Risk,Normal Customer
+9036-CSKBW,51,107.45,5680.9,One year,Fiber optic,0.34839936864787807,Low Risk,Normal Customer
+2908-ZTPNF,36,34.85,1267.2,Month-to-month,DSL,0.34538379732844304,Low Risk,Normal Customer
+2159-TURXX,5,20.05,95.55,Month-to-month,No,0.3444144326387959,Low Risk,Normal Customer
+0584-BJQGZ,25,78.35,1837.9,Month-to-month,DSL,0.34332896521043166,Low Risk,Normal Customer
+9470-RTWDV,26,82.0,2083.1,One year,DSL,0.34326754660694664,Low Risk,Normal Customer
+4816-OKWNX,50,103.4,5236.4,One year,Fiber optic,0.34317327940808506,Low Risk,Normal Customer
+1383-EZRWL,7,20.05,164.85,Month-to-month,No,0.34233152908090353,Low Risk,Normal Customer
+8849-GYOKR,54,106.55,5763.3,One year,Fiber optic,0.3393643177855745,Low Risk,Normal Customer
+7521-YXVZY,3,19.95,58.3,Month-to-month,No,0.3373097514707078,Low Risk,Normal Customer
+9475-NNDGC,71,113.15,7953.25,One year,Fiber optic,0.33654677214205353,Low Risk,Normal Customer
+8905-IAZPF,69,95.65,6744.2,One year,Fiber optic,0.33575555362929094,Low Risk,Normal Customer
+4710-NKCAW,5,64.4,316.9,Month-to-month,DSL,0.335349440663458,Low Risk,Normal Customer
+6705-LNMDD,20,50.0,1003.05,Month-to-month,DSL,0.3345681185517538,Low Risk,Normal Customer
+4355-CVPVS,56,88.9,4968.0,One year,Fiber optic,0.3341045147059991,Low Risk,Normal Customer
+1202-KKGFU,12,54.2,690.5,Month-to-month,DSL,0.33386661157139236,Low Risk,Normal Customer
+4374-YMUSQ,34,116.25,3899.05,One year,Fiber optic,0.3328599433901331,Low Risk,Normal Customer
+9929-PLVPA,4,20.4,94.5,Month-to-month,No,0.32983396837227114,Low Risk,Normal Customer
+5197-PYEPU,42,94.45,3923.8,One year,Fiber optic,0.32915104707316317,Low Risk,Normal Customer
+7105-MXJLL,26,60.7,1597.4,One year,DSL,0.32848685589355614,Low Risk,Normal Customer
+8216-AZUUZ,42,100.4,4303.65,Two year,Fiber optic,0.32602784036859084,Low Risk,Normal Customer
+8944-AILEF,15,19.45,340.85,Month-to-month,No,0.32500369407146457,Low Risk,Normal Customer
+6164-HXUGH,6,19.85,119.3,Month-to-month,No,0.32424328416576753,Low Risk,Normal Customer
+0824-VWDPO,45,96.75,4442.75,One year,Fiber optic,0.3200695708914185,Low Risk,Normal Customer
+0396-UKGAI,23,55.3,1284.2,Month-to-month,DSL,0.3200360469223159,Low Risk,Normal Customer
+2294-DMMUS,62,70.45,4300.45,Month-to-month,DSL,0.31968330950035706,Low Risk,Normal Customer
+0997-YTLNY,19,48.8,953.65,Month-to-month,DSL,0.3186190838418767,Low Risk,Normal Customer
+6202-JVYEU,9,19.9,164.6,One year,No,0.3170472301995881,Low Risk,Normal Customer
+3724-UCSHY,6,19.55,122.9,Month-to-month,No,0.31583390834814923,Low Risk,Normal Customer
+6092-QZVPP,36,79.2,2854.95,Month-to-month,DSL,0.31216885696475855,Low Risk,Normal Customer
+4476-OSWTN,69,110.55,7610.1,One year,Fiber optic,0.3116893068920198,Low Risk,Normal Customer
+2925-MXLSX,30,68.95,2038.7,One year,DSL,0.3101015835169391,Low Risk,Normal Customer
+0297-RBCSG,19,65.35,1231.85,One year,DSL,0.3097184402592157,Low Risk,Normal Customer
+1159-WFSGR,16,20.4,321.4,Month-to-month,No,0.30956484060167794,Low Risk,Normal Customer
+5353-WILCI,28,56.05,1522.65,Month-to-month,DSL,0.30871471914053655,Low Risk,Normal Customer
+7623-HKYRK,6,19.7,111.65,Month-to-month,No,0.3079163526388697,Low Risk,Normal Customer
+4732-RRJZC,7,20.25,144.35,Month-to-month,No,0.3059091505320769,Low Risk,Normal Customer
+9633-DENPU,47,58.6,2723.4,Month-to-month,DSL,0.3031310800171114,Low Risk,Normal Customer
+7148-XZPHA,55,79.4,4238.45,Month-to-month,Fiber optic,0.30270606280326734,Low Risk,Normal Customer
+6368-NWMCE,38,68.15,2656.3,Month-to-month,DSL,0.29749019500870294,Low Risk,Normal Customer
+2805-EDJPQ,56,99.75,5608.4,One year,Fiber optic,0.29720881100482904,Low Risk,Normal Customer
+3528-HFRIQ,71,52.3,3765.05,Month-to-month,DSL,0.29637562846764615,Low Risk,Normal Customer
+4489-SNOJF,35,72.25,2568.55,Month-to-month,DSL,0.2956473520577829,Low Risk,Normal Customer
+8910-ICHIU,46,95.65,4664.2,One year,Fiber optic,0.29442101897890033,Low Risk,Normal Customer
+3750-RNQKR,12,19.45,246.25,Month-to-month,No,0.29348549159409415,Low Risk,Normal Customer
+7080-TNUWP,70,95.0,6602.9,One year,Fiber optic,0.29203852032286837,Low Risk,Normal Customer
+8947-YRTDV,32,94.8,3131.55,One year,Fiber optic,0.29102906664812944,Low Risk,Normal Customer
+1353-GHZOS,22,59.75,1374.35,One year,DSL,0.2904513581183063,Low Risk,Normal Customer
+1850-AKQEP,8,20.35,178.7,Month-to-month,No,0.29022946936376015,Low Risk,Normal Customer
+0489-WMEMG,23,49.45,1119.35,One year,DSL,0.29019238021223664,Low Risk,Normal Customer
+3391-JSQEW,40,50.15,2058.5,Month-to-month,DSL,0.2882736039751478,Low Risk,Normal Customer
+3256-EZDBI,51,29.45,1459.35,Month-to-month,DSL,0.28800845622810267,Low Risk,Normal Customer
+8942-DBMHZ,12,20.45,255.35,Month-to-month,No,0.2850087827367496,Low Risk,Normal Customer
+9546-KDTRB,19,24.7,465.85,Month-to-month,No,0.2813877931287967,Low Risk,Normal Customer
+7516-GMHUV,50,105.05,5163.3,Two year,Fiber optic,0.2809611742394849,Low Risk,Normal Customer
+9107-UKCKY,61,79.8,4914.8,One year,DSL,0.28080238090682996,Low Risk,Normal Customer
+8735-NBLWT,9,20.4,184.1,Month-to-month,No,0.2803746923710007,Low Risk,Normal Customer
+2202-OUTMO,34,60.85,2003.6,Month-to-month,DSL,0.2787496173789553,Low Risk,Normal Customer
+4063-EIKNQ,11,20.95,267.35,Month-to-month,No,0.27841172503195266,Low Risk,Normal Customer
+0080-EMYVY,14,51.45,727.85,One year,DSL,0.2782252114646132,Low Risk,Normal Customer
+2794-XIMMO,53,60.45,3184.25,One year,DSL,0.27798065858161064,Low Risk,Normal Customer
+4770-QAZXN,13,19.45,232.1,Month-to-month,No,0.2761352893687611,Low Risk,Normal Customer
+5921-NGYRH,64,73.55,4764.0,Month-to-month,Fiber optic,0.2755810074857346,Low Risk,Normal Customer
+0208-BPQEJ,12,19.4,198.1,Month-to-month,No,0.2741070534042019,Low Risk,Normal Customer
+7803-XOCCZ,52,84.05,4326.8,Month-to-month,Fiber optic,0.27404650061712926,Low Risk,Normal Customer
+4712-UYOOI,20,20.0,417.65,Month-to-month,No,0.27385453195623904,Low Risk,Normal Customer
+2223-KAGMX,15,19.4,289.3,Month-to-month,No,0.27297527092326873,Low Risk,Normal Customer
+7605-SNLQG,45,50.25,2221.55,Month-to-month,DSL,0.27108350062777664,Low Risk,Normal Customer
+4765-OXPPD,9,65.0,663.05,Month-to-month,DSL,0.270981954896672,Low Risk,Normal Customer
+3104-OWCGK,60,90.95,5453.4,One year,Fiber optic,0.26917936481186744,Low Risk,Normal Customer
+7998-ZLXWN,15,20.45,330.8,Month-to-month,No,0.26743570173320363,Low Risk,Normal Customer
+9867-NNXLC,22,20.05,470.2,Month-to-month,No,0.2673135961712678,Low Risk,Normal Customer
+0689-DSXGL,52,85.8,4433.3,Month-to-month,Fiber optic,0.26687237017559656,Low Risk,Normal Customer
+4163-KIUHY,35,25.6,901.25,Month-to-month,No,0.2667564168331546,Low Risk,Normal Customer
+0864-FVJNJ,64,113.35,7222.75,One year,Fiber optic,0.2657025491187914,Low Risk,Normal Customer
+4075-WKNIU,0,73.35,1397.475,Two year,DSL,0.26529856450232686,Low Risk,Normal Customer
+2690-DVRVK,5,20.55,99.45,One year,No,0.2651455914942363,Low Risk,Normal Customer
+1428-IEDPR,52,109.3,5731.4,Two year,Fiber optic,0.2646349649506846,Low Risk,Normal Customer
+6861-OKBCE,11,20.1,221.35,Month-to-month,No,0.26440189661297586,Low Risk,Normal Customer
+6794-HKIAJ,62,90.7,5586.45,Month-to-month,Fiber optic,0.26324562855949496,Low Risk,Normal Customer
+9896-UYMIE,66,114.3,7383.7,One year,Fiber optic,0.2632173504352613,Low Risk,Normal Customer
+0076-LVEPS,29,45.0,1242.45,Month-to-month,DSL,0.26264250279446405,Low Risk,Normal Customer
+4282-MSACW,68,117.2,8035.95,One year,Fiber optic,0.2603281881744112,Low Risk,Normal Customer
+3387-PLKUI,13,18.8,251.25,Month-to-month,No,0.26017272793910035,Low Risk,Normal Customer
+4829-ZLJTK,72,112.4,8046.85,Two year,Fiber optic,0.2591478068723042,Low Risk,Normal Customer
+8138-EALND,15,19.75,311.6,Month-to-month,No,0.2587961058028754,Low Risk,Normal Customer
+4003-OCTMP,31,64.0,1910.75,One year,DSL,0.2570962694066872,Low Risk,Normal Customer
+2316-ESMLS,12,33.15,444.75,One year,DSL,0.255255585234108,Low Risk,Normal Customer
+5195-KPUNQ,53,96.75,5206.55,One year,Fiber optic,0.254430505799191,Low Risk,Normal Customer
+0917-EZOLA,72,104.15,7689.95,Two year,Fiber optic,0.2541237170994809,Low Risk,Normal Customer
+9128-CPXKI,59,95.8,5655.45,Two year,Fiber optic,0.25403876292896566,Low Risk,Normal Customer
+9114-AAFQH,48,65.65,3094.65,One year,DSL,0.25375158956515853,Low Risk,Normal Customer
+3571-DPYUH,58,94.7,5430.35,One year,Fiber optic,0.2525074594134164,Low Risk,Normal Customer
+5160-UXJED,17,44.6,681.4,One year,DSL,0.25177398773073784,Low Risk,Normal Customer
+7446-KQISO,45,109.75,4900.65,Two year,Fiber optic,0.25142755006242234,Low Risk,Normal Customer
+3898-BSJYF,10,73.55,693.3,One year,DSL,0.2494028900211469,Low Risk,Normal Customer
+0289-IVARM,35,60.55,1982.6,Month-to-month,DSL,0.2489719595411176,Low Risk,Normal Customer
+4683-WYDOU,62,107.6,6912.7,Two year,Fiber optic,0.24825743462814917,Low Risk,Normal Customer
+5193-QLVZB,63,104.75,6536.5,Two year,Fiber optic,0.24821793715360954,Low Risk,Normal Customer
+3594-UVONA,35,85.95,3110.1,One year,DSL,0.24770444860515578,Low Risk,Normal Customer
+7102-JJVTX,9,48.6,422.3,One year,DSL,0.24691497287134118,Low Risk,Normal Customer
+2324-EFHVG,64,104.4,6692.65,Two year,Fiber optic,0.2464060902716209,Low Risk,Normal Customer
+4826-DXMUP,35,72.1,2495.15,One year,DSL,0.24520360292959278,Low Risk,Normal Customer
+4186-ZBUEW,36,70.7,2511.95,One year,DSL,0.24491403908851347,Low Risk,Normal Customer
+9754-CLVZW,26,38.85,1025.15,Month-to-month,DSL,0.24287326798576694,Low Risk,Normal Customer
+2371-KFUOG,58,99.15,5720.95,One year,Fiber optic,0.24255543384999131,Low Risk,Normal Customer
+5693-PIPCS,41,99.65,4220.35,Two year,Fiber optic,0.24227969736672975,Low Risk,Normal Customer
+5027-YOCXN,51,110.05,5686.4,One year,Fiber optic,0.2416612115260237,Low Risk,Normal Customer
+4393-OBCRR,3,20.25,71.2,One year,No,0.2414599154036737,Low Risk,Normal Customer
+9786-IJYDL,35,113.2,3914.05,Two year,Fiber optic,0.24108522718318026,Low Risk,Normal Customer
+4815-TUMEQ,10,19.3,185.2,One year,No,0.2407702230368576,Low Risk,Normal Customer
+0895-UADGO,8,44.55,343.45,Two year,DSL,0.24008549731041812,Low Risk,Normal Customer
+1810-MVMAI,30,67.6,2000.2,Month-to-month,DSL,0.2395791399293696,Low Risk,Normal Customer
+5018-LXQQG,30,66.3,1923.5,Month-to-month,DSL,0.23915819904940297,Low Risk,Normal Customer
+2055-SIFSS,55,51.65,2838.55,Month-to-month,DSL,0.23888786547358953,Low Risk,Normal Customer
+6480-YAGIY,45,112.2,5031.85,One year,Fiber optic,0.23881570184370746,Low Risk,Normal Customer
+1264-FUHCX,49,56.3,2780.6,One year,DSL,0.23814707878689723,Low Risk,Normal Customer
+5307-UVGNB,53,48.7,2495.2,Month-to-month,DSL,0.23726744483007742,Low Risk,Normal Customer
+2307-FYNNL,65,109.05,7108.2,Two year,Fiber optic,0.23721240873953264,Low Risk,Normal Customer
+1729-VLAZJ,10,40.25,411.45,One year,DSL,0.23710718977344838,Low Risk,Normal Customer
+8780-RSYYU,25,19.2,532.1,Month-to-month,No,0.2366578397776725,Low Risk,Normal Customer
+7666-WKRON,39,80.45,3201.55,Two year,Fiber optic,0.23478783413348514,Low Risk,Normal Customer
+6419-ZTTLE,23,20.75,485.2,One year,No,0.23245056359293798,Low Risk,Normal Customer
+4501-UYKBC,46,69.1,3255.35,One year,DSL,0.23242592427841302,Low Risk,Normal Customer
+9967-ATRFS,19,19.9,367.55,Month-to-month,No,0.23210730195659737,Low Risk,Normal Customer
+0623-EJQEG,65,93.55,6069.25,One year,Fiber optic,0.23209036365505123,Low Risk,Normal Customer
+7629-WFGLW,56,95.65,5471.75,One year,Fiber optic,0.23098917238085698,Low Risk,Normal Customer
+4104-PVRPS,24,53.6,1315.35,Month-to-month,DSL,0.23052617512920315,Low Risk,Normal Customer
+0956-SYCWG,13,19.65,244.8,One year,No,0.22862738099195423,Low Risk,Normal Customer
+5562-BETPV,1,19.65,19.65,One year,No,0.2284100713692592,Low Risk,Normal Customer
+9894-QMIMJ,23,55.8,1327.85,One year,DSL,0.22334721481598058,Low Risk,Normal Customer
+8550-XSXUQ,48,70.55,3420.5,One year,DSL,0.2223621090386994,Low Risk,Normal Customer
+8548-AWOFC,66,63.85,4264.6,Month-to-month,DSL,0.22026978485939275,Low Risk,Normal Customer
+0201-MIBOL,66,102.4,6471.85,Two year,Fiber optic,0.2188923225235816,Low Risk,Normal Customer
+2830-LEWOA,61,103.9,6449.15,One year,Fiber optic,0.21836036712654314,Low Risk,Normal Customer
+2930-UOTMB,31,65.25,1994.3,Month-to-month,DSL,0.21692104985427219,Low Risk,Normal Customer
+8075-GXIUB,9,19.85,183.15,One year,No,0.21479951346681464,Low Risk,Normal Customer
+3597-YASZG,70,104.45,7349.35,Two year,Fiber optic,0.2134841323245005,Low Risk,Normal Customer
+9488-FYQAU,63,109.25,6841.4,Two year,Fiber optic,0.21328461790186282,Low Risk,Normal Customer
+4576-CSAJH,22,55.15,1193.05,One year,DSL,0.21295650172696778,Low Risk,Normal Customer
+3621-CHYVB,57,49.9,2782.4,Month-to-month,DSL,0.212166589451716,Low Risk,Normal Customer
+2673-ZALNP,7,19.9,173.15,One year,No,0.21141294447135986,Low Risk,Normal Customer
+2862-JVEOY,6,19.15,124.4,One year,No,0.21128995436289943,Low Risk,Normal Customer
+0967-BMLBD,11,20.0,196.35,One year,No,0.21121832689264478,Low Risk,Normal Customer
+9402-ROUMJ,67,100.25,6689.0,One year,Fiber optic,0.21009878003885385,Low Risk,Normal Customer
+3096-YXENJ,65,107.65,7082.85,Two year,Fiber optic,0.20758593278838858,Low Risk,Normal Customer
+4795-WRNVT,40,65.1,2586.0,Month-to-month,DSL,0.20726789596754486,Low Risk,Normal Customer
+5161-XEUVX,37,94.3,3460.95,Two year,Fiber optic,0.20692012583995703,Low Risk,Normal Customer
+5304-EFJLP,72,111.65,8022.85,Two year,Fiber optic,0.20585131379549337,Low Risk,Normal Customer
+6266-QHOJZ,65,89.85,5844.65,One year,Fiber optic,0.20357174945135048,Low Risk,Normal Customer
+5440-FLBQG,69,108.4,7318.2,Two year,Fiber optic,0.20319976577674093,Low Risk,Normal Customer
+6506-EYCNH,28,19.55,543.8,Month-to-month,No,0.2027444935287538,Low Risk,Normal Customer
+0020-JDNXP,34,61.25,1993.2,One year,DSL,0.2026546873447722,Low Risk,Normal Customer
+2773-OVBPK,67,111.3,7567.2,Two year,Fiber optic,0.20261690015825085,Low Risk,Normal Customer
+3441-CGZJH,43,60.4,2640.55,One year,DSL,0.2021672649762318,Low Risk,Normal Customer
+5049-MUBWG,26,75.0,1908.35,One year,DSL,0.2019799400697105,Low Risk,Normal Customer
+2746-DIJLO,41,56.3,2364.0,One year,DSL,0.20177698650841802,Low Risk,Normal Customer
+7036-TYDEC,69,104.0,7028.5,Two year,Fiber optic,0.20140300325852822,Low Risk,Normal Customer
+3205-MXZRA,26,59.45,1507.0,One year,DSL,0.20020872830168224,Low Risk,Normal Customer
+8752-GHJFU,71,92.0,6585.2,One year,Fiber optic,0.19987757557212973,Low Risk,Normal Customer
+6481-OGDOO,67,90.6,6056.15,One year,Fiber optic,0.19774592269502694,Low Risk,Normal Customer
+8565-HBFNN,69,107.2,7317.1,One year,Fiber optic,0.1962848067918122,Low Risk,Normal Customer
+3374-TTZTK,52,106.3,5487.0,Two year,Fiber optic,0.19500603145855355,Low Risk,Normal Customer
+2483-XSSMZ,39,47.85,1886.4,One year,DSL,0.19395916743093192,Low Risk,Normal Customer
+1099-BTKWT,68,54.4,3723.65,One year,DSL,0.19374681721690162,Low Risk,Normal Customer
+5372-FBKBN,21,20.75,452.2,Month-to-month,No,0.1929453276090821,Low Risk,Normal Customer
+5954-BDFSG,72,107.5,7853.7,Two year,Fiber optic,0.19286276736054653,Low Risk,Normal Customer
+8984-HPEMB,71,118.65,8477.6,Two year,Fiber optic,0.19225612191898314,Low Risk,Normal Customer
+6500-JVEGC,68,101.35,7110.75,One year,Fiber optic,0.19077092401423307,Low Risk,Normal Customer
+3518-FSTWG,72,109.55,7920.7,Two year,Fiber optic,0.1891186759747433,Low Risk,Normal Customer
+5777-KJIRB,40,50.25,2023.55,One year,DSL,0.18875322786002388,Low Risk,Normal Customer
+4134-BSXLX,28,60.9,1785.65,Month-to-month,DSL,0.18625363544515983,Low Risk,Normal Customer
+8879-ZKJOF,41,79.85,3320.75,One year,DSL,0.1853064284966578,Low Risk,Normal Customer
+0661-KBKPA,53,78.75,3942.45,One year,DSL,0.18502197369966522,Low Risk,Normal Customer
+7519-JTWQH,69,110.5,7455.45,Two year,Fiber optic,0.18429153578507704,Low Risk,Normal Customer
+8109-YUOHE,17,56.1,946.95,One year,DSL,0.1839601101210369,Low Risk,Normal Customer
+7407-SUJIZ,25,20.6,541.5,Month-to-month,No,0.1834691795304681,Low Risk,Normal Customer
+3372-CDXFJ,13,24.5,343.6,One year,No,0.18288917781824282,Low Risk,Normal Customer
+9933-QRGTX,60,97.2,5611.75,Two year,Fiber optic,0.18277288449148216,Low Risk,Normal Customer
+0661-WCQNQ,22,56.25,1292.2,One year,DSL,0.18144726264007205,Low Risk,Normal Customer
+5663-QBGIS,72,98.35,6929.4,Two year,Fiber optic,0.18127578240005401,Low Risk,Normal Customer
+2387-KDZQY,17,20.1,279.5,One year,No,0.18025711446765927,Low Risk,Normal Customer
+1915-OAKWD,16,19.3,360.35,One year,No,0.17955274718414604,Low Risk,Normal Customer
+9442-JTWDL,11,20.05,237.7,One year,No,0.1778283926937982,Low Risk,Normal Customer
+9313-QOLTZ,26,20.9,518.3,Month-to-month,No,0.175201174980325,Low Risk,Normal Customer
+5975-BAICR,36,63.7,2188.5,One year,DSL,0.17322094872411856,Low Risk,Normal Customer
+1452-XRSJV,39,51.05,2066.0,Month-to-month,DSL,0.17268115006291052,Low Risk,Normal Customer
+8383-SGHJU,33,59.4,1952.8,One year,DSL,0.17101493926761682,Low Risk,Normal Customer
+7707-PYBBH,40,61.9,2647.1,Month-to-month,DSL,0.17077652467836033,Low Risk,Normal Customer
+9432-RUVSL,48,102.5,4904.25,Two year,Fiber optic,0.16917962430693842,Low Risk,Normal Customer
+8071-SBTRN,70,111.15,7737.55,Two year,Fiber optic,0.16904163471570435,Low Risk,Normal Customer
+9483-GCPWE,9,20.1,190.25,One year,No,0.1671183966271073,Low Risk,Normal Customer
+3724-BSCVH,10,20.45,242.4,One year,No,0.16656176024616945,Low Risk,Normal Customer
+0484-JPBRU,41,25.25,996.45,Month-to-month,No,0.16439651729667537,Low Risk,Normal Customer
+1038-ZAGBI,12,19.8,229.6,One year,No,0.16337725148331345,Low Risk,Normal Customer
+4670-TABXH,72,109.75,7758.9,Two year,Fiber optic,0.1632544820277386,Low Risk,Normal Customer
+2651-ZCBXV,54,108.0,5760.65,Two year,Fiber optic,0.16317232462796383,Low Risk,Normal Customer
+6050-FFXES,69,105.35,7240.65,Two year,Fiber optic,0.16278199234164908,Low Risk,Normal Customer
+9845-PEEKO,59,79.2,4590.35,Two year,Fiber optic,0.16144251742565144,Low Risk,Normal Customer
+5236-XMZJY,42,59.65,2536.55,Month-to-month,DSL,0.1607150064688199,Low Risk,Normal Customer
+7255-SSFBC,72,112.25,8041.65,Two year,Fiber optic,0.1601981991902153,Low Risk,Normal Customer
+7696-AMHOD,49,78.0,3824.2,One year,DSL,0.15977415609791112,Low Risk,Normal Customer
+7868-TMWMZ,60,110.0,6668.35,Two year,Fiber optic,0.15729207059720285,Low Risk,Normal Customer
+7923-IYJWY,67,116.1,7839.85,Two year,Fiber optic,0.15660303611000803,Low Risk,Normal Customer
+1474-JUWSM,58,68.4,3972.25,One year,DSL,0.15604868815620343,Low Risk,Normal Customer
+8901-UPRHR,72,109.2,7711.45,Two year,Fiber optic,0.1559187183544158,Low Risk,Normal Customer
+2546-KZAAT,52,75.4,3865.45,One year,DSL,0.15431998536069505,Low Risk,Normal Customer
+5451-YHYPW,72,115.75,8443.7,Two year,Fiber optic,0.1536288667033016,Low Risk,Normal Customer
+8690-UPCZI,29,69.05,1958.45,One year,DSL,0.15321503105604825,Low Risk,Normal Customer
+0530-IJVDB,70,114.6,7882.5,Two year,Fiber optic,0.152450879959718,Low Risk,Normal Customer
+8898-KASCD,39,35.55,1309.15,One year,DSL,0.15178096646400796,Low Risk,Normal Customer
+7279-NMVJC,17,19.9,323.15,One year,No,0.14959638981247075,Low Risk,Normal Customer
+8434-PNQZX,42,78.45,3373.4,Two year,DSL,0.1481861827560985,Low Risk,Normal Customer
+3178-CIFOT,23,19.65,478.1,One year,No,0.1476904263890646,Low Risk,Normal Customer
+6427-FEFIG,24,78.6,1846.65,Two year,DSL,0.14738679380895353,Low Risk,Normal Customer
+3580-HYCSP,72,110.3,7966.9,Two year,Fiber optic,0.14728626429032904,Low Risk,Normal Customer
+4323-ELYYB,13,20.0,218.55,One year,No,0.14637720927277362,Low Risk,Normal Customer
+0670-ANMUU,71,97.65,6687.85,One year,Fiber optic,0.1463085953283397,Low Risk,Normal Customer
+5671-RQRLP,70,75.65,5411.4,Two year,Fiber optic,0.1444675276520051,Low Risk,Normal Customer
+2380-DAMQP,72,115.15,8349.7,Two year,Fiber optic,0.14379992267286215,Low Risk,Normal Customer
+8097-VBQTZ,54,69.9,3883.3,Month-to-month,DSL,0.14313313851929588,Low Risk,Normal Customer
+9845-QOMAD,14,19.75,309.35,One year,No,0.14312840075773203,Low Risk,Normal Customer
+0813-TAXXS,55,77.8,4323.35,Two year,DSL,0.14263128552907087,Low Risk,Normal Customer
+3766-EJLFL,68,109.05,7508.55,Two year,Fiber optic,0.14246583931789256,Low Risk,Normal Customer
+2878-RMWXY,72,102.65,7550.3,Two year,Fiber optic,0.1421990016777197,Low Risk,Normal Customer
+7325-ENZFI,39,40.3,1630.4,One year,DSL,0.1418153887509026,Low Risk,Normal Customer
+5546-BYZSM,41,20.45,775.6,Month-to-month,No,0.14094722302621934,Low Risk,Normal Customer
+9070-BCKQP,72,110.15,7881.2,Two year,Fiber optic,0.1395640743759411,Low Risk,Normal Customer
+4578-PHJYZ,52,68.75,3482.85,One year,DSL,0.13877673327585555,Low Risk,Normal Customer
+2434-EEVDB,64,94.6,5948.7,Two year,Fiber optic,0.138080640575049,Low Risk,Normal Customer
+7472-EQOAV,71,86.7,6179.35,One year,Fiber optic,0.13621954765972588,Low Risk,Normal Customer
+6869-FGJJC,68,79.6,5461.45,One year,Fiber optic,0.1357556942693717,Low Risk,Normal Customer
+5038-ETMLM,72,113.65,8182.75,Two year,Fiber optic,0.13569916902326168,Low Risk,Normal Customer
+7244-QWYHG,50,44.45,2188.45,One year,DSL,0.13483963433942833,Low Risk,Normal Customer
+1623-NLDOT,42,33.55,1445.3,One year,DSL,0.1336386266217271,Low Risk,Normal Customer
+4853-RULSV,70,104.0,7250.15,Two year,Fiber optic,0.13238149241298447,Low Risk,Normal Customer
+0254-FNMCI,72,109.9,7624.2,Two year,Fiber optic,0.13211671917954365,Low Risk,Normal Customer
+2927-CVULT,53,104.05,5566.4,Two year,Fiber optic,0.1317245749500053,Low Risk,Normal Customer
+5186-PEIZU,35,19.25,617.65,Month-to-month,No,0.13145935313567578,Low Risk,Normal Customer
+6919-ELBGL,72,114.95,8196.4,Two year,Fiber optic,0.13115064810054355,Low Risk,Normal Customer
+8884-MRNSU,17,19.9,329.75,One year,No,0.13046712771539445,Low Risk,Normal Customer
+6867-ACCZI,24,52.5,1208.15,Two year,DSL,0.13039972566887,Low Risk,Normal Customer
+7691-KGKGP,53,65.0,3363.8,Month-to-month,DSL,0.1303075566959876,Low Risk,Normal Customer
+7569-NMZYQ,72,118.75,8672.45,Two year,Fiber optic,0.13017073442915714,Low Risk,Normal Customer
+2320-TZRRH,20,19.5,403.15,One year,No,0.12988803318360773,Low Risk,Normal Customer
+2061-VVFST,37,19.5,805.2,Month-to-month,No,0.12923265566927825,Low Risk,Normal Customer
+1401-FTHFQ,23,20.0,445.3,One year,No,0.12755730718695107,Low Risk,Normal Customer
+8777-PVYGU,52,64.3,3410.6,One year,DSL,0.12613047264859947,Low Risk,Normal Customer
+3617-XLSGQ,66,109.25,7082.5,Two year,Fiber optic,0.12495575447627143,Low Risk,Normal Customer
+7176-WRTNX,70,114.95,7711.25,Two year,Fiber optic,0.12483531077344624,Low Risk,Normal Customer
+5183-KLYEM,72,112.75,8192.6,Two year,Fiber optic,0.12468551370527403,Low Risk,Normal Customer
+7605-BDWDC,31,49.85,1520.1,Two year,DSL,0.12454926952348609,Low Risk,Normal Customer
+3549-ZTMNH,12,24.0,269.65,Two year,No,0.1243632371044524,Low Risk,Normal Customer
+6478-HRRCZ,32,70.5,2201.75,One year,DSL,0.124020212975538,Low Risk,Normal Customer
+1222-KJNZD,40,20.4,745.3,Month-to-month,No,0.12384127017555042,Low Risk,Normal Customer
+9702-AIUJO,50,44.8,2230.85,One year,DSL,0.12371698050240702,Low Risk,Normal Customer
+4884-TVUQF,57,101.3,5779.6,Two year,Fiber optic,0.12326854296829554,Low Risk,Normal Customer
+3396-DKDEL,70,115.15,8250.0,Two year,Fiber optic,0.12313607437978638,Low Risk,Normal Customer
+8106-GWQOK,38,60.0,2193.2,Two year,DSL,0.12284654553064563,Low Risk,Normal Customer
+9640-ZSLDC,53,60.6,3297.0,One year,DSL,0.122178160325161,Low Risk,Normal Customer
+2223-GDSHL,71,116.05,8297.5,Two year,Fiber optic,0.12183666114000478,Low Risk,Normal Customer
+5965-GGPRW,72,105.25,7609.75,Two year,Fiber optic,0.12180642340154317,Low Risk,Normal Customer
+1099-GODLO,1,20.35,20.35,Two year,No,0.12152291211599935,Low Risk,Normal Customer
+3082-YVEKW,23,77.15,1759.4,Two year,DSL,0.12075777761489893,Low Risk,Normal Customer
+4135-FRWKJ,55,76.25,4154.55,One year,DSL,0.12048607551001422,Low Risk,Normal Customer
+9959-WOFKT,71,106.7,7382.25,Two year,Fiber optic,0.11707886498581942,Low Risk,Normal Customer
+8498-XXGWA,65,55.15,3673.15,Month-to-month,DSL,0.11690028857010065,Low Risk,Normal Customer
+5073-RZGBK,50,80.05,4042.2,One year,DSL,0.11678265994427883,Low Risk,Normal Customer
+9289-LBQVU,64,70.15,4480.7,One year,DSL,0.11614882017119718,Low Risk,Normal Customer
+3795-CAWEX,70,116.55,8152.3,Two year,Fiber optic,0.11588405659618439,Low Risk,Normal Customer
+4803-LBYPN,34,20.8,635.9,Month-to-month,No,0.11545869234340858,Low Risk,Normal Customer
+6047-SUHPR,39,59.8,2343.85,One year,DSL,0.11536802387389306,Low Risk,Normal Customer
+5468-BPMMO,46,19.6,851.2,Month-to-month,No,0.11501389029720505,Low Risk,Normal Customer
+2511-MORQY,50,54.9,2614.1,One year,DSL,0.11462235963150262,Low Risk,Normal Customer
+4376-KFVRS,72,114.05,8468.2,Two year,Fiber optic,0.1145486374151163,Low Risk,Normal Customer
+8166-ZZTFS,66,80.55,5265.1,Two year,DSL,0.11415103046093068,Low Risk,Normal Customer
+7137-NAXML,23,20.15,405.6,One year,No,0.11348169349432341,Low Risk,Normal Customer
+6481-LXPWL,56,36.1,1971.5,One year,DSL,0.1117396759825052,Low Risk,Normal Customer
+1790-NESIO,13,20.4,261.3,Two year,No,0.11098004176989337,Low Risk,Normal Customer
+4778-IZARL,63,110.1,6705.7,Two year,Fiber optic,0.11076151263187442,Low Risk,Normal Customer
+2683-JXWQQ,61,33.6,2117.2,Month-to-month,DSL,0.10831318676984182,Low Risk,Normal Customer
+9150-KPBJQ,6,19.65,116.85,Two year,No,0.10797933664407078,Low Risk,Normal Customer
+4707-YNOQA,34,25.6,917.15,One year,No,0.10768408593115224,Low Risk,Normal Customer
+9720-JJJOR,41,60.3,2511.3,One year,DSL,0.10653430187050893,Low Risk,Normal Customer
+6990-YNRIO,65,108.65,6937.95,Two year,Fiber optic,0.10537779605464148,Low Risk,Normal Customer
+6670-MFRPK,69,79.2,5420.65,Two year,Fiber optic,0.1053378603972802,Low Risk,Normal Customer
+0942-KOWSM,30,80.8,2369.3,Two year,DSL,0.10415573043599939,Low Risk,Normal Customer
+2789-CZANW,64,110.3,6997.3,Two year,Fiber optic,0.10404919327381139,Low Risk,Normal Customer
+6374-NTQLP,72,104.1,7447.7,Two year,Fiber optic,0.10347423013664186,Low Risk,Normal Customer
+2749-CTKAJ,22,20.15,419.9,One year,No,0.10344537970464254,Low Risk,Normal Customer
+7929-SKFGK,70,114.3,8244.3,Two year,Fiber optic,0.10338567329644274,Low Risk,Normal Customer
+6161-ERDGD,71,85.45,6300.85,One year,DSL,0.10319990309013877,Low Risk,Normal Customer
+3078-ZKNTS,13,19.75,246.7,Two year,No,0.10284617246138673,Low Risk,Normal Customer
+3727-OWVYD,35,61.2,2021.2,One year,DSL,0.1013850441933408,Low Risk,Normal Customer
+4636-OLWOE,54,61.0,3283.05,One year,DSL,0.10102888404764922,Low Risk,Normal Customer
+0835-DUUIQ,24,21.05,531.55,One year,No,0.10064002016025705,Low Risk,Normal Customer
+4513-CXYIX,71,80.7,5676.0,Two year,Fiber optic,0.09995362215326413,Low Risk,Normal Customer
+2027-DNKIV,37,58.75,2203.1,One year,DSL,0.09934461981475182,Low Risk,Normal Customer
+3985-HOYPM,26,19.4,525.55,One year,No,0.09895698684835576,Low Risk,Normal Customer
+4854-SSLTN,2,59.5,130.5,Two year,DSL,0.09864374268302366,Low Risk,Normal Customer
+6736-DHUQI,67,84.8,5598.3,One year,Fiber optic,0.09848918955929642,Low Risk,Normal Customer
+3508-CFVZL,71,111.3,7985.9,Two year,Fiber optic,0.097469129169314,Low Risk,Normal Customer
+2706-QZIHY,15,25.2,387.9,Two year,No,0.09720508900844489,Low Risk,Normal Customer
+2138-VFAPZ,14,19.7,263.65,Two year,No,0.09553681955672126,Low Risk,Normal Customer
+5327-XOKKY,72,73.45,5329.0,Two year,DSL,0.09513745339767689,Low Risk,Normal Customer
+6693-DJWTY,35,55.6,2016.45,One year,DSL,0.09449067383054832,Low Risk,Normal Customer
+8668-KNZTI,52,53.75,2790.65,One year,DSL,0.09399308404590027,Low Risk,Normal Customer
+5127-BZENZ,56,65.2,3512.15,One year,DSL,0.09312262989315673,Low Risk,Normal Customer
+9531-NSBMR,36,19.25,679.8,One year,No,0.0930855039202877,Low Risk,Normal Customer
+9739-JLPQJ,72,117.5,8670.1,Two year,Fiber optic,0.09306361558285783,Low Risk,Normal Customer
+2229-DPMBI,8,19.5,162.15,Two year,No,0.09220664855263629,Low Risk,Normal Customer
+3055-VTCGS,63,58.55,3503.5,One year,DSL,0.09199808770142354,Low Risk,Normal Customer
+3298-QEICA,23,34.6,813.45,Two year,DSL,0.09148910812868634,Low Risk,Normal Customer
+1872-EBWSC,29,20.35,617.35,One year,No,0.09136307182876341,Low Risk,Normal Customer
+6556-DBKZF,71,76.05,5436.45,Two year,Fiber optic,0.09134023227784369,Low Risk,Normal Customer
+1776-SPBWV,34,20.1,682.1,One year,No,0.09114339117697531,Low Risk,Normal Customer
+3655-SNQYZ,69,113.25,7895.15,Two year,Fiber optic,0.0905054198169393,Low Risk,Normal Customer
+6016-NXBNJ,35,19.15,638.0,One year,No,0.08995437384251789,Low Risk,Normal Customer
+1053-MXTTK,72,108.65,7726.35,Two year,Fiber optic,0.08982554732858554,Low Risk,Normal Customer
+4981-FLTMF,57,65.2,3687.85,Month-to-month,DSL,0.08977621720320005,Low Risk,Normal Customer
+1271-UODNO,39,53.85,2200.7,Two year,DSL,0.08976284950186769,Low Risk,Normal Customer
+5161-UBZXI,69,106.35,7261.75,Two year,Fiber optic,0.0884252159280052,Low Risk,Normal Customer
+5574-NXZIU,63,109.2,7049.75,Two year,Fiber optic,0.08784022870194064,Low Risk,Normal Customer
+0810-DHDBD,52,74.0,3877.65,One year,DSL,0.08726159234864408,Low Risk,Normal Customer
+4994-OBRSZ,14,76.1,1054.8,Two year,DSL,0.08573766276555195,Low Risk,Normal Customer
+9424-CMPOG,9,19.6,197.4,Two year,No,0.08560504270347612,Low Risk,Normal Customer
+6447-EGDIV,31,20.95,683.25,One year,No,0.08458438330650576,Low Risk,Normal Customer
+7026-YMSBE,30,19.7,625.05,One year,No,0.0844636087062939,Low Risk,Normal Customer
+2819-GWENI,28,19.9,543.0,One year,No,0.08433113253062305,Low Risk,Normal Customer
+0743-HNPFG,51,69.75,3562.5,One year,DSL,0.08394099086794288,Low Risk,Normal Customer
+0023-UYUPN,50,25.2,1306.3,One year,No,0.08314524776555555,Low Risk,Normal Customer
+2606-PKWJB,40,40.25,1564.05,One year,DSL,0.08249991221118161,Low Risk,Normal Customer
+2335-GSODA,23,40.1,857.75,Two year,DSL,0.08112764455639317,Low Risk,Normal Customer
+9926-PJHDQ,72,76.8,5468.45,Two year,DSL,0.08104359320323193,Low Risk,Normal Customer
+5014-GSOUQ,13,19.95,243.65,Two year,No,0.08047236063246643,Low Risk,Normal Customer
+5232-NXPAY,47,74.45,3510.3,Two year,DSL,0.0799997275301625,Low Risk,Normal Customer
+9670-BPNXF,45,62.55,2796.45,One year,DSL,0.07940790992548503,Low Risk,Normal Customer
+6559-ILWKJ,71,49.35,3515.25,Two year,DSL,0.07898591565052608,Low Risk,Normal Customer
+9251-WNSOD,67,75.1,5064.45,One year,DSL,0.07886127357236825,Low Risk,Normal Customer
+5158-RIVOP,11,20.9,202.3,Two year,No,0.07856424009682485,Low Risk,Normal Customer
+7277-KAMWT,13,20.0,268.45,Two year,No,0.07855701041785065,Low Risk,Normal Customer
+9178-JHUVJ,24,24.1,587.4,Two year,No,0.07816797693481257,Low Risk,Normal Customer
+1982-FEBTD,23,25.6,514.75,Two year,No,0.07806384444445888,Low Risk,Normal Customer
+0804-YGEQV,43,24.45,993.15,One year,No,0.07805125906730019,Low Risk,Normal Customer
+6463-HHXJR,71,100.5,7030.65,Two year,Fiber optic,0.07656765083213458,Low Risk,Normal Customer
+7173-TETGO,72,78.5,5602.25,Two year,Fiber optic,0.07573639426760922,Low Risk,Normal Customer
+6121-TNHBO,63,83.0,5243.05,One year,DSL,0.07431893173274294,Low Risk,Normal Customer
+9880-TDQAC,72,60.0,4264.0,Two year,DSL,0.07316982801061281,Low Risk,Normal Customer
+0334-ZFJSR,55,66.05,3462.1,One year,DSL,0.07275360763184457,Low Risk,Normal Customer
+2167-FQSTQ,72,92.4,6786.1,Two year,DSL,0.07101308457392504,Low Risk,Normal Customer
+9227-UAQFT,16,19.75,284.35,Two year,No,0.0708432310657982,Low Risk,Normal Customer
+3230-IUALN,45,81.0,3533.6,Two year,DSL,0.07005841694425854,Low Risk,Normal Customer
+3887-PBQAO,45,25.9,1216.6,One year,No,0.07004475775410789,Low Risk,Normal Customer
+8331-ZXFOE,58,71.1,4299.2,One year,DSL,0.06999169241237327,Low Risk,Normal Customer
+4615-PIVVU,42,66.5,2762.75,Two year,DSL,0.06979729092862572,Low Risk,Normal Customer
+2193-SFWQW,72,111.95,8033.1,Two year,Fiber optic,0.06901618682536627,Low Risk,Normal Customer
+3266-FTKHB,17,19.15,343.45,Two year,No,0.06869897139622827,Low Risk,Normal Customer
+4342-HFXWS,48,69.7,3023.65,One year,DSL,0.06837124058431067,Low Risk,Normal Customer
+0078-XZMHT,72,85.15,6316.2,Two year,DSL,0.06731840623393316,Low Risk,Normal Customer
+6772-WFQRD,40,20.4,854.9,One year,No,0.06729279169019577,Low Risk,Normal Customer
+6437-UDQJM,72,84.1,6129.65,Two year,DSL,0.06715739759965403,Low Risk,Normal Customer
+7501-IWUNG,61,73.8,4616.05,Two year,DSL,0.06714987923572974,Low Risk,Normal Customer
+5696-EXCYS,17,19.45,369.05,Two year,No,0.06700827584839725,Low Risk,Normal Customer
+3486-NPGST,36,19.55,620.75,One year,No,0.06657849194036178,Low Risk,Normal Customer
+7711-YIJWC,61,84.9,5264.5,One year,DSL,0.06645190205680859,Low Risk,Normal Customer
+1699-TLDLZ,16,19.7,301.55,Two year,No,0.06603886497534069,Low Risk,Normal Customer
+9995-HOTOH,63,59.0,3707.6,Two year,DSL,0.06494342135010278,Low Risk,Normal Customer
+7596-IIWYC,27,20.25,538.2,Two year,No,0.0648719463372589,Low Risk,Normal Customer
+2599-CIPQE,71,109.3,7782.85,Two year,Fiber optic,0.06445154861501796,Low Risk,Normal Customer
+6549-BTYPG,60,60.8,3603.45,Two year,DSL,0.06416917031655359,Low Risk,Normal Customer
+3649-JPUGY,72,88.6,6201.95,Two year,DSL,0.06290830446328922,Low Risk,Normal Customer
+1265-HVPZB,59,66.4,3958.2,One year,DSL,0.06281260644627934,Low Risk,Normal Customer
+4890-VMUAV,63,71.5,4576.3,One year,DSL,0.06250454420996573,Low Risk,Normal Customer
+9919-FZDED,72,84.1,5981.65,Two year,DSL,0.06248244236269852,Low Risk,Normal Customer
+3654-ARMGP,61,88.65,5321.25,Two year,DSL,0.062092050523056615,Low Risk,Normal Customer
+8345-MVDYC,45,81.65,3618.7,Two year,DSL,0.06171880263293901,Low Risk,Normal Customer
+8999-YPYBV,45,84.35,3858.05,Two year,DSL,0.061715848365346306,Low Risk,Normal Customer
+8067-NIOYM,24,21.1,490.65,Two year,No,0.06161977429285141,Low Risk,Normal Customer
+2863-IMQDR,61,89.65,5308.7,Two year,DSL,0.061233069162745006,Low Risk,Normal Customer
+3489-VSFRD,56,60.25,3282.75,One year,DSL,0.059877151242275516,Low Risk,Normal Customer
+9945-PSVIP,25,18.7,383.65,Two year,No,0.0595377228886879,Low Risk,Normal Customer
+5177-RVZNU,37,20.3,755.4,One year,No,0.05862867685258847,Low Risk,Normal Customer
+7564-GHCVB,72,79.05,5730.7,Two year,Fiber optic,0.058357810890119946,Low Risk,Normal Customer
+3720-DBRWL,51,83.85,4307.1,Two year,DSL,0.058193438840245984,Low Risk,Normal Customer
+5387-ASZNZ,66,63.85,4174.35,One year,DSL,0.05816067683986005,Low Risk,Normal Customer
+1755-FZQEC,39,19.9,791.15,One year,No,0.05795992736023323,Low Risk,Normal Customer
+0129-QMPDR,44,20.5,865.05,One year,No,0.057798250602633494,Low Risk,Normal Customer
+5453-YBTWV,70,101.1,6994.8,Two year,Fiber optic,0.05763709382321072,Low Risk,Normal Customer
+3460-TJBWI,24,24.2,609.05,Two year,No,0.056741862975725164,Low Risk,Normal Customer
+2521-NPUZR,70,101.0,7085.5,Two year,Fiber optic,0.05619037696672115,Low Risk,Normal Customer
+2812-REYAT,49,20.05,923.1,One year,No,0.0557901030098244,Low Risk,Normal Customer
+4751-ERMAN,72,75.4,5480.25,Two year,DSL,0.05522817583248371,Low Risk,Normal Customer
+6732-VAILE,70,85.95,5931.75,Two year,DSL,0.054676212761692225,Low Risk,Normal Customer
+2324-AALNO,48,24.55,1203.95,One year,No,0.054360462724360493,Low Risk,Normal Customer
+4676-WLUHT,54,46.2,2431.95,Two year,DSL,0.053614169059368194,Low Risk,Normal Customer
+6963-EZQEE,70,88.55,6306.5,Two year,DSL,0.05338276646399467,Low Risk,Normal Customer
+9888-ZCUMM,64,60.05,3845.45,Two year,DSL,0.052962096465117396,Low Risk,Normal Customer
+9548-LERKT,24,19.75,483.15,Two year,No,0.052798561368622945,Low Risk,Normal Customer
+2137-DQMEV,68,44.8,2983.65,One year,DSL,0.052711147082598386,Low Risk,Normal Customer
+9805-FILKB,46,20.2,845.6,One year,No,0.05244032929024069,Low Risk,Normal Customer
+0707-HOVVN,70,75.5,5212.65,Two year,DSL,0.05111132821214063,Low Risk,Normal Customer
+1395-WSWXR,24,20.75,487.05,Two year,No,0.051040330671656746,Low Risk,Normal Customer
+1837-YQUCE,70,58.35,4214.25,Two year,DSL,0.05100114145986909,Low Risk,Normal Customer
+1333-PBMXB,54,24.75,1342.15,One year,No,0.05077606482943044,Low Risk,Normal Customer
+7508-DQAKK,64,86.4,5442.05,Two year,DSL,0.050455581338323126,Low Risk,Normal Customer
+6048-NJXHX,41,19.75,899.45,Two year,No,0.050451187468598724,Low Risk,Normal Customer
+3908-MKIMJ,68,41.95,2965.75,Two year,DSL,0.050351522673354035,Low Risk,Normal Customer
+5792-JALQC,52,59.85,3103.25,Two year,DSL,0.050212805650398706,Low Risk,Normal Customer
+1897-OKVMW,64,90.6,5817.45,Two year,DSL,0.05008504053196764,Low Risk,Normal Customer
+6762-QVYJO,58,59.75,3624.35,Two year,DSL,0.049807759600374875,Low Risk,Normal Customer
+1552-CZCLL,55,20.0,1087.25,Month-to-month,No,0.04957355213543435,Low Risk,Normal Customer
+0016-QLJIS,65,90.45,5957.9,Two year,DSL,0.049412110439151426,Low Risk,Normal Customer
+9950-MTGYX,28,20.3,487.95,Two year,No,0.049268654524043796,Low Risk,Normal Customer
+8661-BOYNW,72,84.4,6096.45,Two year,DSL,0.049102232896435734,Low Risk,Normal Customer
+4568-KNYWR,52,63.25,3342.45,Two year,DSL,0.04885994637205309,Low Risk,Normal Customer
+2430-RRYUW,66,54.8,3465.7,One year,DSL,0.04852272583899341,Low Risk,Normal Customer
+5816-JMLGY,70,80.4,5717.85,Two year,DSL,0.04790767168566675,Low Risk,Normal Customer
+0617-AQNWT,64,47.85,3147.5,Two year,DSL,0.04758323566873244,Low Risk,Normal Customer
+6923-AQONU,23,20.9,454.0,Two year,No,0.0473296302846399,Low Risk,Normal Customer
+8098-TDCBU,42,25.25,1108.2,Two year,No,0.04705153484180752,Low Risk,Normal Customer
+0459-SPZHJ,63,83.5,5435.0,Two year,DSL,0.046637431998324826,Low Risk,Normal Customer
+8218-FFJDS,72,86.4,6058.95,Two year,DSL,0.04635827998172885,Low Risk,Normal Customer
+2996-XAUVF,70,40.05,2799.75,Two year,DSL,0.046265550460101335,Low Risk,Normal Customer
+3572-UUHRS,45,18.85,867.3,One year,No,0.04623530726454335,Low Risk,Normal Customer
+0354-VXMJC,23,19.6,426.65,Two year,No,0.04577639485448424,Low Risk,Normal Customer
+8626-PTQGE,69,60.05,4176.7,Two year,DSL,0.045528711193049284,Low Risk,Normal Customer
+3638-WEABW,58,59.9,3505.1,Two year,DSL,0.04548592437221108,Low Risk,Normal Customer
+6248-TKCQV,70,80.6,5460.2,Two year,DSL,0.04547511371066469,Low Risk,Normal Customer
+3161-ONRWK,60,65.85,3928.3,One year,DSL,0.04452555489321448,Low Risk,Normal Customer
+2845-KDHVX,64,68.3,4378.8,Two year,DSL,0.044277543707486156,Low Risk,Normal Customer
+9066-QRSDU,69,26.3,1763.55,One year,No,0.044147407301958506,Low Risk,Normal Customer
+2725-TTRIQ,72,84.2,5986.55,Two year,DSL,0.04414157304256252,Low Risk,Normal Customer
+5997-OPVFA,72,89.05,6254.45,Two year,DSL,0.044124463213946634,Low Risk,Normal Customer
+4213-HKBJO,33,25.7,826.1,Two year,No,0.04399364399585568,Low Risk,Normal Customer
+4526-EXKKN,40,24.6,973.95,Two year,No,0.04385921163732286,Low Risk,Normal Customer
+9028-LIHRP,71,100.2,7209.0,Two year,Fiber optic,0.043123452646195416,Low Risk,Normal Customer
+5171-EPLKN,27,19.85,470.0,Two year,No,0.04290261200677528,Low Risk,Normal Customer
+7815-PDTHL,35,20.2,684.4,Two year,No,0.042895314747776504,Low Risk,Normal Customer
+5774-QPLTF,50,20.35,938.95,One year,No,0.04284912020736537,Low Risk,Normal Customer
+6152-ONASV,68,58.25,3975.7,One year,DSL,0.04248604974936093,Low Risk,Normal Customer
+7850-THJMU,26,19.65,494.9,Two year,No,0.04194808855615954,Low Risk,Normal Customer
+1265-ZFOSD,64,81.3,5129.3,Two year,DSL,0.04177404879760415,Low Risk,Normal Customer
+4609-KNNWG,27,19.9,550.1,Two year,No,0.04177064035966654,Low Risk,Normal Customer
+5397-NSKQG,67,50.9,3281.65,Two year,DSL,0.04148512462636472,Low Risk,Normal Customer
+7579-KKLOE,71,91.25,6589.6,Two year,DSL,0.041477553472251474,Low Risk,Normal Customer
+0048-PIHNL,49,20.45,900.9,One year,No,0.041202064537794916,Low Risk,Normal Customer
+0412-UCCNP,55,59.2,3175.85,Two year,DSL,0.040850962449584916,Low Risk,Normal Customer
+0123-CRBRT,61,88.1,5526.75,Two year,DSL,0.04029910084336718,Low Risk,Normal Customer
+7103-ZGVNT,69,73.7,4885.85,One year,DSL,0.040211592389358265,Low Risk,Normal Customer
+4967-WPNCF,72,63.7,4464.8,Two year,DSL,0.03982082733362203,Low Risk,Normal Customer
+6119-SPUDB,46,38.25,1755.35,Two year,DSL,0.03977276559813476,Low Risk,Normal Customer
+8430-TWCBX,49,20.7,1032.05,One year,No,0.03976205427257363,Low Risk,Normal Customer
+0567-XRHCU,69,43.95,2960.1,Two year,DSL,0.039206639040150114,Low Risk,Normal Customer
+4632-XJMEX,53,62.85,3419.5,One year,DSL,0.03920115574854012,Low Risk,Normal Customer
+9392-XBGTD,27,20.6,581.85,Two year,No,0.03911881058431993,Low Risk,Normal Customer
+6122-LJADA,70,90.15,6237.05,Two year,DSL,0.03890425494608071,Low Risk,Normal Customer
+9803-FTJCG,71,66.85,4748.7,One year,DSL,0.03859775130815392,Low Risk,Normal Customer
+7284-ZZLOH,45,53.3,2296.25,Two year,DSL,0.03852521783435064,Low Risk,Normal Customer
+7205-BAIAD,40,20.6,827.3,Two year,No,0.03763669377790632,Low Risk,Normal Customer
+2580-ATZSQ,65,61.35,3874.1,One year,DSL,0.03726768523290654,Low Risk,Normal Customer
+9135-MGVPY,69,84.7,5878.9,Two year,DSL,0.037110613964901056,Low Risk,Normal Customer
+1270-XKUCC,30,19.7,599.25,Two year,No,0.036662136039073395,Low Risk,Normal Customer
+4312-GVYNH,70,49.85,3370.2,Two year,DSL,0.03643665186236228,Low Risk,Normal Customer
+5480-XTFFL,31,21.0,697.7,Two year,No,0.0356494980475336,Low Risk,Normal Customer
+1414-YADCW,70,84.6,5706.2,Two year,Fiber optic,0.03548306652471484,Low Risk,Normal Customer
+1839-FBNFR,39,19.85,854.8,Two year,No,0.03546697250070989,Low Risk,Normal Customer
+0602-DDUML,57,69.75,3894.4,Two year,DSL,0.03545775984873879,Low Risk,Normal Customer
+0230-WEQUW,66,56.6,3789.2,Two year,DSL,0.03530939012059127,Low Risk,Normal Customer
+0361-HJRDX,68,64.35,4539.6,Two year,DSL,0.03529162074853725,Low Risk,Normal Customer
+2535-PBCGC,70,64.55,4504.9,Two year,DSL,0.03509578030732112,Low Risk,Normal Customer
+3779-OSWCF,71,93.2,6506.15,Two year,DSL,0.03501278014244693,Low Risk,Normal Customer
+9602-WCXPI,50,20.15,989.05,One year,No,0.03499666945700521,Low Risk,Normal Customer
+8577-QSOCG,38,20.2,746.05,Two year,No,0.034951210354256544,Low Risk,Normal Customer
+2194-IIQOF,71,89.3,6388.65,Two year,DSL,0.034433668921772714,Low Risk,Normal Customer
+2384-OVPSA,38,20.2,735.9,Two year,No,0.033678589478533326,Low Risk,Normal Customer
+5707-ZMDJP,53,69.7,3729.6,Two year,DSL,0.03347076993483598,Low Risk,Normal Customer
+9489-DEDVP,70,69.2,4872.35,Two year,DSL,0.03336963514284959,Low Risk,Normal Customer
+3938-YFPXD,72,84.3,5997.1,Two year,DSL,0.0331291159241857,Low Risk,Normal Customer
+8580-QVLOC,72,92.45,6440.25,Two year,DSL,0.032980307211043745,Low Risk,Normal Customer
+7945-PRBVF,35,21.45,705.45,Two year,No,0.032965320267035435,Low Risk,Normal Customer
+6288-CHQJB,54,69.95,3871.85,Two year,DSL,0.032586447181482965,Low Risk,Normal Customer
+6813-GZQCG,45,24.65,1171.3,Two year,No,0.03252420036597696,Low Risk,Normal Customer
+6177-PEVRA,48,55.5,2627.35,Two year,DSL,0.03237864118879653,Low Risk,Normal Customer
+8146-QQKZH,71,81.85,5924.4,Two year,DSL,0.03216501616416697,Low Risk,Normal Customer
+7722-VJRQD,72,60.95,4549.05,Two year,DSL,0.031679239056976595,Low Risk,Normal Customer
+0379-DJQHR,67,81.35,5398.6,Two year,DSL,0.031353461165467465,Low Risk,Normal Customer
+7018-FPXHH,56,59.8,3457.45,Two year,DSL,0.03129282337029188,Low Risk,Normal Customer
+9624-EGDEQ,37,19.8,813.3,Two year,No,0.03099998066657089,Low Risk,Normal Customer
+8249-THVEC,51,19.4,997.75,One year,No,0.030767534164600787,Low Risk,Normal Customer
+3712-PKXZA,61,20.55,1252.0,One year,No,0.03070179152142987,Low Risk,Normal Customer
+2160-GPFXD,54,65.65,3566.7,Two year,DSL,0.03041049049321253,Low Risk,Normal Customer
+9585-KKMFD,41,20.0,879.8,Two year,No,0.030076812438958735,Low Risk,Normal Customer
+7524-VRLPL,69,74.1,5031.0,Two year,DSL,0.02989356050899254,Low Risk,Normal Customer
+9170-ARBTB,52,19.6,1012.4,One year,No,0.029648168900319797,Low Risk,Normal Customer
+2300-RQGOI,38,20.05,741.5,Two year,No,0.029018753704874063,Low Risk,Normal Customer
+4194-FJARJ,54,60.0,3273.95,Two year,DSL,0.027803702910704813,Low Risk,Normal Customer
+4139-DETXS,72,64.45,4528.0,Two year,DSL,0.027629393181897614,Low Risk,Normal Customer
+9503-XJUME,52,19.65,928.4,One year,No,0.027031730842096237,Low Risk,Normal Customer
+7197-VOJMM,67,69.2,4671.65,Two year,DSL,0.02682062644337404,Low Risk,Normal Customer
+2208-MPXIO,45,20.0,886.4,Two year,No,0.026784347889107225,Low Risk,Normal Customer
+4915-BFSXL,70,68.95,4858.7,Two year,DSL,0.02641329578249376,Low Risk,Normal Customer
+0318-ZOPWS,49,20.15,973.35,Two year,No,0.02618929446139651,Low Risk,Normal Customer
+6980-CDGFC,67,20.85,1327.4,One year,No,0.026025665765678028,Low Risk,Normal Customer
+9481-WHGWY,70,75.35,5437.75,Two year,DSL,0.02591646709737354,Low Risk,Normal Customer
+9755-JHNMN,49,67.4,3306.85,Two year,DSL,0.02581796870869062,Low Risk,Normal Customer
+0848-SOMKO,70,48.4,3442.8,Two year,DSL,0.025619041463452622,Low Risk,Normal Customer
+7009-PCARS,55,19.1,1001.5,One year,No,0.025499573347057408,Low Risk,Normal Customer
+9823-EALYC,72,80.85,5727.45,Two year,DSL,0.025455959311137016,Low Risk,Normal Customer
+0732-OCQOC,52,25.05,1270.25,Two year,No,0.0254021339221614,Low Risk,Normal Customer
+8241-JUIQO,61,19.45,1336.35,One year,No,0.024987727768549798,Low Risk,Normal Customer
+8042-RNLKO,66,25.45,1699.15,One year,No,0.024892371504761243,Low Risk,Normal Customer
+2796-NNUFI,46,19.95,927.1,Two year,No,0.024874202937826835,Low Risk,Normal Customer
+9068-FHQHD,40,20.15,777.35,Two year,No,0.024497052727518672,Low Risk,Normal Customer
+6096-EGVTU,64,24.9,1595.5,One year,No,0.023905568793751244,Low Risk,Normal Customer
+2662-NNTDK,65,24.8,1600.95,One year,No,0.023900141822002254,Low Risk,Normal Customer
+8631-NBHFZ,66,79.4,5154.6,Two year,DSL,0.023880427258491807,Low Risk,Normal Customer
+4012-YCFAI,60,61.35,3766.2,Two year,DSL,0.023591274700500618,Low Risk,Normal Customer
+9938-PRCVK,41,19.7,804.25,Two year,No,0.02352507908641922,Low Risk,Normal Customer
+3719-TDVQB,54,18.95,1031.1,Two year,No,0.023508671850571736,Low Risk,Normal Customer
+5846-NEQVZ,71,70.85,4973.4,Two year,DSL,0.022760069105669963,Low Risk,Normal Customer
+2882-WDTBA,69,75.75,5388.15,Two year,DSL,0.02236803733051208,Low Risk,Normal Customer
+0988-AADSA,72,80.85,5824.75,Two year,DSL,0.022224359667423872,Low Risk,Normal Customer
+9661-JALZV,58,24.7,1519.0,Two year,No,0.021245103104472675,Low Risk,Normal Customer
+0562-KBDVM,70,44.6,3058.15,Two year,DSL,0.020929868190033445,Low Risk,Normal Customer
+9593-CVZKR,56,24.45,1385.85,Two year,No,0.02080667679321687,Low Risk,Normal Customer
+4779-ZGICK,48,23.55,1173.35,Two year,No,0.020685579305485216,Low Risk,Normal Customer
+6770-UAYGJ,49,25.25,1211.65,Two year,No,0.020589722386452777,Low Risk,Normal Customer
+6080-LNESI,51,24.75,1234.6,Two year,No,0.020348534344177018,Low Risk,Normal Customer
+5803-NQJZO,72,67.8,4804.65,Two year,DSL,0.020194095891238203,Low Risk,Normal Customer
+8587-XYZSF,67,50.55,3260.1,Two year,DSL,0.020121131597883875,Low Risk,Normal Customer
+2235-EZAIK,72,79.2,5401.9,Two year,DSL,0.019705752400025412,Low Risk,Normal Customer
+8626-XHBIE,56,24.8,1424.2,Two year,No,0.019510332173469758,Low Risk,Normal Customer
+4900-MSOMT,72,80.2,5714.2,Two year,DSL,0.019500981298234108,Low Risk,Normal Customer
+3662-FXJFO,54,20.5,1035.7,Two year,No,0.019466659512704116,Low Risk,Normal Customer
+8896-RAZCR,44,19.9,868.1,Two year,No,0.019273943987561774,Low Risk,Normal Customer
+0562-FGDCR,72,74.55,5430.65,Two year,DSL,0.018785508774196425,Low Risk,Normal Customer
+7596-ZYWBB,65,59.6,3739.8,Two year,DSL,0.018614354887069078,Low Risk,Normal Customer
+2314-TNDJQ,72,55.65,3880.05,Two year,DSL,0.01860936969605081,Low Risk,Normal Customer
+1207-BLKSA,52,23.05,1255.1,Two year,No,0.018105712523597266,Low Risk,Normal Customer
+6762-NSODU,46,19.4,958.15,Two year,No,0.017928916173232872,Low Risk,Normal Customer
+6518-PPLMZ,53,19.4,1110.35,Two year,No,0.017832901082731677,Low Risk,Normal Customer
+1862-QRWPE,48,20.65,1057.0,Two year,No,0.017762575731202594,Low Risk,Normal Customer
+4361-FEBGN,48,20.15,982.95,Two year,No,0.017660250718755814,Low Risk,Normal Customer
+8532-UEFWH,52,25.75,1345.85,Two year,No,0.01764652066583758,Low Risk,Normal Customer
+3948-KXDUF,66,68.75,4447.55,Two year,DSL,0.017607773490082357,Low Risk,Normal Customer
+9372-TXXPS,60,59.85,3483.45,Two year,DSL,0.017581715018245566,Low Risk,Normal Customer
+6695-FRVEC,67,60.4,3953.7,Two year,DSL,0.017573229406004375,Low Risk,Normal Customer
+1468-DEFNC,64,24.4,1548.65,Two year,No,0.017035020686368516,Low Risk,Normal Customer
+4018-PPNDW,61,24.1,1551.6,Two year,No,0.01700842234874909,Low Risk,Normal Customer
+9251-AWQGT,48,20.0,935.9,Two year,No,0.016667849785056078,Low Risk,Normal Customer
+6614-YWYSC,61,25.0,1501.75,Two year,No,0.016658871587931518,Low Risk,Normal Customer
+8069-RHUXK,67,35.7,2545.7,Two year,DSL,0.016619028610282013,Low Risk,Normal Customer
+0463-TXOAK,52,25.6,1334.5,Two year,No,0.016502755494783247,Low Risk,Normal Customer
+9499-XPZXM,72,64.75,4804.75,Two year,DSL,0.01642750348004028,Low Risk,Normal Customer
+7860-KSUGX,72,64.45,4720.0,Two year,DSL,0.016397372080487232,Low Risk,Normal Customer
+2176-OSJUV,71,65.15,4681.75,Two year,DSL,0.0160655413616148,Low Risk,Normal Customer
+1955-IBMMB,59,20.2,1192.3,Two year,No,0.01581227307448386,Low Risk,Normal Customer
+8028-PNXHQ,62,24.25,1424.6,Two year,No,0.015640269333693495,Low Risk,Normal Customer
+1266-NZYUI,72,66.85,4758.8,Two year,DSL,0.015518664390274639,Low Risk,Normal Customer
+8882-TLVRW,69,39.1,2779.5,Two year,DSL,0.014893418823579618,Low Risk,Normal Customer
+2675-IJRGJ,53,19.65,978.0,Two year,No,0.01481639755144085,Low Risk,Normal Customer
+1657-DYMBM,53,19.9,1110.05,Two year,No,0.014769694515951864,Low Risk,Normal Customer
+0229-LFJAF,72,69.65,4908.25,Two year,DSL,0.014668651061117385,Low Risk,Normal Customer
+6349-JDHQP,53,19.85,1049.6,Two year,No,0.014653200467092321,Low Risk,Normal Customer
+6087-YPWHO,72,68.15,4808.7,Two year,DSL,0.014337806420400345,Low Risk,Normal Customer
+8957-THMOA,50,20.15,970.85,Two year,No,0.014285627165861549,Low Risk,Normal Customer
+3620-EHIMZ,52,19.35,1031.7,Two year,No,0.014066187104609336,Low Risk,Normal Customer
+1619-YWUBB,68,24.95,1614.9,Two year,No,0.013806748388663543,Low Risk,Normal Customer
+1167-OYZJF,67,20.05,1263.05,Two year,No,0.013660087039051732,Low Risk,Normal Customer
+9565-AXSMR,52,19.2,1054.75,Two year,No,0.013598641615921218,Low Risk,Normal Customer
+3646-ITDGM,56,19.7,1051.9,Two year,No,0.013559280519116096,Low Risk,Normal Customer
+7169-YWAMK,72,68.4,4855.35,Two year,DSL,0.013441712741919585,Low Risk,Normal Customer
+7427-AUFPY,54,19.65,1008.7,Two year,No,0.013283754385054553,Low Risk,Normal Customer
+1926-QUZNN,72,25.25,1841.2,Two year,No,0.012834102161950346,Low Risk,Normal Customer
+4737-AQCPU,72,72.1,5016.65,Two year,DSL,0.012408043646547138,Low Risk,Normal Customer
+9337-SRRNI,66,25.3,1673.8,Two year,No,0.012320314782584045,Low Risk,Normal Customer
+5115-SQAAU,69,25.6,1673.4,Two year,No,0.012239819477400828,Low Risk,Normal Customer
+6917-FIJHC,72,26.0,1776.0,Two year,No,0.01215418299901698,Low Risk,Normal Customer
+4990-ALDGW,57,20.75,1118.8,Two year,No,0.012125110653138876,Low Risk,Normal Customer
+0374-FIUCA,65,20.4,1414.45,Two year,No,0.012022677408441953,Low Risk,Normal Customer
+8464-EETCQ,57,18.8,1094.35,Two year,No,0.011744239558161122,Low Risk,Normal Customer
+4176-RELJR,67,25.1,1672.15,Two year,No,0.011708367493400281,Low Risk,Normal Customer
+3454-JFUBC,68,20.0,1396.0,Two year,No,0.011671560580426598,Low Risk,Normal Customer
+2900-PHPLN,70,19.55,1462.05,Two year,No,0.01158885201844034,Low Risk,Normal Customer
+2097-YVPKN,65,25.75,1654.75,Two year,No,0.011358883290967646,Low Risk,Normal Customer
+9286-BHDQG,72,45.25,3139.8,Two year,DSL,0.011346264169396752,Low Risk,Normal Customer
+1460-UZPRJ,60,19.95,1258.15,Two year,No,0.011226345035448051,Low Risk,Normal Customer
+3498-LZGQZ,63,19.15,1177.05,Two year,No,0.01113322834717188,Low Risk,Normal Customer
+3563-SVYLG,68,62.65,4375.8,Two year,DSL,0.010756439797632213,Low Risk,Normal Customer
+9972-EWRJS,67,19.25,1372.9,Two year,No,0.01036067124207151,Low Risk,Normal Customer
+6010-DDPPW,70,25.15,1940.85,Two year,No,0.010243225470414211,Low Risk,Normal Customer
+4443-EMBNA,71,24.75,1836.9,Two year,No,0.009907804890799968,Low Risk,Normal Customer
+4589-IUAJB,70,24.25,1724.15,Two year,No,0.00973886015317565,Low Risk,Normal Customer
+9153-BTBVV,71,25.0,1753.0,Two year,No,0.009698466615639282,Low Risk,Normal Customer
+4231-LZUYM,72,25.65,1887.0,Two year,No,0.009524581440420609,Low Risk,Normal Customer
+9397-TZSHA,69,24.6,1678.05,Two year,No,0.009500568395485527,Low Risk,Normal Customer
+2169-RRLFW,71,25.6,1888.25,Two year,No,0.009348328692836808,Low Risk,Normal Customer
+6848-HJTXY,64,19.45,1208.6,Two year,No,0.009204905603189735,Low Risk,Normal Customer
+7161-DFHUF,71,23.85,1672.1,Two year,No,0.009200284637897072,Low Risk,Normal Customer
+2569-WGERO,72,21.15,1419.4,Two year,No,0.00918529067318912,Low Risk,Normal Customer
+7268-WNTCP,62,20.45,1297.35,Two year,No,0.009136750091940447,Low Risk,Normal Customer
+9574-BOSMD,68,25.4,1620.2,Two year,No,0.008960062357110601,Low Risk,Normal Customer
+4195-PNGZS,69,24.45,1718.2,Two year,No,0.008763942660415497,Low Risk,Normal Customer
+6963-KQYQB,70,24.05,1764.75,Two year,No,0.008482018490053462,Low Risk,Normal Customer
+5902-WBLSE,70,20.15,1411.2,Two year,No,0.00840935964573628,Low Risk,Normal Customer
+5730-DBDSI,66,19.7,1253.8,Two year,No,0.008387218286319643,Low Risk,Normal Customer
+1302-TPUBN,66,19.35,1240.8,Two year,No,0.008369277437257079,Low Risk,Normal Customer
+0397-ZXWQF,67,20.5,1430.95,Two year,No,0.008320755452845595,Low Risk,Normal Customer
+2718-YSKCS,71,19.6,1387.45,Two year,No,0.008200595669697932,Low Risk,Normal Customer
+5854-KSRBJ,70,25.4,1782.05,Two year,No,0.008149997645573951,Low Risk,Normal Customer
+5884-FBCTL,72,25.1,1857.85,Two year,No,0.008132147917491108,Low Risk,Normal Customer
+5146-YYFRZ,67,19.95,1311.75,Two year,No,0.008093768104213948,Low Risk,Normal Customer
+7515-LODFU,69,20.3,1356.3,Two year,No,0.008075144590108234,Low Risk,Normal Customer
+6976-BWGLQ,72,25.2,1787.35,Two year,No,0.0079899238303234,Low Risk,Normal Customer
+7969-FFOWG,65,19.9,1292.6,Two year,No,0.007607292832965697,Low Risk,Normal Customer
+8224-KDLKN,72,25.0,1738.9,Two year,No,0.007589213669336289,Low Risk,Normal Customer
+8966-SNIZF,70,19.45,1303.5,Two year,No,0.007513411573562072,Low Risk,Normal Customer
+4821-WQOYN,72,20.1,1326.25,Two year,No,0.007465854250935917,Low Risk,Normal Customer
+7010-BRBUU,72,24.1,1734.65,Two year,No,0.007099786349549115,Low Risk,Normal Customer
+7463-IFMQU,72,20.05,1423.65,Two year,No,0.007001568819593331,Low Risk,Normal Customer
+6060-QBMGV,70,19.85,1433.8,Two year,No,0.006952223634496773,Low Risk,Normal Customer
+3678-MNGZX,68,19.95,1377.7,Two year,No,0.006950606278300835,Low Risk,Normal Customer
+9537-JALFH,69,19.9,1356.7,Two year,No,0.006583861537735878,Low Risk,Normal Customer
+8750-QWZAJ,70,19.8,1378.75,Two year,No,0.006562322980755307,Low Risk,Normal Customer
+7083-MIOPC,72,20.25,1566.9,Two year,No,0.006547085925619137,Low Risk,Normal Customer
+8229-BUJHX,71,20.5,1500.95,Two year,No,0.0064246204716845385,Low Risk,Normal Customer
+5787-KXGIY,72,19.3,1304.8,Two year,No,0.0061137826953669245,Low Risk,Normal Customer
+1166-PQLGG,72,19.55,1463.45,Two year,No,0.006077270040433632,Low Risk,Normal Customer
+3279-DYZQM,71,19.45,1378.45,Two year,No,0.005791938933077384,Low Risk,Normal Customer
