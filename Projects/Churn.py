@@ -30,7 +30,7 @@ df = pd.read_csv("Projects/Churn.csv")
 #print(df)
 
 #print(df.head(5))
-#print(df.shape)
+print(df.shape)
 #print(df.columns)
 #df.duplicated
 #print(df.drop_duplicates)
@@ -217,12 +217,6 @@ print("------------------------ Confusion Matrix -------------------------------
 print(confusion_matrix(y_test, np_pred))
 print("--------------------------------------------------------------------------------------")
 
-corr = df.corr(numeric_only=True)
-print(corr)
-
-sns.heatmap(corr, annot=True)
-plt.title("HeatMap of Numerical Columns")
-plt.show(block=True)
 
 sns.histplot(data= df, x="gender" ,color = "#87cbf5", multiple="stack")
 plt.title("Category Based Members")
@@ -235,6 +229,12 @@ plt.title("CHURN")
 plt.xlabel("Churn (0=No , 1=Yes)")
 plt.show()
 
+corr = df.corr(numeric_only=True)
+print(corr)
+
+sns.heatmap(corr, annot=True)
+plt.title("HeatMap of Numerical Columns")
+plt.show(block=True)
 
 sns.boxplot(x="Churn", y="tenure",data=df,  hue="Churn", legend=False)
 plt.title("Churn VS Tenure")
@@ -267,7 +267,7 @@ warnings.filterwarnings("ignore", category=ConvergenceWarning)
 model_1 = LogisticRegression(random_state=42)
 
 param_grid = {
-     'C': [0.001, 0.01, 0.05, 0.1, 0.5, 1, 5, 10, 50, 100],
+    'C': [0.001, 0.01, 0.05, 0.1, 0.5, 1, 5, 10, 50, 100],
     'solver': ['lbfgs', 'liblinear', 'saga'],
     'class_weight' : [None, 'balanced']
 }
@@ -411,4 +411,4 @@ customer_risk_report.to_csv(
     index = False
 )
 
-print(" Customers Report Saved in as Customer Risk Report......")
+print("Customers Report Saved in as Customer Risk Report......")
